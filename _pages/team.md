@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /team/
 title: "Team"
 excerpt: "Past & new members of our research group."
 author_profile: true

@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /projects/
 title: "Projects"
 excerpt: "Ongoing & completed research projects."
 author_profile: true

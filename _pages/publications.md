@@ -8,55 +8,50 @@ redirect_from:
   - /pubs
 ---
 
-# Journal Papers
-------
-
-## Operations Management and Data Science
-
 Reassessment and monitoring of loan applications with machine
-learning, with Z. Boz, D. Günneç and M. K. Öztürk, submitted.
-
-Development of a decision support system using data analytics
-for customer churn prediction for an online retailer, with
-B. Yüceoğlu and I. Öztürk, /submitted/.
+learning, with Z. Boz, D. Günneç and M. K. Öztürk, **Applied Artificial Intelligence**, 32(9-10), 939-955, 2018.
+[(DOI)](https://doi.org/10.1080/08839514.2018.1525517).
 
 Decomposition methods for solving dynamic programming problems
-in hotel revenue management, with N. Aydın, /submitted/.
+in hotel revenue management, with N. Aydın, **European Journal of Operational Research**,
+271(1), 179-192, 2018. 
+[(DOI)](https://doi.org/10.1016/j.ejor.2018.05.027)
 
-Managing disruptions in the multi-depot vehicle scheduling Problem,
-with E. Uçar and İ. Muter, to appear in **Transportation Research Part
-B**, (2017).
+Managing disruptions in the multi-depot vehicle scheduling problem,
+with E. Uçar and İ. Muter, **Transportation Research Part B: Methodological**, 105, 249-269, 2017. 
+[(DOI)](https://doi.org/10.1016/j.trb.2017.09.002)
 
 Delayed purchase options in single-leg revenue management, with
-N. Aydın and H. Topaloğlu, **Transportation Science**, /online first/. [http://dx.doi.org/10.1287/trsc.2015.0643](DOI)
+N. Aydın and H. Topaloğlu, **Transportation Science**, 51(4), 1031-1386, ii, 2016. 
+[(DOI)](http://dx.doi.org/10.1287/trsc.2015.0643)
 
 A network airline revenue management framework based on
 decomposition by origins and destinations, with J. B. G. Frenk,
 J. Gromicho and S. Zhang, **Transportation Science**, 48(3),
-313-333, 2013. [http://dx.doi.org/10.1287/trsc.2013.0469](DOI)
+313-333, 2013. [(DOI)](http://dx.doi.org/10.1287/trsc.2013.0469)
 
 Single-leg airline revenue management with overbooking, with
 N. Aydın, J. B. G. Frenk and N. Noyan, **Transportation Science**,
-47(4), 560-583, 2013. [http://dx.doi.org/doi:10.1287/trsc.1120.0444](DOI)
+47(4), 560-583, 2013. [(DOI)](http://dx.doi.org/doi:10.1287/trsc.1120.0444)
 
 Solving a robust airline crew pairing problem with column
 generation, with İ. Muter, K. Bülbül, G. Şahin,
-H. Yenigün, D. Ta\c{s} and D. Tüzün, **Computers
-  and Operations Research**, 40(3), 815-830, (2013). [http://dx.doi.org/10.1016/j.cor.2010.11.005](DOI)
+H. Yenigün, D. Ta\c{s} and D. Tüzün, **Computers and Operations Research**, 40(3), 815-830, 2013. 
+[(DOI)](http://dx.doi.org/10.1016/j.cor.2010.11.005)
 
 Tractable open loop policies for joint overbooking and capacity
 control over a single flight leg with multiple fare classes, with
-J. B. G. Frenk, N. Noyan and H. Topaloğlu, **Transportation Science**, 46(4), 460-481, (2012). [http://dx.doi.org/10.1287/trsc.1110.0403](DOI)
+J. B. G. Frenk, N. Noyan and H. Topaloğlu, **Transportation Science**, 46(4), 460-481, 2012. 
+[(DOI)(http://dx.doi.org/10.1287/trsc.1110.0403)]
 
 The role of robust optimization in single-leg airline revenue
 management, with J. B. G. Frenk, J. Gromicho and S. Zhang,
-**Management Science**, 55(1), 148-163, (2009). [http://dx.doi.org/10.1287/mnsc.1070.0843](DOI)
+**Management Science**, 55(1), 148-163, 2009. 
+[(DOI)](http://dx.doi.org/10.1287/mnsc.1070.0843)
 
 Robust crew pairing for managing extra flights, H. Tekiner and
 K. Bülbül, **Computers and Operations Research**, 36(6), 2031-2048,
-(2009). [http://dx.doi.org/10.1016/j.cor.2008.07.005](DOI)
-
-## Nonlinear Programming
+2009. [(DOI)](http://dx.doi.org/10.1016/j.cor.2008.07.005)
 
 HAMSI: Distributed incremental optimization algorithm using
 quadratic approximations for partially separable problems, with

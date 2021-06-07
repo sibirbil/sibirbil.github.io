@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Komut Satırında Yapılabilecek Birkaç Numara</title>
+<!-- 2016-09-20 Tue 10:02 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="Ş. İlker Birbil" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Komut Satırında Yapılabilecek Birkaç Numara</h1>
+<p>
+Linux ve Apple bilgisayarlarda kurulumla birlikte gelen bir terminal
+programı vardır. Eğer Windows bir makinede çalışılacaksa, terminal
+kullanmak için <a href="https://www.cygwin.com">Cygwin</a> yüklenebilir. Bu arada Windows 10 için doğrudan
+bir <a href="http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/">kurulum yapmak</a> da mümkünmüş.
+</p>
+
+<p>
+Bu terminal sayesinde, özellikle Unix işletim sistemleri için
+geliştirilmiş, oldukça güçlü bazı komutları kullanabilirsiniz. Bu
+komutlar dizinler arasında gezmeye, dosyalara göz atmaya ve işletim
+sisteminden hızlıca bilgi almaya yararlar.
+</p>
+
+<p>
+Bu yazıda ayrıntılı komutlara, hele hele işletim sistemine yapılan
+detaylı sorgulara girmeyeceğiz. Önceliğimiz en basit komutları
+öğrenmek, dosyaları kurcalamak ve tablo halindeki veriyi
+işlemek. Hatta tüm bunlara hızlı bir giriş yapacağız demeliyim. Asıl
+amacım sizleri komut satırını kullanmaya ikna etmek ve merak
+uyandırmak. Eğer bu yazıdan sonra terminal kullanmaya başlayıp, yeni
+komutları internette aramaya koyulduysanız, amacıma fazlasıyla
+ulaşmışım demektir.
+</p>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Temel Komutlar</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Eğer kurulum safhasını tamamladıysanız, terminali çalıştırdığınızda
+karşınıza şuna benzer bir ekran çıkar:
+</p>
+
+<div class="figure">
+<p><img src="./resim/terminal.png" alt="terminal.png" width="600px" />
+</p>
+</div>
+
+<p>
+Ben bu yazıyı Apple marka bir bilgisayarda yazıyorum. Onun için sizin
+açtığınız terminal programının görüntüsü farklı olabilir. Örneğin arka
+planı açık renktir ya da yazı karakterleri farklıdır. Bu ekranda
+</p>
+
+<p>
+<code>sibirbil at sib-mbp [~]$</code>
+</p>
+
+<p>
+ile başlayan kısım komut satırını gösteriyor. Kabaca bir hesap
+makinesi ekranı gibi düşünebilirsiniz. Bu yazının kalanında
+göreceğiniz komutları işte bu satıra yazacağız.
+</p>
+
+<p>
+Malum, bilgisayarlar ile ilgili bir yazıya "Merhaba Dünya" demeden
+başlanmaz. Komut satırında ekrana bir yazı yazdırmak için <code>echo</code> komutu
+kullanılıyor.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">echo "Merhaba Dünya"
+</pre>
+</div>
+
+<pre class="example">
+Merhaba Dünya
+</pre>
+
+<p>
+Şimdi dizinler arasında dolaşmaya bir bakalım. İlk komutumuz
+<code>pwd</code>. İngilizce <i>print working directory</i> kelimelerinin baş harflerinden
+oluşuyor. Bu komut içinde bulunduğumuz dizini gösterir.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">pwd
+</pre>
+</div>
+
+<pre class="example">
+/Users/sibirbil/Dropbox/ToDo/UnixKomutSatiri
+</pre>
+
+<p>
+Bulunduğumuz dizin içindeki dosyaları ve dizinleri görmek içinse
+<i>list</i> sözcüğünün kısaltması <code>ls</code> komutunu kullanıyoruz.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">ls
+</pre>
+</div>
+
+<pre class="example">
+UnixKomutSatiri.html
+UnixKomutSatiri.org
+resim
+</pre>
+
+<p>
+Burada dizinin içindeki dosyaları ve "resim" isimli dizini
+görüyorsunuz. Sırada dizinler arasında geçiş yapma var. Bunun için
+<i>change directory</i> kısaltması <code>cd</code> kullanılıyor. Şimdi "resim" dizinine
+geçip, içindekilere bakabiliriz.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">cd resim; ls
+</pre>
+</div>
+
+<pre class="example">
+terminal.png
+</pre>
+
+<p>
+Dikkat ederseniz iki komutu, <code>cd</code> ve <code>ls</code>, tek satırda yazmak için arada
+noktalı virgül kullandık. Bu sayede önce "resim" dizinine geçtik ve
+oradaki dosyaları listeledik. Tam bu aşamada iki özel dizinden
+bahsetmekte fayda var. Şu an çalıştığınız dizin için "."  üstteki
+dizin içinse ".." kullanılıyor.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">cd ..; ls
+</pre>
+</div>
+
+<pre class="example">
+UnixKomutSatiri.html
+UnixKomutSatiri.org
+resim
+</pre>
+
+<p>
+Komut satırında joker karakterler kullanmak işleri hızlandıracaktır.
+Yani bu karakterler bir ya da birden fazla karakterin yerine
+giriyorlar. Önemli bir kısmını <a href="http://www.linfo.org/wildcard.html">şu sayfada</a> özetlemişler. Ben sadece
+birini anlatacağım; "*" karakteri. Bu sembol bilinmeyen sayıdaki
+karakter dizisi yerine kullanılıyor. Aşağıdaki komut ile uzantısı
+".org" olan tüm dosyaları listeleyebiliyoruz:
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">ls *.org
+</pre>
+</div>
+
+<pre class="example">
+UnixKomutSatiri.org
+</pre>
+
+<p>
+Ya da bu yazının dosyalarına bakabiliriz:
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">ls Unix*.*
+</pre>
+</div>
+
+<pre class="example">
+UnixKomutSatiri.html
+UnixKomutSatiri.org
+</pre>
+
+<p>
+Az sonra dosyalarla uğraşmaya başlayacağız. Tabii başka komutlar
+göreceğiz. O aşamaya geçmeden önce bir hatırlatma yapayım. Burada
+komutların en basit hallerini kullanıyorum. Aslında çok daha farklı
+numaraları var. Eğer herhangi bir komutun kullanımlarını ve
+seçeneklerini incelemek isterseniz <code>man</code> komutunu kullanarak yardım
+alabilirsiniz:
+</p>
+
+<p>
+<code>man &lt;komut_ismi&gt;</code>
+</p>
+
+<p>
+Örneğin
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">man ls
+</pre>
+</div>
+
+<p>
+Şimdi ilk fırsatınızda dosya kopyalama (<code>cp</code>), dosya taşıma ya da isim
+değiştirme (<code>mv</code>) ve dosya silme (<code>rm</code>) komutlarını öğrenebilirsiniz.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Metin İşleme</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+Önce "metin" ile ne demek istediğimizi anlatmaya
+çalışayım. Bilgisayarda dokümanlar genelde iki formatta kaydedilir:
+ikili (<i>binary</i>) ve metin (<i>text</i>). Örneğin MS Word ile yazılan bir yazı,
+uzantısı ".docx" olacak şekilde ikili formatta kaydedilecektir. Öte
+yandan içinde çalıştığımız bu dizinde yer alan ".org" ve ".csv"
+dosyaları metin formatında kaydedilmişlerdir. Metin dosyalarının
+içindekilere baktığımızda okuyabileceğimiz harfler ve sayılar
+görürüz. Ancak ikili dosyaları açmak için özel programlara ihtiyacımız
+vardır. Örneğimize dönersek, ".doc" uzantısı ile kaydedilen bir
+dosyayı açmak MS Word ya da Libre Office gibi bir program
+kullanırız. Bu çok da büyük bir kısıtlama olarak düşünülmesin. İkili
+dosyalarla çalışan programların pek çoğu farklı biçemlerde kaydetme
+seçeneği sunarlar. Örneğin MS Word dosyalarını ".txt" uzantılı olarak
+ya da MS Excel dosyalarını ".csv" olarak metin formatında
+kaydedebilirsiniz.
+</p>
+
+<p>
+Biz bu kısımda metin biçiminde dosyaları kurcalayacağız. Önce araya
+kullanışlı başka bir komut sıkıştırayım. İnternetten tam adresini
+bulduğunuz bir dosyayı <code>wget</code> komutu ile
+indirebilirsiniz. Shakespeare'in ünlü oyunu Hamlet'i kendi sayfamın
+altında bir yere koydum. Oradan indirelim.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-sh">wget http://people.sabanciuniv.edu/sibirbil/komutsatiri/hamlet.txt
+</pre>
+</div>
+
+<p>
+Bakalım inmiş mi.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">ls *.txt
+</pre>
+</div>
+
+<pre class="example">
+hamlet.txt
+</pre>
+
+<p>
+Bir dosyanın içindekileri ekrana yazmak için <code>cat</code> komutunu
+kullanabiliriz. Ancak bu durumda dosyanın tamamı terminal ekranında
+akıp gidecektir. 
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">cat hamlet.txt
+</pre>
+</div>
+
+<p>
+Eğer bu tür uzunca bir dosyaya yavaş yavaş göz atmak isterseniz <code>more</code>
+komutu daha uygun olur. Yukarı-aşağı tuşları ile satırlar arasında
+gezebilirsiniz. Boşluk tuşuna basarak da sayfa sayfa atlamanız mümkün.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">more hamlet.txt
+</pre>
+</div>
+
+<p>
+Diğer iki seçenek de <code>head</code> ve <code>tail</code> komutları. Herhangi bir dosyanın en
+başındaki ve en sonundanki belirli sayıda satırı gösteriyorlar. Bu
+komutlara verdiğimiz <code>-n</code> seçeneği ile görmek istediğimiz satır sayısını
+belirliyoruz. Haydi, ilk 15 satıra bir bakalım.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">head -n 15 hamlet.txt
+</pre>
+</div>
+
+<pre class="example">
+
+1604
+
+
+THE TRAGEDY OF HAMLET, PRINCE OF DENMARK
+
+
+by William Shakespeare
+
+
+
+Dramatis Personae
+
+  Claudius, King of Denmark.
+  Marcellus, Officer.
+</pre>
+
+<p>
+Pek çok komutun <code>-n</code> gibi verilecek seçenekleri var. Bir önceki bölümde
+yazdığım gibi <code>man</code> kullanarak komutların seçeneklerine
+bakabilirsiniz. Şimdi de Hamlet'in sondan 10 satırını görelim.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">tail hamlet.txt
+</pre>
+</div>
+
+<pre class="example">
+    The soldiers' music and the rites of war
+    Speak loudly for him.
+    Take up the bodies. Such a sight as this
+    Becomes the field but here shows much amiss.
+    Go, bid the soldiers shoot.
+            Exeunt marching; after the which a peal of ordnance
+                                                   are shot off.  
+
+
+THE END
+</pre>
+
+<p>
+Dikkat ederseniz <code>tail</code> komutunu kullanırken satır sayısı
+vermedik. Çünkü her iki komut için de öntanımlı satır sayısı 10. 
+Bazen bir dosyanın tamamı yerine belirli aralıktaki satırlarını görmek
+isteyebiliriz. Bunu yapmak için bir seçenek <code>sed</code> komutunu
+kullanmak. Aşağıdaki komut ile dosyanın 35. ile 40. satırları arasını
+görebiliriz:
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">sed -n "35,40p" hamlet.txt
+</pre>
+</div>
+
+<pre class="example">
+  English Ambassadors.
+
+  Getrude, Queen of Denmark, mother to Hamlet.
+  Ophelia, daughter to Polonius.
+
+  Ghost of Hamlet's Father.
+</pre>
+
+<p>
+Bu işin uzmanları <code>sed</code> komutunun böyle bir kullanımını görünce çok
+kızacaklar eminim. Haklılar. Gerçekten de <code>sed</code> ile pek çok şey yapmanız
+mümkün. Bu konuda yazılmış bir <a href="http://shop.oreilly.com/product/9781565922259.do">kitap</a> bile var. Ama başlangıç
+seviyesindeki böyle bir yazıda dahi olsa, en azından bir duymuş olun
+diye kullanayım istedim.
+</p>
+
+<p>
+Metin dosyaları söz konusu olduğu zaman en çok kullanılan komutlardan
+birisi dosya içinde bir kelimeyi aramak. Bunun için kullanacağımız
+komut <code>grep</code>. Kullanımı en basit haliyle şu şekilde
+</p>
+
+<p>
+<code>grep &lt;aranacak kelime&gt; dosya</code>
+</p>
+
+<p>
+Hamlet'in abayı yaktığı Ophelia, metinde hangi satırlarda geçiyor diye
+bakabiliriz.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">grep Ophelia hamlet.txt
+</pre>
+</div>
+
+<pre class="example">
+  Ophelia, daughter to Polonius.
+Polonius, Laertes and his sister Ophelia, [Voltemand, Cornelius,]
+Enter Laertes and Ophelia.
+    Fear it, Ophelia, fear it, my dear sister,
+  Laer. Farewell, Ophelia, and remember well
+  Pol. What is't, Ophelia, he hath said to you?
+    Than may be given you. In few, Ophelia,
+                       Enter Ophelia.
+    How now, Ophelia? What's the matter?
+      Ophelia,'-
+      'O dear Ophelia, I am ill at these numbers; I have not art to
+Enter King, Queen, Polonius, Ophelia, Rosencrantz, Guildenstern, and Lords.
+    Affront Ophelia.  
+    And for your part, Ophelia, I do wish
+  Pol. Ophelia, walk you here.- Gracious, so please you,
+    We will bestow ourselves.- [To Ophelia] Read on this book,
+    The fair Ophelia!- Nymph, in thy orisons
+    Sprung from neglected love.- How now, Ophelia?
+    march. [Enter King, Queen, Polonius, Ophelia, Rosencrantz,
+                                  [Sits down at Ophelia's feet.]  
+                 Enter Ophelia distracted.
+  Queen. How now, Ophelia?
+  Queen. Nay, but Ophelia-
+  King. Pretty Ophelia!
+    In hugger-mugger to inter him; Poor Ophelia
+                      Enter Ophelia.  
+    Dear maid, kind sister, sweet Ophelia!
+  Laer. Too much of water hast thou, poor Ophelia,
+  Ham. What, the fair Ophelia?
+  Ham. I lov'd Ophelia. Forty thousand brothers
+</pre>
+
+<p>
+Hangi satırlarda geçtiğini yazdırmak isterseniz tek yapmanız gereken <code>grep</code>
+komutuna <code>-n</code> seçeneğini vermek.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">grep -n Ophelia hamlet.txt
+</pre>
+</div>
+
+<pre class="example">
+38:  Ophelia, daughter to Polonius.
+268:Polonius, Laertes and his sister Ophelia, [Voltemand, Cornelius,]
+560:Enter Laertes and Ophelia.
+597:    Fear it, Ophelia, fear it, my dear sister,
+652:  Laer. Farewell, Ophelia, and remember well
+657:  Pol. What is't, Ophelia, he hath said to you?
+695:    Than may be given you. In few, Ophelia,
+1143:                       Enter Ophelia.
+1145:    How now, Ophelia? What's the matter?
+1329:      Ophelia,'-
+1343:      'O dear Ophelia, I am ill at these numbers; I have not art to
+1846:Enter King, Queen, Polonius, Ophelia, Rosencrantz, Guildenstern, and Lords.
+1883:    Affront Ophelia.  
+1891:    And for your part, Ophelia, I do wish
+1898:  Pol. Ophelia, walk you here.- Gracious, so please you,
+1899:    We will bestow ourselves.- [To Ophelia] Read on this book,
+1949:    The fair Ophelia!- Nymph, in thy orisons
+2039:    Sprung from neglected love.- How now, Ophelia?
+2152:    march. [Enter King, Queen, Polonius, Ophelia, Rosencrantz,
+2176:                                  [Sits down at Ophelia's feet.]  
+3169:                 Enter Ophelia distracted.
+3172:  Queen. How now, Ophelia?
+3188:  Queen. Nay, but Ophelia-
+3219:  King. Pretty Ophelia!
+3251:    In hugger-mugger to inter him; Poor Ophelia
+3342:                      Enter Ophelia.  
+3348:    Dear maid, kind sister, sweet Ophelia!
+3679:  Laer. Too much of water hast thou, poor Ophelia,
+3942:  Ham. What, the fair Ophelia?
+3979:  Ham. I lov'd Ophelia. Forty thousand brothers
+</pre>
+
+<p>
+Toplam kaç satırda geçtiğine bakacaksanız <code>-c</code> komutunu
+kullanmalısınız. 
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">grep -c Ophelia hamlet.txt
+</pre>
+</div>
+
+<pre class="example">
+30
+</pre>
+
+<p>
+Eğer arayacağınız tek bir kelime değil de, kelime öbeği ise
+aranacak ifadeyi tırnak içinde yazmanız yeterli.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">grep "Enter Hamlet" hamlet.txt
+</pre>
+</div>
+
+<pre class="example">
+Enter Hamlet, Horatio, and Marcellus.
+                 Enter Hamlet, reading on a book.
+                           Enter Hamlet.
+Enter Hamlet and three of the Players.
+                         Enter Hamlet.
+                          Enter Hamlet.
+Enter Hamlet.
+        Enter Hamlet and Guildenstern [with Attendants].
+       Enter Hamlet, Rosencrantz, [Guildenstern,] and others.
+                 Enter Hamlet and Horatio afar off.
+Enter Hamlet and Horatio.
+</pre>
+
+<p>
+Bir dosyanın içindeki harfleri, kelimeleri ve satırları saymak için
+<code>wc</code> komutunu kullanıyoruz. 
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">wc hamlet.txt
+</pre>
+</div>
+
+<pre class="example">
+4463   31956  196197 hamlet.txt
+</pre>
+
+<p>
+Buradaki sayılar sırasıyla toplam satır, toplam kelime ve toplam
+karakter sayılarını ifade ediyor. Bu komuta <code>-l</code>, <code>-w</code> ve <code>-c</code>
+seçeneklerini vererek sadece bir sayıya bakabiliriz.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-sh">wc -l hamlet.txt
+</pre>
+</div>
+
+<pre class="example">
+4463 hamlet.txt
+</pre>
+
+<p>
+Şimdi daha ilginç bir işe soyunalım. Hamlet oyununda "the" kelimesi
+bakalım kaç kere geçiyor. Bunu yapmak için önce "the" kelimesini <code>grep</code>
+komutu ile aramalı, sonra da çıkan sonuçları <code>wc</code> komutuna
+göndermeliyiz. Ayrı ayrı komutları kullanmak tamam da, bir komutun
+çıktısını diğerine girdi nasıl yapacağız? Bunun için "|" işareti
+kullanılıyor. Bu işarete, İngilizce "boru" anlamına gelen <i>pipe</i>
+deniyor. Komutları borularla birbiri ardına döşüyoruz diye
+düşünebiliriz sanırım.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-sh">grep the hamlet.txt | wc -l
+</pre>
+</div>
+
+<pre class="example">
+1356
+</pre>
+
+<p>
+Fakat burada ufak bir sorun var. Ya bir satırda "the" kelimesi birkaç
+kere geçiyorsa. Malum biz her satırı sadece bir kere sayıyoruz. Neyse
+ki <code>grep</code> komutuna <code>-o</code> seçeneğini verirsek, satırların tamamını değil
+aranan kelimelerin kendisini gösteriyor.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">grep -n -o "Enter Hamlet" hamlet.txt
+</pre>
+</div>
+
+<pre class="example">
+714:Enter Hamlet
+1401:Enter Hamlet
+1914:Enter Hamlet
+2058:Enter Hamlet
+2579:Enter Hamlet
+2625:Enter Hamlet
+2931:Enter Hamlet
+2995:Enter Hamlet
+3074:Enter Hamlet
+3750:Enter Hamlet
+4022:Enter Hamlet
+</pre>
+
+<p>
+O zaman daha doğru bir sayma işlemi yapabiliriz.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">grep -o the hamlet.txt | wc -l
+</pre>
+</div>
+
+<pre class="example">
+1656
+</pre>
+
+<p>
+Tam 300 tane daha "the" kelimesi bulduk. Güzel. Fakat hâlâ bir sorunumuz
+var. Maalesef <code>grep</code> komutu büyük küçük harfleri ayırıyor. O nedenle
+sayma işlemi sırasında "The" kelimelerini alamadık. Onun da çaresi
+<code>-i</code> seçeneğini vermek.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">grep -i -o the hamlet.txt | wc -l
+</pre>
+</div>
+
+<pre class="example">
+1929
+</pre>
+
+<p>
+Sonunda doğru saymayı başardık. 
+</p>
+
+<p>
+Artık bir komutun çıktılarını bir dosyaya yazmayı konuşabiliriz. Bu
+oldukça kolay. Tek yapmanız gereken <code>&gt;</code> karakterini takiben çıktının
+yazılacağı dosya ismini vermek. Örneğin, içinde Ophelia geçen
+satırları "ophelia.txt" diye bir dosyaya yazalım:
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">grep Ophelia hamlet.txt &gt; ophelia.txt
+</pre>
+</div>
+
+<p>
+Bakalım nasıl oldu.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">head ophelia.txt
+</pre>
+</div>
+
+<pre class="example">
+  Ophelia, daughter to Polonius.
+Polonius, Laertes and his sister Ophelia, [Voltemand, Cornelius,]
+Enter Laertes and Ophelia.
+    Fear it, Ophelia, fear it, my dear sister,
+  Laer. Farewell, Ophelia, and remember well
+  Pol. What is't, Ophelia, he hath said to you?
+    Than may be given you. In few, Ophelia,
+                       Enter Ophelia.
+    How now, Ophelia? What's the matter?
+      Ophelia,'-
+</pre>
+
+<p>
+Eğer bir dosyanın üzerine yazmak yerine sonuna eklemek istersek o
+durumda <code>&gt;&gt;</code> işaretini kullanıyoruz. Şimdi "ophelia.txt" dosyasının
+sonuna Ophelia'nın babası Polonius'un geçtiği satırları ekleyelim:
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">grep Polonius hamlet.txt &gt;&gt; ophelia.txt
+</pre>
+</div>
+
+<p>
+Dosyanın sonuna bir göz atalım bakalım eklenmiş mi?
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">tail -n 5 ophelia.txt
+</pre>
+</div>
+
+<pre class="example">
+                                                     Polonius.
+  Hamlet in madness hath Polonius slain,
+King. Now, Hamlet, where's Polonius?
+King. Where is Polonius?
+  For good Polonius' death, and we have done but greenly
+</pre>
+
+<p>
+Metin işleme derya gibi konu. Sadece birkaç komut ile hafif bir
+başlangıç yaptık. Daha ötesini öğrenmek isterseniz internette pek çok
+kitap bulabilirsiniz. Açıkçası kitaptan önce komut satırıyla haşır
+neşir olun derim. Sonrasında Google ile arama yaptığınızda her işinize
+bir cevap bulacağınızdan eminim.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Tablolar</h2>
+<div class="outline-text-2" id="text-3">
+<p>
+Gelelim içinde tablo halinde veri olan metin dosyalarına. Hemen bir
+tanesini indirelim.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">wget http://people.sabanciuniv.edu/sibirbil/komutsatiri/titanic.csv
+</pre>
+</div>
+
+<p>
+İndirdiğimiz dosyada bir tablo var.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">head titanic.csv
+</pre>
+</div>
+
+<pre class="example">
+survived,pclass,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked
+0,3,"Braund, Mr. Owen Harris",male,22,1,0,A/5 21171,7.25,,S
+1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,0,PC 17599,71.2833,C85,C
+1,3,"Heikkinen, Miss. Laina",female,26,0,0,STON/O2. 3101282,7.925,,S
+1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,1,0,113803,53.1,C123,S
+0,3,"Allen, Mr. William Henry",male,35,0,0,373450,8.05,,S
+0,3,"Moran, Mr. James",male,,0,0,330877,8.4583,,Q
+0,1,"McCarthy, Mr. Timothy J",male,54,0,0,17463,51.8625,E46,S
+0,3,"Palsson, Master. Gosta Leonard",male,2,3,1,349909,21.075,,S
+1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27,0,2,347742,11.1333,,S
+</pre>
+
+<p>
+Bu tablo Titanic yolcularının listesinin bir kısmını gösteriyor. İlk
+satırda tablo başlıkları var. Ondan sonraki her satır da bir yolcuya
+karşılık geliyor. İlk önce toplam kaç yolcudan bahsediyoruz bir
+bakalım.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">wc -l titanic.csv
+</pre>
+</div>
+
+<pre class="example">
+892 titanic.csv
+</pre>
+
+<p>
+İlk satırda başlıklar olduğuna göre toplam 891 yolcu var.
+</p>
+
+<p>
+Bu tür tablolarda en sık yapılan işlemlerden birisi bir satırı ya da
+bir sütunu görmek. Satır için yine <code>sed</code>
+kullanabiliriz. Örneğin 3. satıra bir bakalım.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">sed -n 3p titanic.csv
+</pre>
+</div>
+
+<pre class="example">
+1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,0,PC 17599,71.2833,C85,C
+</pre>
+
+<p>
+Bu tabloda ilk sütun ilgili satıdaki yolcunun kazadan sağ kurtulup
+kurtulmadığını gösteriyor. Bir sütundaki sayıları almak için <code>cut</code>
+komutunu kullanıyoruz. Bu komuta <code>-f</code> seçeneği ile sütun sayısını, <code>-d</code>
+seçeneği ile de hangi karakter ile sütunların ayrıldığını belirtiyoruz.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-sh">cut -f 1 -d ',' titanic.csv | head
+</pre>
+</div>
+
+<pre class="example">
+survived
+0
+1
+1
+1
+0
+0
+0
+0
+1
+</pre>
+
+<p>
+Ama bize ilk satır lazım değil. Bu noktada tekrar <code>tail</code> komutunu
+kullanabiliriz. Eğer <code>tail</code> ile birlikte <code>-n</code> seçeneğinden sonra <code>+k</code>
+yazılırsa, baştan k satırı atlayarak sonuna kadar dosyayı gösteriyor. O
+zaman ilk satırdan şu şekilde kurtulabiliriz:
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-sh">cut -f 1 -d ',' titanic.csv | tail -n +2 | head
+</pre>
+</div>
+
+<pre class="example">
+0
+1
+1
+1
+0
+0
+0
+0
+1
+1
+</pre>
+
+<p>
+Hiç fena değil. Her seferinde ilk satırı çıkarmakla
+uğraşmayalım. Dosyayı ilk satır olmadan "titanicbasliksiz.csv" isminde
+yeni bir dosyaya yazalım.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">tail -n +2 titanic.csv &gt; titanicbasliksiz.csv
+</pre>
+</div>
+
+<p>
+Tamamdır. Artık yeni dosyamızı kullanabiliriz. İlk önce sağ kalan
+insan sayısına bakalım. Bunun için <code>grep</code> komutundan yararlanabiliriz.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">cut -f 1 -d ',' titanicbasliksiz.csv | grep 1 | wc -l
+</pre>
+</div>
+
+<pre class="example">
+342
+</pre>
+
+<p>
+Beşinci sütun yolcunun cinsiyetini gösteriyor. Bakalım kaç tane kadın
+yolcu varmış.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">cut -f 5 -d ',' titanicbasliksiz.csv | grep female | wc -l
+</pre>
+</div>
+
+<pre class="example">
+314
+</pre>
+
+<p>
+Peki ya sağ kalan kadın sayısına bakabilir miyiz?
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">cut -f 1,5 -d ',' titanicbasliksiz.csv | grep "1,female" | wc -l
+</pre>
+</div>
+
+<pre class="example">
+233
+</pre>
+
+<p>
+Dikkat ederseniz bakmak istediğim iki sütun için <code>cut</code> komutunun <code>-f</code>
+seçeneğinden sonra sütun numaralarını yazdım.
+</p>
+
+<p>
+Son olarak biraz daha zorlu bir örnek düşünelim. Dosyanın 6. sütununda
+insanların yaşları var. Bu yaşları toplamak istesek nasıl
+yapacağız. Basit bir hesap işi olduğu için <code>bc</code> komutuna ihtiyacımız
+var. Bu komuta temel işlemleri verdiğimiz zaman sonucu ekranda
+gösteriyor.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">echo "(3+4)*6" | bc
+</pre>
+</div>
+
+<pre class="example">
+42
+</pre>
+
+<p>
+İlk işimiz 6. sütunu almak olsun.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">cut -f 6 -d ',' titanicbasliksiz.csv | head
+</pre>
+</div>
+
+<pre class="example">
+22
+38
+26
+35
+35
+
+54
+2
+27
+14
+</pre>
+
+<p>
+Bazı yolcuların yaşları girilmemiş. O satırları atlayalım. Bunu yapmak
+için yine <code>grep</code> komutu imdadımıza koşacak.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">cut -f 6 -d ',' titanicbasliksiz.csv | grep -v "^$" | head
+</pre>
+</div>
+
+<pre class="example">
+22
+38
+26
+35
+35
+54
+2
+27
+14
+4
+</pre>
+
+<p>
+Burada <code>-v</code> seçeneği, aradığımız kelimenin <i>dışındaki</i> satırları göstermek
+için kullanılıyor. Ardından gelen <code>^$</code> ifadesi ise boş satırlar
+anlamında. Yani bu <code>grep</code> komutu boş olmayan satırları göster anlamına
+geliyor. 
+</p>
+
+<p>
+Gelelim bir sonraki aşamaya. Bu sayıları <code>bc</code> komutuna alt alta
+veremiyoruz. Her satırdan sonra + işaretine ihtiyacımız var. Bunun
+için de <code>paste</code> komutunu kullanabiliriz. Bu komut, adı üstünde,
+dosyalardaki satırları birleştirmek için kullanılıyor. İsterseniz
+deneyelim.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">ls | paste -s -
+</pre>
+</div>
+
+<pre class="example">
+UnixKomutSatiri.html    UnixKomutSatiri.org     hamlet.txt      ophelia.txt     resim   titanic.csv     titanicbasliksiz.csv
+</pre>
+
+<p>
+Aralara + eklemek istersek de <code>-d</code> seçeneği kullanılıyor.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">ls | paste -d + -s -
+</pre>
+</div>
+
+<pre class="example">
+#UnixKomutSatiri.org#+UnixKomutSatiri.html+UnixKomutSatiri.org+hamlet.txt+ophelia.txt+resim+titanic.csv+titanicbasliksiz.csv
+</pre>
+
+<p>
+Artık yaşları toplamaya hazırız.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">cut -f 6 -d ',' titanicbasliksiz.csv | grep -v "^$" | paste -d + -s - | bc
+</pre>
+</div>
+
+<pre class="example">
+21205.17
+</pre>
+
+<p>
+Garip biçimde virgüllü bir sayı çıktı. Bizde hata yok. Dosyada bir
+sürü yaş virgülle ayrılarak yazılmış. Bakmak için yine <code>grep</code>
+kullanabiliriz. Ancak bir metin içinde . ararken dikkat etmeli çünkü
+noktalama işaretlerinin farklı anlamları olabiliyor. O durumda <code>\.</code>
+şeklinde kullanabiliriz.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-sh">cut -f 6 -d ',' titanicbasliksiz.csv | grep "\."
+</pre>
+</div>
+
+<pre class="example">
+28.5
+0.83
+14.5
+70.5
+32.5
+32.5
+36.5
+55.5
+40.5
+45.5
+20.5
+23.5
+0.92
+45.5
+0.75
+40.5
+0.75
+24.5
+28.5
+0.67
+30.5
+0.42
+30.5
+0.83
+34.5
+</pre>
+
+<p>
+İşte bu kadar. Başta da dediğim gibi terminali kullanmakta ısrar
+ederseniz son derece güçlü bir araç öğrenmiş olursunuz. Konu derin
+ve ben sadece yüzeyinde dolaştım. Öyle ki Unix komutlarıyla program
+dahi yazabilirsiniz. Bunun için pek çok kaynak var. Ben <a href="http://www.freeos.com/guides/lsst/">bir tanesine</a>
+burada referans vermiş olayım. Yazı da bu şekilde bitsin.
+</p>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Ş. İlker Birbil</p>
+<p class="date">Created: 2016-09-20 Tue 10:02</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.5.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

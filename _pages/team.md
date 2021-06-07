@@ -2,10 +2,10 @@
 layout: archive
 title: "Team"
 permalink: /team/
-description: "Ongoing & completed research projects."
+description: "Past & new team members."
 author_profile: true
 redirect_from: 
-  - /team
+  - /members
 ---
 
 

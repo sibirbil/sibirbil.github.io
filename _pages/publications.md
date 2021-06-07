@@ -2,8 +2,8 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-description: "Ongoing & completed research projects."
+description: "Research manuscripts in different venues."
 author_profile: true
 redirect_from: 
-  - /publications
+  - /pubs
 ---

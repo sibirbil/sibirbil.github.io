@@ -1,11 +1,11 @@
 ---
 layout: archive
-permalink: /team/
 title: "Team"
-excerpt: "Past & new members of our research group."
+permalink: /team/
+description: "Ongoing & completed research projects."
 author_profile: true
 redirect_from: 
-  - /team/
+  - /team
 ---
 
 

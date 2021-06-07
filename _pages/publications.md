@@ -1,9 +1,9 @@
 ---
 layout: archive
-permalink: /publications/
 title: "Publications"
-excerpt: "Research manuscripts appearing in different venues."
+permalink: /publications/
+description: "Ongoing & completed research projects."
 author_profile: true
 redirect_from: 
-  - /publications/
+  - /publications
 ---

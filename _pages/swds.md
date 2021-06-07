@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Software"
+title: "Software & Data Sets"
 permalink: /software/
-description: "Open source software and datasets."
+description: "Open source software and data sets."
 author_profile: true
 redirect_from: 
   - /codes

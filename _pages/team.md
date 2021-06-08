@@ -11,26 +11,25 @@ redirect_from:
 ### Current Members
 
 
-**Tabea Röber**
+- **Tabea Röber**
 
-	* Tentative Thesis Title: Interpretability in Machine Learning
-	* Current Position: Ph.D. candidate (starting 1 September 2021), University of Amsterdam
+-- Tentative Thesis Title: Interpretability in Machine Learning
+-- Current Position: Ph.D. candidate (starting 1 September 2021), University of Amsterdam
 	
-**Utku Karaca**
+- **Utku Karaca**
 
-	* Tentative Thesis Title: Privacy for Multi-party Resource Allocation Problems
-	* Current Position: Ph.D. candidate, Erasmus University Rotterdam
+-- Tentative Thesis Title: Privacy for Multi-party Resource Allocation Problems
+-- Current Position: Ph.D. candidate, Erasmus University Rotterdam
 
 
 
 ### Past Members
 
 
-**Dr. Nurdan Kuru**
+- **Dr. Nurdan Kuru**
 
-	* Thesis Title: Novel Gradient-based Methods for Data Distribution and
-	* Privacy in Data Science (jointly supervised with S. Yıldırım)
-	* Current Position: Postdoc, Sabancı University
+-- Thesis Title: Novel Gradient-based Methods for Data Distribution and Privacy in Data Science (jointly supervised with S. Yıldırım)
+-- Current Position: Postdoc, Sabancı University
 
 Dr. Nur³en Aydn
 Thesis Title: New Capacity Allocation Policies in Revenue Management

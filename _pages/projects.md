@@ -21,7 +21,7 @@ Advanced Parallel Optimization Algorithms for Big Data Analysis Using Machine Le
 Developing Trafffic Assignment Optimization Models and Solution Methods for Establishing Sustainable Urban Transportation Policies, 
 The Scientific and Technological Research Council of Turkey, **Advisor**, 2009-2012
 
-MANGO: Multi-Agent Environment for Global Optimization The Scientific and Technological Research Council of Turkey, **Principal Investigator**, 2008-2011 
+MANGO: Multi-Agent Environment for Global Optimization, The Scientific and Technological Research Council of Turkey, **Principal Investigator**, 2008-2011 
 
 Robust Airline Crew Pairing: Models, Solution Approaches and Applications, The Scientific and Technological Research Council of Turkey, **Principal Investigator**, 2007-2010
 

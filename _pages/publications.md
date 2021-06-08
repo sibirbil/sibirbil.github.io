@@ -33,7 +33,7 @@ A framework for parallel second order incremental optimization algorithms
 for solving partially separable problems, with K. Kaya, F. Öztoprak, 
 A. T. Cemgil, U. Şimşekli, N. Kuru, H. Koptagel, M. K. Öztürk, 
 **Computational Optimization and Applications**, 72, 675–705, 2019. 
-[(DOI)](https://doi.org/10.1007/s10589-018-00057-7)[(arXiv)](http://arxiv.org/abs/1509.01698)
+[(DOI)](https://doi.org/10.1007/s10589-018-00057-7)[(arXiv)](http://arxiv.org/abs/1509.01698)[(github)](https://github.com/spartensor/hamsi-mf)
 
 Decomposition methods for solving dynamic programming problems
 in hotel revenue management, with N. Aydın, **European Journal of Operational Research**,

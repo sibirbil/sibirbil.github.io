@@ -3,18 +3,18 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "SW&DS"
-    url: /swds/
+  - title: "Teaching"
+    url: /teaching/    
 
   - title: "Talks"
     url: /talks/
     
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Team"
     url: /team/
-        
+
+  - title: "SW&DS"
+    url: /swds/
+
   - title: "Projects"
     url: /projects/
     

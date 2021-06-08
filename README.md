@@ -11,7 +11,7 @@ _Credits:_ I created my webpage after forking [academic pages](https://github.co
 - Navigation is modified by editing "_data/navigation.yml"
 - All other changes are done by editing "_config.yml'
 
-##Unused
+## Unused
 
 - Portfolios, "_porfolio", "_pages/portfolio.html"
 - Posts and "_posts"

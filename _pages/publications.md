@@ -9,6 +9,26 @@ redirect_from:
 ---
 
 
+Discovering classification rules for interpretable learning with linear programming, 
+with H. Akyüz, 2021. [(arxiv)](https://arxiv.org/abs/2104.10751)[(github)](https://github.com/sibirbil/RuleDiscovery)
+
+Data privacy in bid-price control for network revenue management, with N. Aydın,
+G. Sağol and U. Karaca, 2021. [(OO)](http://www.optimization-online.org/DB_HTML/2021/02/8253.html)
+
+Rule covering for interpretation and boosting, with M. Edalı and B. Yüceoğlu, 2020. 
+[(arXiv)](https://arxiv.org/abs/2007.06379) [(github)](https://github.com/sibirbil/RuleCovering)
+
+Low-dimensional interpretable kernels with conic discriminant functions for classification, 
+with G. Ceylan, 2020. [(arXiv)](https://arxiv.org/abs/2007.08986)[(github)](https://github.com/sibirbil/SimpleKernels)
+
+Differentially private accelerated optimization algorithms, 
+with N. Kuru, M. Gürbüzbalaban and S. Yıldırım, 2020.
+[(arXiv)](https://arxiv.org/abs/2008.01989)[(github)](https://github.com/sibirbil/DPAccGradMethods)
+
+Multi-objective temporal bin packing problem: An application in cloud computing,
+with N. Aydın and İ. Muter, **Computers and Operations Research**, 121, 2020.
+[(DOI)](https://doi.org/10.1016/j.cor.2020.104959)[(OO)](http://www.optimization-online.org/DB_HTML/2019/01/7029.html)[(github)](https://github.com/sibirbil/TemporalBinPacking)
+
 A framework for parallel second order incremental optimization algorithms 
 for solving partially separable problems, with K. Kaya, F. Öztoprak, 
 A. T. Cemgil, U. Şimşekli, N. Kuru, H. Koptagel, M. K. Öztürk, 
@@ -28,7 +48,7 @@ Benders decomposition and column-and-row generation for solving
 large-scale linear programs with column-dependent-rows, with İ. Muter
 and K. Bülbül, **European Journal of Operational Research**, 264(1),
 29-45, 2018. 
-[(DOI)](https://doi.org/10.1016/j.ejor.2017.06.044)
+[(DOI)](https://doi.org/10.1016/j.ejor.2017.06.044)[(OO)](http://www.optimization-online.org/DB_HTML/2015/11/5184.html)
 
 Reassessment and monitoring of loan applications with machine
 learning, with Z. Boz, D. Günneç and M. K. Öztürk, **Applied Artificial Intelligence**, 32(9-10), 939-955, 2018.
@@ -54,17 +74,17 @@ N. Aydın and H. Topaloğlu, **Transportation Science**, 51(4), 1031-1386, ii, 2
 
 Approximating the minimum hub cover problem on planar graphs, with
 B. Yelbay, K. Bülbül and H. Jamil, **Optimization Letters**, 10(1),
-33-45, 2016. [(DOI)](http://dx.doi.org/10.1007/s11590-015-0876-5)
+33-45, 2016. [(DOI)](http://dx.doi.org/10.1007/s11590-015-0876-5)[(OO)](http://www.optimization-online.org/DB_HTML/2014/11/4673.html)
 
 The set covering problem revisited: An empirical study of the
 value of dual information, with B. Yelbay and K. Bülbül,
 **Journal of Industrial and Management Optimization**, 11(2),
-575-594, 2015. [(DOI)](http://dx.doi.org/10.3934/jimo.2015.11.575)
+575-594, 2015. [(DOI)](http://dx.doi.org/10.3934/jimo.2015.11.575)[(OO)](http://www.optimization-online.org/DB_HTML/2010/11/2814.html)
 
 On EOQ cost models with arbitrary purchase and transportation costs,
 with K. Bülbül, J. B. G. Frenk and H.M. Mulder, 
 **Journal of Industrial and Management Optimization**, 
-11(4), 2015. [(DOI)](http://dx.doi.org/10.3934/jimo.2015.11.1211)
+11(4), 2015. [(DOI)](http://dx.doi.org/10.3934/jimo.2015.11.1211)[(OO)](http://www.optimization-online.org/DB_HTML/2010/04/2600.html)
 
 Parallel stochastic gradient Markov chain Monte Carlo for matrix
 factorization models, with U. Şimşekli, H. Koptagel, H. Güldaş
@@ -86,7 +106,7 @@ J. Gromicho and S. Zhang, **Transportation Science**, 48(3),
 
 Single-leg airline revenue management with overbooking, with
 N. Aydın, J. B. G. Frenk and N. Noyan, **Transportation Science**,
-47(4), 560-583, 2013. [(DOI)](http://dx.doi.org/doi:10.1287/trsc.1120.0444)
+47(4), 560-583, 2013. [(DOI)](http://dx.doi.org/doi:10.1287/trsc.1120.0444)[(OO)](http://www.optimization-online.org/DB_HTML/2010/04/2603.html)
 
 Multiagent cooperation for solving global optimization problems: An
 extendible framework with example cooperation strategies, with
@@ -96,7 +116,7 @@ F.B. Aydemir, A. Günay, F. Öztoprak and P. Yolum, **Journal of Global Optimiza
 Simultaneous column-and-row generation for large-scale linear
 programs with column-dependent-rows, with İ. Muter and K. Bülbül,
 **Mathematical Programming Ser. A**, 142(1-2), 47-82, 2013.
-[(DOI)](http://dx.doi.org/10.1007/s10107-012-0561-8)
+[(DOI)](http://dx.doi.org/10.1007/s10107-012-0561-8)[(OO)](http://www.optimization-online.org/DB_HTML/2010/11/2815.html)
 
 Solving a robust airline crew pairing problem with column
 generation, with İ. Muter, K. Bülbül, G. Şahin,
@@ -107,6 +127,9 @@ A mixed integer linear programming formulation for the sparse recovery
 problem in compressed sensing, with N. B. Karahanoğlu, H. Erdoğan,
 IEEE International Conference on Acoustics, Speech and Signal
 Processing (ICASSP 2013), USA: IEEE, 5870-5874, 2013. [(DOI)](http://dx.doi.org/10.1109/ICASSP.2013.6638790)
+
+Trade-offs computing minimum hub cover toward optimized graph query processing,
+with B. Yelbay, K. Bülbül and H. M. Jamil, 2013. [(arXiv)](https://arxiv.org/abs/1311.1626)
 
 Using emission functions in modeling environmentally sustainable
 traffic assignment policies, with O.İ. Kolak, O. Feyzioğlu, N. Noyan
@@ -200,8 +223,7 @@ G.J. Still, **European Journal of Operational Research**, 180(1),
 
 Solving a variational inequality problem with domain defined by
 infinitely many linear constraints, with S.-C. Fang S-Y. Wu,
-**Computational Optimization and Applications**, 37(1), 67-81,
-2007. [(DOI)](http://dx.doi.org/10.1007/s10589-007-9013-4)
+**Computational Optimization and Applications**, 37(1), 67-81, 2007. [(DOI)](http://dx.doi.org/10.1007/s10589-007-9013-4)
 
 A deterministic inventory/production model with general inventory
 cost rate function and concave production costs, with Z.P.Bayındır
@@ -233,7 +255,7 @@ Symposium On Intelligent Manufacturing Systems, Sakarya, Turkey, 2006.
 
 Recursive approximation of the high dimensional _max_ function,
 with S.-C. Fang, J. B. G. Frenk and S. Zhang, **Operations Research Letters**, 
-33(5), 450-458, 2005. [(DOI)](http://dx.doi.org/10.1016/j.orl.2004.11.004)
+33(5), 450-458, 2005. [(DOI)](http://dx.doi.org/10.1016/j.orl.2004.11.004)[(OO)](http://www.optimization-online.org/DB_HTML/2003/01/597.html)
 
 On the finite termination of an entropy function based
 non-interior continuation method for vertical linear complementarity

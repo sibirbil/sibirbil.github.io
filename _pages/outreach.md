@@ -8,13 +8,13 @@ redirect_from:
   - /service
 ---
 
-### Blogs
+## Blogs
 
 [Bol Bilim](https://bolbilim.com/): With [Pınar Yolum](https://www.uu.nl/medewerkers/PYolumBirbil), we have been writing about the academic life, i.e, writing papers, preparing talks, getting ready for lectures, and so on. (in Turkish). We also have a [YouTube channel](https://www.youtube.com/channel/UCzKzqD6nxTyuHwPJwVRNe3g).
 
 [Veri Deferi](http://www.veridefteri.com/): With two of my friends, we share our notes on data science. Here is one [YouTube playlist](https://www.youtube.com/playlist?list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH), where we recorded my lectures on introduction to machine learning in Istanbul.
 
-### Articles
+## Articles
 
 I occasionally write articles for newspapers and magazines. I did have a steady run in the past:
 
@@ -32,7 +32,7 @@ I occasionally write articles for newspapers and magazines. I did have a steady 
 [Twitter Millet Meclisinin Sürpriz Siyaseti](http://www.radikal.com.tr/turkiye/twitter-millet-meclisinin-surpriz-siyaseti-1136382/), with A. T. Cemgil and
 K. Çalışkan, 2013
 
-### Civic Involvement
+## Civic Involvement
 
 Lecturer in [Machine Learning Summer School](https://yazokulu.bilimakademisi.org/yapayogrenme/2021/), 2021
 
@@ -46,7 +46,7 @@ One of the organizers of [Data Science Summer School]((https://github.com/sibirb
 
 One of the organizers of two schools on [Mathematical Foundations of Machine Learning](https://sibirbil.github.io/files/MK/), 2016 & 2017
 
-### Awards and Fellowships
+## Awards and Fellowships
 
 Teaching Award, Sabancı University, 2014-2015 Academic Year Graduating Class, (3rd place)
 
@@ -60,7 +60,7 @@ Career Award, The Scientific and Technological Research Council of Turkey [(TUBI
 
 Postdoctoral Research Fellowship, Erasmus Research Institute of Management [(ERIM)](https://www.erim.eur.nl/), 2002 & 2003
 
-### Memberships and University Services
+## Memberships and University Services
 
 Affiliated researcher of [OPTIMAL](https://optimal.uva.nl/), Optimization for and with Machine Learning, 2021-present
 
@@ -86,7 +86,7 @@ Member of Information Center committee, Sabancı University, 2005-2011
 
 Member of undergraduate orientation committee, Sabancı University, 2005-2011
 
-### Professional Activities
+## Professional Activities
 
 Guest Editor for [special issue](http://www.yokohamapublishers.jp/online2/pjov12-3.html) of Pacific Journal of Optimization, 2016
 
@@ -95,7 +95,7 @@ Associate Editor for [Journal of Industrial Management Optimization](https://www
 Advisor for Engineering Research Group (industrial engineering section) of The Scientific and Technological Research Council of Turkey [(TUBITAK)](https://www.tubitak.gov.tr/), 2009-2010
 
 
-### Conferences
+## Conferences
 
 Session chair for DSSV-ECDA 2021, Data Science, Statistics & Visualisation (DSSV) and the European Conference on Data Analysis (ECDA) - Online
 

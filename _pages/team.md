@@ -8,7 +8,7 @@ redirect_from:
   - /members
 ---
 
-### Current Members
+## Current Members
 
 
 - **Tabea Röber**
@@ -22,7 +22,7 @@ redirect_from:
   - Current Position: Ph.D. candidate, Erasmus University Rotterdam
 
 
-### Past Members
+## Past Members
 
 
 - **Dr. Nurdan Kuru**

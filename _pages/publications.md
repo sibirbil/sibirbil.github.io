@@ -8,14 +8,23 @@ redirect_from:
   - /pubs
 ---
 
-Reassessment and monitoring of loan applications with machine
-learning, with Z. Boz, D. Günneç and M. K. Öztürk, **Applied Artificial Intelligence**, 32(9-10), 939-955, 2018.
-[(DOI)](https://doi.org/10.1080/08839514.2018.1525517).
+
+A framework for parallel second order incremental optimization algorithms for solving partially separable problems, 
+with K. Kaya, F. Öztoprak, A. T. Cemgil, U. Şimşekli, N. Kuru, H. Koptagel, M. K. Öztürk, 
+**Computational Optimization and Applications**, 72, 675–705, 2019. 
+[(DOI)](https://doi.org/10.1007/s10589-018-00057-7)[(arXiv)](http://arxiv.org/abs/1509.01698)
 
 Decomposition methods for solving dynamic programming problems
 in hotel revenue management, with N. Aydın, **European Journal of Operational Research**,
 271(1), 179-192, 2018. 
 [(DOI)](https://doi.org/10.1016/j.ejor.2018.05.027)
+
+ An alternative globalization strategy for unconstrained optimization, Optimization, 67(3), 377-392, 2018. 
+ [(DOI)](http://dx.doi.org/10.1080/02331934.2017.1401070)[(arXiv)](https://arxiv.org/abs/1705.05158) 
+
+Reassessment and monitoring of loan applications with machine
+learning, with Z. Boz, D. Günneç and M. K. Öztürk, **Applied Artificial Intelligence**, 32(9-10), 939-955, 2018.
+[(DOI)](https://doi.org/10.1080/08839514.2018.1525517).
 
 Managing disruptions in the multi-depot vehicle scheduling problem,
 with E. Uçar and İ. Muter, **Transportation Research Part B: Methodological**, 105, 249-269, 2017. 
@@ -34,9 +43,14 @@ Single-leg airline revenue management with overbooking, with
 N. Aydın, J. B. G. Frenk and N. Noyan, **Transportation Science**,
 47(4), 560-583, 2013. [(DOI)](http://dx.doi.org/doi:10.1287/trsc.1120.0444)
 
+Multiagent cooperation for solving global optimization problems: An
+extendible framework with example cooperation strategies, with
+F.B. Aydemir, A. Günay, F. Öztoprak and P. Yolum, **Journal of Global Optimization**, 
+57(2), 499-519, 2013. [(DOI)](http://dx.doi.org/10.1007/s10898-012-0012-3)
+
 Solving a robust airline crew pairing problem with column
 generation, with İ. Muter, K. Bülbül, G. Şahin,
-H. Yenigün, D. Ta\c{s} and D. Tüzün, **Computers and Operations Research**, 40(3), 815-830, 2013. 
+H. Yenigün, D. Taş and D. Tüzün, **Computers and Operations Research**, 40(3), 815-830, 2013. 
 [(DOI)](http://dx.doi.org/10.1016/j.cor.2010.11.005)
 
 Tractable open loop policies for joint overbooking and capacity
@@ -44,82 +58,63 @@ control over a single flight leg with multiple fare classes, with
 J. B. G. Frenk, N. Noyan and H. Topaloğlu, **Transportation Science**, 46(4), 460-481, 2012. 
 [(DOI)(http://dx.doi.org/10.1287/trsc.1110.0403)]
 
+A symmetric rank-one quasi-Newton method using negative curvature
+directions, with F. Öztoprak, **Optimization Methods and Software**,
+26(3), 455-486, 2011. [(DOI)](http://dx.doi.org/10.1080/10556788.2010.544311)
+
 The role of robust optimization in single-leg airline revenue
 management, with J. B. G. Frenk, J. Gromicho and S. Zhang,
 **Management Science**, 55(1), 148-163, 2009. 
 [(DOI)](http://dx.doi.org/10.1287/mnsc.1070.0843)
 
 Robust crew pairing for managing extra flights, H. Tekiner and
-K. Bülbül, **Computers and Operations Research**, 36(6), 2031-2048,
-2009. [(DOI)](http://dx.doi.org/10.1016/j.cor.2008.07.005)
+K. Bülbül, **Computers and Operations Research**, 36(6), 2031-2048, 2009. 
+[(DOI)](http://dx.doi.org/10.1016/j.cor.2008.07.005)
 
-HAMSI: Distributed incremental optimization algorithm using
-quadratic approximations for partially separable problems, with
-U. Şimşekli, H. Koptagel, F. Öztoprak, A. T. Cemgil, /submitted/. [http://arxiv.org/abs/1509.01698](arXiv.org)
-
-Concurrent search algorithms for unconstrained optimization, with
-F. Öztoprak, /submitted/.
-
-An alternative globalization strategy for unconstrained
-optimization, with F. Öztoprak, to appear in **Optimization**, (2017).
-
-A symmetric rank-one quasi-Newton method using negative curvature
-directions, with F. Öztoprak, **Optimization Methods and Software**,
-26(3), 455-486, (2011). [http://dx.doi.org/10.1080/10556788.2010.544311](DOI)
+Solving the sum-of-ratios problem by a stochastic search
+algorithm, with W.-Y. Wu and R.-L. Sheu, **Journal of Global Optimization**, 
+42(1), 91-109, 2008. [(DOI)](http://dx.doi.org/10.1007/s10898-008-9285-y)
 
 An elementary proof of the Fritz-John and Karush-Kuhn-Tucker
 conditions in nonlinear programming, with J. B. G. Frenk and
 G.J. Still, **European Journal of Operational Research**, 180(1),
-479-484, (2007). [http://dx.doi.org/10.1016/j.ejor.2006.04.012](DOI)
+479-484, 2007. [(DOI)](http://dx.doi.org/10.1016/j.ejor.2006.04.012)
 
 Solving a variational inequality problem with domain defined by
 infinitely many linear constraints, with S.-C. Fang S-Y. Wu,
 **Computational Optimization and Applications**, 37(1), 67-81,
-(2007). [http://dx.doi.org/10.1007/s10589-007-9013-4](DOI)
+2007. [(DOI)](http://dx.doi.org/10.1007/s10589-007-9013-4)
 
 Solving stochastic mathematical programs with complementarity
 constraints using simulation, with G. Gürkan and O. Listeş,
 **Mathematics of Operations Research**, 31(4), 739-760,
-(2006). [http://dx.doi.org/10.1287/moor.1060.0215](DOI)
+2006. [(DOI)](http://dx.doi.org/10.1287/moor.1060.0215)
 
 Equilibrium constrained optimization problems, with G. Bouza,
-J. B. G. Frenk and G. J. Still, **European Journal of Operational
-Research**, 169(3), 1108-1127, (2006). [http://dx.doi.org/10.1016/j.ejor.2004.07.075](DOI)
+J. B. G. Frenk and G. J. Still, **European Journal of Operational Research**, 
+169(3), 1108-1127, 2006. [(DOI)](http://dx.doi.org/10.1016/j.ejor.2004.07.075)
 
-Recursive approximation of the high dimensional $max$ function,
-with S.-C. Fang, J. B. G. Frenk and S. Zhang, **Operations
-  Research Letters**, 33(5), 450-458, (2005). [http://dx.doi.org/10.1016/j.orl.2004.11.004](DOI)
+Recursive approximation of the high dimensional _max_ function,
+with S.-C. Fang, J. B. G. Frenk and S. Zhang, **Operations Research Letters**, 
+33(5), 450-458, 2005. [(DOI)](http://dx.doi.org/10.1016/j.orl.2004.11.004)
 
 On the finite termination of an entropy function based
 non-interior continuation method for vertical linear complementarity
-problem, with S.-C. Fang, J. Han and Z. Huang, **Journal of
-  Global Optimization**, 33(3), 369-391, (2005). [http://dx.doi.org/10.1007/s10898-004-6098-5](DOI)
+problem, with S.-C. Fang, J. Han and Z. Huang, **Journal of Global Optimization**, 
+33(3), 369-391, 2005. [(DOI)](http://dx.doi.org/10.1007/s10898-004-6098-5)
 
 An entropic regularization approach for mathematical programs with
-equilibrium constraints, with S.-C.Fang and J. Han, **Computers and
-Operations Research**, 31(13), 2249-2262, (2004). [http://dx.doi.org/10.1016/S0305-0548(03)00176-X](DOI)
+equilibrium constraints, with S.-C.Fang and J. Han, **Computers and Operations Research**, 
+31(13), 2249-2262, 2004. [(DOI)](http://dx.doi.org/10.1016/S0305-0548(03)00176-X)
 
-## Global Optimization
-
-A fixing and parallelization strategy for global optimization,
-with F. Öztoprak, K. Kaya, K. Öztürk, /submitted/.
-
-Multiagent cooperation for solving global optimization problems: An
-extendible framework with example cooperation strategies, with
-F.B. Aydemir, A. Günay, F. Öztoprak and P. Yolum, **Journal of
-Global Optimization**, 57(2), 499-519, (2013). [http://dx.doi.org/10.1007/s10898-012-0012-3](DOI)
-
-Solving the sum-of-ratios problem by a stochastic search
-algorithm, with W.-Y. Wu and R.-L. Sheu, **Journal of Global
-  Optimization**, 42(1), 91-109, (2008). [http://dx.doi.org/10.1007/s10898-008-9285-y](DOI)
+On the convergence of a population based global optimization
+algorithm, with S.-C.Fang and R.-L. Sheu, **Journal of Global Optimization**, 
+30(2), 301-318, 2004. [(DOI)](http://dx.doi.org/10.1007/s10898-004-8270-3)
 
 An electromagnetism-like mechanism for global optimization, with
 S.-C.Fang, **Journal of Global Optimization**, 25(3), 263-282,
-(2003). [http://dx.doi.org/10.1023/A:1022452626305](DOI)
+2003. [(DOI)](http://dx.doi.org/10.1023/A:1022452626305)
 
-On the convergence of a population based global optimization
-algorithm, with S.-C.Fang and R.-L. Sheu, **Journal of Global
-Optimization**, 30(2), 301-318, (2004). [http://dx.doi.org/10.1007/s10898-004-8270-3](DOI)
 
 FRACTOP: A geometric partitioning meta-heuristic for global
 optimization, with M. Demirhan, L. Özdamar, and L.  Helvacıoglu,

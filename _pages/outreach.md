@@ -46,6 +46,16 @@ One of the organizers of [Data Science Summer School]((https://github.com/sibirb
 
 One of the organizers of two schools on [Mathematical Foundations of Machine Learning](https://sibirbil.github.io/files/MK/), 2016 & 2017
 
+## About Me
+
+[Ilker Birbil appointed professor of Artificial Intelligence & Optimisation Techniques for Business and Society](https://www.uva.nl/en/content/news/professor-appointments/2021/01/ilker-birbil-appointed-professor-of-artificial-intelligence--optimisation-techniques-for-business-and-society.html), University of Amsterdam news, January, 2021
+
+['The combination of operations research and data science is like a happy marriage'](https://abs.uva.nl/content/news/2021/03/the-combination-of-operations-research-and-data-science-is-like-a-happy-marriage.html), Amsterdam Business School news, March, 2021
+
+[Barış İmzası Sonrası Hollanda'ya Yerleşen Prof. Dr. Birbil ile Çağlayan'da Konuştuk](https://bianet.org/bianet/ifade-ozgurlugu/205055-baris-imzasi-sonrasi-hollanda-ya-yerlesen-prof-dr-birbil-ile-caglayan-da-konustuk), for BİANET by Evrim Kepenek, 2019
+
+[Teacher Talk - Dr. Birbil](https://estimator.faector.nl/article/2018-11-30-teacher-talk-dr-birbil), for FAECTOR by  A. van Woerkom, November, 2018
+
 ## Awards and Fellowships
 
 Teaching Award, Sabancı University, 2014-2015 Academic Year Graduating Class, (3rd place)
@@ -131,13 +141,6 @@ Session chair for YAEM 2006, 26th National Congress on Operations Research and I
 
 Session chair for International Conference on Computers and Industrial Engineering (2005), Istanbul, Turkey
 
-## About Me
-
-[Ilker Birbil appointed professor of Artificial Intelligence & Optimisation Techniques for Business and Society](https://www.uva.nl/en/content/news/professor-appointments/2021/01/ilker-birbil-appointed-professor-of-artificial-intelligence--optimisation-techniques-for-business-and-society.html), University of Amsterdam news, January, 2021.
-
-['The combination of operations research and data science is like a happy marriage'](https://abs.uva.nl/content/news/2021/03/the-combination-of-operations-research-and-data-science-is-like-a-happy-marriage.html), Amsterdam Business School news, March, 2021
-
-[Teacher Talk - Dr. Birbil](https://estimator.faector.nl/article/2018-11-30-teacher-talk-dr-birbil), for FAECTOR by  A. van Woerkom, November, 2018ilker bir
 
 
 

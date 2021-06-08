@@ -77,7 +77,7 @@ F. Öztoprak, A. T. Cemgil, Workshop on Distributed Machine
 Learning and Matrix Computations, in Neural Information Processing
 Systems Conference (NIPS), Montréal, Quebec, Canada, 2014.
 [(link)](http://stanford.edu/~rezab/nips2014workshop/submits/disttensor.pdf)
-[(supp.)] (http://stanford.edu/~rezab/nips2014workshop/submits/disttensor_sup.pdf)
+[(supp.)](http://stanford.edu/~rezab/nips2014workshop/submits/disttensor_sup.pdf)
 
 A network airline revenue management framework based on
 decomposition by origins and destinations, with J. B. G. Frenk,
@@ -95,7 +95,8 @@ F.B. Aydemir, A. Günay, F. Öztoprak and P. Yolum, **Journal of Global Optimiza
 
 Simultaneous column-and-row generation for large-scale linear
 programs with column-dependent-rows, with İ. Muter and K. Bülbül,
-**Mathematical Programming Ser. A**, 142(1-2), 47-82, (2013). [http://dx.doi.org/10.1007/s10107-012-0561-8](DOI)
+**Mathematical Programming Ser. A**, 142(1-2), 47-82, 2013.
+[(DOI)](http://dx.doi.org/10.1007/s10107-012-0561-8)
 
 Solving a robust airline crew pairing problem with column
 generation, with İ. Muter, K. Bülbül, G. Şahin,
@@ -105,8 +106,7 @@ H. Yenigün, D. Taş and D. Tüzün, **Computers and Operations Research**, 40(3
 A mixed integer linear programming formulation for the sparse recovery
 problem in compressed sensing, with N. B. Karahanoğlu, H. Erdoğan,
 IEEE International Conference on Acoustics, Speech and Signal
-Processing (ICASSP 2013), USA: IEEE, 5870-5874, 2013.  
-[(DOI)](http://dx.doi.org/10.1109/ICASSP.2013.6638790)
+Processing (ICASSP 2013), USA: IEEE, 5870-5874, 2013. [(DOI)](http://dx.doi.org/10.1109/ICASSP.2013.6638790)
 
 Using emission functions in modeling environmentally sustainable
 traffic assignment policies, with O.İ. Kolak, O. Feyzioğlu, N. Noyan
@@ -116,7 +116,7 @@ and S. Yalçındağ, **Journal of Industrial and Management Optimization**,
 Tractable open loop policies for joint overbooking and capacity
 control over a single flight leg with multiple fare classes, with
 J. B. G. Frenk, N. Noyan and H. Topaloğlu, **Transportation Science**, 46(4), 460-481, 2012. 
-[(DOI)(http://dx.doi.org/10.1287/trsc.1110.0403)]
+[(DOI)](http://dx.doi.org/10.1287/trsc.1110.0403)
 
 A note on "A LP-Based Heuristic for a Time-Constrained Routing
 Problem," with İ. Muter, K. Bülbül and G. Şahin, **European Journal of Operational Research**, 
@@ -148,8 +148,7 @@ K. Bülbül, **Computers and Operations Research**, 36(6), 2031-2048, 2009.
 
 Client-contractor bargaining on net present value in the context of
 a project with limited resources, with N. Kavlak, G. Ulusoy and
-F.S. Şerifoğlu, **Naval Research Logistics**, 56(2), 93-112,
-2009. [(DOI)](http://dx.doi.org/10.1002/nav.20331)
+F.S. Şerifoğlu, **Naval Research Logistics**, 56(2), 93-112, 2009. [(DOI)](http://dx.doi.org/10.1002/nav.20331)
 
 Risk measures and their applications in asset management, with
 J. B. G. Frenk, B. Kaynar, N. Noyan, Chapter 15 in 
@@ -211,8 +210,7 @@ and J. B. G. Frenk, **European Journal of Operational Research**,
 
 Solving stochastic mathematical programs with complementarity
 constraints using simulation, with G. Gürkan and O. Listeş,
-**Mathematics of Operations Research**, 31(4), 739-760,
-2006. [(DOI)](http://dx.doi.org/10.1287/moor.1060.0215)
+**Mathematics of Operations Research**, 31(4), 739-760, 2006. [(DOI)](http://dx.doi.org/10.1287/moor.1060.0215)
 
 Equilibrium constrained optimization problems, with G. Bouza,
 J. B. G. Frenk and G. J. Still, **European Journal of Operational Research**, 
@@ -250,8 +248,8 @@ Computers and Industrial Engineering, Istanbul, Turkey, 2005.
 
 Client-contractor bargaining on net present value in the context
 of a project with limited resources, with N. Kavlak, G.  Ulusoy,
-F.S. \c{S}erifo\u{g}lu, 35th International Conference on Computers
-and Industrial Engineering, Istanbul, Turkey, (2005). 
+F.S. Şerifoğlu, 35th International Conference on Computers
+and Industrial Engineering, Istanbul, Turkey, 2005. 
 [(link)](http://research.sabanciuniv.edu/1369/)
 
 An entropic regularization approach for mathematical programs with
@@ -276,8 +274,7 @@ A global optimization method for solving fuzzy relation equations,
 with O. Feyzioğlu, Fuzzy Sets and Systems - IFSA 2003, 10th
 International Fuzzy Systems Association World Congress Istanbul,
 Turkey - Proceedings, Eds. T. Bilgiç, B.D. Baets and O. Kaynak,
-**Lecture Notes in Computer Science 2715**, 718-724, Springer
-2003. [(DOI)](http://dx.doi.org/10.1007/3-540-44967-1\_86)
+**Lecture Notes in Computer Science 2715**, 718-724, Springer, 2003. [(DOI)](http://dx.doi.org/10.1007/3-540-44967-1\_86)
 
 New results for the capacitated lot sizing problem with overtime
 decisions and setup times, with L. Özdamar and M.-C.  Portmann,
@@ -310,7 +307,7 @@ problem with setup times and overtime decisions, with L.
 
 A hierarchical decision support system for production planning (with
 case study), with L. Özdamar and M. A. Bozyel, 
-**European Journal of Operational Research**, 104(3), 403-422, (1998). 
+**European Journal of Operational Research**, 104(3), 403-422, 1998. 
 [(DOI)](http://dx.doi.org/10.1016/S0377-2217(97)00016-7)
 
 A hybrid genetic algorithm for the capacitated lot sizing and

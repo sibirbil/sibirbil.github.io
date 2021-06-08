@@ -34,7 +34,7 @@ K. Çalışkan, 2013
 
 ### Civic Involvement
 
-Lecturer in [Data Science Summer School](https://yazokulu.bilimakademisi.org/yapayogrenme/2021/), 2021
+Lecturer in [Machine Learning Summer School](https://yazokulu.bilimakademisi.org/yapayogrenme/2021/), 2021
 
 One of the organizers of online lecture on [Mathematics for Machine Learning](https://nesinkoyleri.org/events/2021-makine-ogrenmesinin-matematigi/), 2021
 

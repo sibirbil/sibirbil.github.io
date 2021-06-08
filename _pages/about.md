@@ -18,5 +18,5 @@ My **research interests** center around optimization methods in data science and
 Recent News
 ------
 - We have submitted our papers to [NeurIPS 2021](https://nips.cc/Conferences/2021/). Fingers crossed.
-- I will be giving a lecture during [Data Science Summer School](https://yazokulu.bilimakademisi.org/yapayogrenme/2021/), 2021.
+- I will be giving a lecture on interpretability in machine learning during [Machine Learning Summer School](https://yazokulu.bilimakademisi.org/yapayogrenme/2021/), 2021.
 - Our work on discovering classification rules for interpretable learning is available on [arXiv](https://arxiv.org/abs/2104.10751) and on [GitHub](https://github.com/sibirbil/RuleDiscovery).

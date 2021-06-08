@@ -13,14 +13,13 @@ redirect_from:
 
 - **Tabea Röber**
 
--- Tentative Thesis Title: Interpretability in Machine Learning
--- Current Position: Ph.D. candidate (starting 1 September 2021), University of Amsterdam
+  - Tentative Thesis Title: Interpretability in Machine Learning
+  - Current Position: Ph.D. candidate (starting 1 September 2021), University of Amsterdam
 	
 - **Utku Karaca**
 
--- Tentative Thesis Title: Privacy for Multi-party Resource Allocation Problems
--- Current Position: Ph.D. candidate, Erasmus University Rotterdam
-
+  - Tentative Thesis Title: Privacy for Multi-party Resource Allocation Problems
+  - Current Position: Ph.D. candidate, Erasmus University Rotterdam
 
 
 ### Past Members
@@ -28,23 +27,24 @@ redirect_from:
 
 - **Dr. Nurdan Kuru**
 
--- Thesis Title: Novel Gradient-based Methods for Data Distribution and Privacy in Data Science (jointly supervised with S. Yıldırım)
--- Current Position: Postdoc, Sabancı University
+  - Thesis Title: Novel Gradient-based Methods for Data Distribution and Privacy in Data Science (jointly supervised with S. Yıldırım)
+  - Current Position: Postdoc, Sabancı University
 
-Dr. Nur³en Aydn
-Thesis Title: New Capacity Allocation Policies in Revenue Management
-Current Position: Associate Professor, Warwick Business School
-Dr. Belma Yelbay
-Thesis Title:
-2014
-2014
-Minimum Hub Cover Problem: Algorithms and Applications
-(Jointly supervised with K. Bülbül)
-Current Position:
-Hitit Computer Systems
-Dr. brahim Muter 2011
-Dr. Figen Öztoprak 2011
-Thesis Title: Large-scale Linear Programs with Column-Dependent-Rows
-Current Position: Senior Research Scientist, Amazon Web Services
-Thesis Title: Parallel Algorithms for Nonlinear Optimization
-Current Position: Artelys, France
+- **Dr. Nurşen Aydın**
+ 
+  - Thesis Title: New Capacity Allocation Policies in Revenue Management
+  - Current Position: Associate Professor, Warwick Business School
+  
+- **Dr. Belma Yelbay**
+
+  - Thesis Title: Minimum Hub Cover Problem: Algorithms and Applications (jointly supervised with K. Bülbül)
+  - Current Position: Hitit Computer Systems
+
+- **Dr. İbrahim Muter**
+  - Thesis Title: Large-scale Linear Programs with Column-Dependent-Rows
+  - Current Position: Senior Research Scientist, Amazon Web Services
+
+- **Dr. Figen Öztoprak**
+
+  - Thesis Title: Parallel Algorithms for Nonlinear Optimization
+  - Current Position: Artelys, France

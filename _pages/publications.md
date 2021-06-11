@@ -8,6 +8,7 @@ redirect_from:
   - /pubs
 ---
 
+(_Please note that the published papers can be slightly different than their open access versions._)
 
 Discovering classification rules for interpretable learning with linear programming, 
 with H. Akyüz, 2021. [(arxiv)](https://arxiv.org/abs/2104.10751)[(github)](https://github.com/sibirbil/RuleDiscovery)

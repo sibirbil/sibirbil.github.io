@@ -56,6 +56,10 @@ Reassessment and monitoring of loan applications with machine
 learning, with Z. Boz, D. Günneç and M. K. Öztürk, **Applied Artificial Intelligence**, 32(9-10), 939-955, 2018.
 [(DOI)](https://doi.org/10.1080/08839514.2018.1525517).
 
+Trade-offs computing minimum hub cover toward optimized labeled graph query processing,
+with B. Yelbay, K. Bülbül and H. M. Jamil, **Online Academic Journal of Information Technology**, 9(33), 39-68, 2018. 
+[(DOI)](https://doi.org/10.5824/1309-1581.2018.3.002.x)[(arXiv)](https://arxiv.org/abs/1311.1626)
+
 Dispersion with connectivity in wireless mesh networks, with
 B. Yüceoğlu and Ö. Gürbüz, **Journal of Industrial and Management Optimization**, 
 14(2), 759-784, 2018. [(DOI)](https://doi.org/10.3934/jimo.2017074)
@@ -129,9 +133,6 @@ A mixed integer linear programming formulation for the sparse recovery
 problem in compressed sensing, with N. B. Karahanoğlu, H. Erdoğan,
 IEEE International Conference on Acoustics, Speech and Signal
 Processing (ICASSP 2013), USA: IEEE, 5870-5874, 2013. [(DOI)](http://dx.doi.org/10.1109/ICASSP.2013.6638790)
-
-Trade-offs computing minimum hub cover toward optimized graph query processing,
-with B. Yelbay, K. Bülbül and H. M. Jamil, 2013. [(arXiv)](https://arxiv.org/abs/1311.1626)
 
 Using emission functions in modeling environmentally sustainable
 traffic assignment policies, with O.İ. Kolak, O. Feyzioğlu, N. Noyan

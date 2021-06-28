@@ -11,7 +11,7 @@ redirect_from:
 
 I am a professor of AI & Optimization Techniques for Business & Society in [University of Amsterdam](https://www.uva.nl/en) (UvA), where I am a faculty member at the [Business Analytics](https://abs.uva.nl/content/sections/operations-management/operations-management.html) section of the [Amsterdam Business School](https://abs.uva.nl/) (ABS). 
 
-In the past, I had served for three years as a professor of Data Science and Optimization at the [Department of Econometrics](https://www.eur.nl/en/ese/department-econometrics) of [Erasmus University](https://www.eur.nl/), and before EUR, I had been a professor of optimization at the [Industrial Engineering Department](https://ie.sabanciuniv.edu/) of [Sabancı University](https://www.sabanciuniv.edu/) for more than a decade.
+In the past, I had served for three years as a professor of Data Science and Optimization at the [Department of Econometrics](https://www.eur.nl/en/ese/department-econometrics) of [Erasmus University](https://www.eur.nl/) (EUR), and before EUR, I had been a professor of optimization at the [Industrial Engineering Department](https://ie.sabanciuniv.edu/) of [Sabancı University](https://www.sabanciuniv.edu/) for more than a decade.
 
 My **research interests** center around optimization methods in data science and decision making. Lately, I am interested in interpretable machine learning and data privacy in operations research.
 

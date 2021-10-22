@@ -40,7 +40,7 @@ One of the organizers of online lecture on [Mathematics for Machine Learning](ht
 
 Organizer of winter school on [Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH) (in Turkish), 2019
 
-Contributor to the "Purple Certificate Program" of [Gender and Women’s Studies Forum] (https://sugender.sabanciuniv.edu/en) at Sabancı University (2013-present)
+Contributor to the "Purple Certificate Program" of [Gender and Women Studies Forum] (https://sugender.sabanciuniv.edu/en) at Sabancı University (2013-present)
 
 One of the organizers of [Data Science Summer School](https://github.com/sibirbil/VBYO), 2017 
 
@@ -74,7 +74,7 @@ Postdoctoral Research Fellowship, Erasmus Research Institute of Management [(ERI
 
 Affiliated researcher of [OPTIMAL](https://optimal.uva.nl/), Optimization for and with Machine Learning, 2021-present
 
-Member of [(LNMB)](https://www.lnmb.nl/), Dutch Network on the Mathematics of Operations Research, 2020-present
+Member of [LNMB](https://www.lnmb.nl/), Dutch Network on the Mathematics of Operations Research, 2020-present
 
 Organizer of bi-weekly research seminars, Erasmus University Rotterdam, 2018-2021
 

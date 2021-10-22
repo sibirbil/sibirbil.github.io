@@ -42,7 +42,7 @@ Organizer of winter school on [Introduction to Machine Learning](https://www.you
 
 Contributor to the "Purple Certificate Program" of [Gender and Women’s Studies Forum] (https://sugender.sabanciuniv.edu/en) at Sabancı University (2013-present)
 
-One of the organizers of [Data Science Summer School]((https://github.com/sibirbil/VBYO)), 2017 
+One of the organizers of [Data Science Summer School](https://github.com/sibirbil/VBYO), 2017 
 
 One of the organizers of two schools on [Mathematical Foundations of Machine Learning](https://sibirbil.github.io/files/MK/), 2016 & 2017
 

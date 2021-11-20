@@ -8,6 +8,12 @@ redirect_from:
   - /codes
 ---
 
+[SMB](https://github.com/sibirbil/SMB): A stochastic gradient descent variant based on model building for training deep learning models.
+
+[OptiCL](https://github.com/hwiberg/OptiCL): An end-to-end framework for mixed-integer optimization with data-driven learned constraints. (by H. Wiberg and D. Maragno)
+
+[DPRMS](https://github.com/sibirbil/DPMPRS): Python codes to reproduce our results in our paper on differential privacy in multi-party resource sharing.
+
 [Rule Discovery](https://github.com/sibirbil/RuleDiscovery): Python packages for rule extraction (RUX) and rule generation (RUG) algorithms for interpretable classification.
 
 [DPAccGradMethods](https://github.com/sibirbil/DPAccGradMethods): Code package to reproduce our results on differentially private accelerated optimization algorithms.

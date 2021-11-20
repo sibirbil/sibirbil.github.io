@@ -10,11 +10,20 @@ redirect_from:
 
 (_Please note that the published papers can be slightly different than their open access versions._)
 
-Discovering classification rules for interpretable learning with linear programming, 
-with H. Akyüz, 2021. [(arxiv)](https://arxiv.org/abs/2104.10751)[(github)](https://github.com/sibirbil/RuleDiscovery)
+Bolstering stochastic gradient descent with model building, with Ö. Martin, G. Onay and F. Öztoprak, 2021.
+[(arXiv)](https://arxiv.org/abs/2111.07058)[(OO)](http://www.optimization-online.org/DB_HTML/2021/11/8683.html)[(github)](https://github.com/sibirbil/SMB)
 
-Data privacy in bid-price control for network revenue management, with N. Aydın,
-G. Sağol and U. Karaca, 2021. [(OO)](http://www.optimization-online.org/DB_HTML/2021/02/8253.html)
+Mixed integer optimization with constraint learning, with D. Maragno, H. Wiberg, D. Bertsimas, D. den Hertog and A. Fajemisin, 2021.
+[(arXiv)](https://arxiv.org/abs/2111.04469)[(OO)](http://www.optimization-online.org/DB_HTML/2021/11/8676.html)[(github)](https://github.com/hwiberg/OptiCL)
+
+Differential privacy in multi-party resource sharing, with U. Karaca, N. Aydın and
+G. Sağol, 2021. [(arXiv)](https://arxiv.org/abs/2110.10498) [(OO)](http://www.optimization-online.org/DB_HTML/2021/10/8640.html)[(github)](https://github.com/sibirbil/DPMPRS)
+
+Discovering classification rules for interpretable learning with linear programming, 
+with H. Akyüz, 2021. [(arXiv)](https://arxiv.org/abs/2104.10751)[(github)](https://github.com/sibirbil/RuleDiscovery)
+
+Data privacy in bid-price control for network revenue management, with U. Karaca, N. Aydın and
+G. Sağol, 2021. [(arXiv)](https://arxiv.org/abs/2102.07178)[(OO)](http://www.optimization-online.org/DB_HTML/2021/02/8253.html)
 
 Rule covering for interpretation and boosting, with M. Edalı and B. Yüceoğlu, 2020. 
 [(arXiv)](https://arxiv.org/abs/2007.06379) [(github)](https://github.com/sibirbil/RuleCovering)

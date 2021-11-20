@@ -8,21 +8,30 @@ redirect_from:
   - /members
 ---
 
-## Current Members
+## Current
 
-
-- **[Tabea Röber](https://nl.linkedin.com/in/tabea-roeber)**
+- **[Tabea Röber](https://www.uva.nl/en/profile/r/o/t.e.rober/t.e.rober.html?cb)**
 
   - Tentative Thesis Title: Interpretability in Machine Learning
-  - Current Position: Ph.D. candidate (starting 1 September 2021), University of Amsterdam
+  - Current Position: Ph.D. candidate, University of Amsterdam
+
+- **[Paulina von Stackelberg](https://www.linkedin.com/in/paulina-von-stackelberg/?originalSubdomain=nl)**
+
+  - Tentative Thesis Title: Predictive Process Monitoring
+  - Current Position: Ph.D. candidate, University of Amsterdam
 	
+- **[Donato Maragno](https://www.uva.nl/en/profile/m/a/d.maragno/d.maragno.html)**
+
+  - Tentative Thesis Title: Optimization with Constraint Learning
+  - Current Position: Ph.D. candidate, University of Amsterdam
+
 - **[Utku Karaca](https://www.erim.eur.nl/people/utku-karaca/)**
 
   - Tentative Thesis Title: Privacy for Multi-party Resource Allocation Problems
   - Current Position: Ph.D. candidate, Erasmus University Rotterdam
 
 
-## Past Members
+## Past
 
 
 - **[Dr. Nurdan Kuru](https://adebalilab.org/team/kuru/)**

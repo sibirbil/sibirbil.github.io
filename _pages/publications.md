@@ -39,7 +39,8 @@ Multi-objective temporal bin packing problem: An application in cloud computing,
 with N. Aydın and İ. Muter, **Computers and Operations Research**, 121, 2020.
 [(DOI)](https://doi.org/10.1016/j.cor.2020.104959)[(OO)](http://www.optimization-online.org/DB_HTML/2019/01/7029.html)[(github)](https://github.com/sibirbil/TemporalBinPacking)
 
-Evaluating navigational risk of port approach manoeuvrings with expert assessments and machine learning, with Ü. Öztürk and K. Çiçek, **Ocean Engineering**, 192(15), 106558, 2019. [(DOI)](https://doi.org/10.1016/j.oceaneng.2019.106558)
+Evaluating navigational risk of port approach manoeuvrings with expert assessments and machine learning, with Ü. Öztürk and K. Çiçek, 
+**Ocean Engineering**, 192(15), 106558, 2019. [(DOI)](https://doi.org/10.1016/j.oceaneng.2019.106558)
 
 A framework for parallel second order incremental optimization algorithms 
 for solving partially separable problems, with K. Kaya, F. Öztoprak, 

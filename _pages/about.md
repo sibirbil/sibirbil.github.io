@@ -18,5 +18,6 @@ My **research interests** center around optimization methods in data science and
 Recent News
 ------
 - We have three new papers on arXiv. The [first one](https://arxiv.org/abs/2110.10498) is about differential privacy in multi-party resource sharing, the [second one](https://arxiv.org/abs/2111.04469) is about optimization with constraint learning, and the [last one](https://arxiv.org/abs/2111.07058) is about an alternative to stochastic gradient method to train deep learning models.
-- We organized a [workshop](https://optimal.uva.nl/content/events/events/2021/09/machine-learning-for-optimization-workshop.html) on machine learning for optimization. All presentations and recordings are available on the [workshop's website](https://optimal.uva.nl/content/events/events/2021/09/machine-learning-for-optimization-workshop.html). 
+- We organized a [workshop](https://optimal.uva.nl/content/events/events/2021/09/machine-learning-for-optimization-workshop.html) on machine learning for optimization. All presentations and recordings are available on the [workshop's website](https://optimal.uva.nl/content/events/events/2021/09/machine-learning-for-optimization-workshop.html).
+- I am now an affiliated researcher of [OPTIMAL](https://optimal.uva.nl).
 - We organized a [fall school](https://nesinkoyleri.org/events/2021-yapay-ogrenme-icin-matematik/) on mathematics of machine learning in [Nesin Villages](https://nesinkoyleri.org/en/nesin-villages/).

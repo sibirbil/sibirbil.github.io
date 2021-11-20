@@ -34,11 +34,13 @@ K. Çalışkan, 2013
 
 ## Civic Involvement
 
+One of the organizers of the fall school on [Mathematics for Machine Learning](https://nesinkoyleri.org/events/2021-yapay-ogrenme-icin-matematik/), 2021.
+
 Lecturer in [Machine Learning Summer School](https://yazokulu.bilimakademisi.org/yapayogrenme/2021/), 2021
 
-One of the organizers of online lecture on [Mathematics for Machine Learning](https://nesinkoyleri.org/events/2021-makine-ogrenmesinin-matematigi/), 2021
+One of the organizers of the online lectures on [Mathematics for Machine Learning](https://nesinkoyleri.org/events/2021-makine-ogrenmesinin-matematigi/), 2021
 
-Organizer of winter school on [Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH) (in Turkish), 2019
+Organizer of the winter school on [Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH) (in Turkish), 2019
 
 Contributor to the "Purple Certificate Program" of [Gender and Women's Studies Forum](https://sugender.sabanciuniv.edu/en) at Sabancı University (2013-present)
 

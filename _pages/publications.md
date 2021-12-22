@@ -10,7 +10,7 @@ redirect_from:
 
 (_Please note that the published papers can be slightly different than their open access versions._)
 
-Learning with subset stacking, with S. Yıldırım,  K. Gökalp and H. Akyüz. [arXiv](https://arxiv.org/abs/2112.06251)[github](https://github.com/sibirbil/LESS)
+Learning with subset stacking, with S. Yıldırım,  K. Gökalp and H. Akyüz. [(arXiv)](https://arxiv.org/abs/2112.06251)[(github)](https://github.com/sibirbil/LESS)
 
 Bolstering stochastic gradient descent with model building, with Ö. Martin, G. Onay and F. Öztoprak, 2021.
 [(arXiv)](https://arxiv.org/abs/2111.07058)[(OO)](http://www.optimization-online.org/DB_HTML/2021/11/8683.html)[(github)](https://github.com/sibirbil/SMB)

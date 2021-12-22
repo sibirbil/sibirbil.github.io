@@ -17,6 +17,7 @@ My **research interests** center around optimization methods in data science and
 
 Recent News
 ------
+- We have released our new meta-learning algorithm LEarning with Subset Stacking (LESS). The Python package and the tutorials are available on our [GitHub repository](https://github.com/sibirbil/LESS). You can also read our [paper](https://arxiv.org/abs/2112.06251) on arXiv.
 - We have three new papers on arXiv. The [first one](https://arxiv.org/abs/2110.10498) is about differential privacy in multi-party resource sharing, the [second one](https://arxiv.org/abs/2111.04469) is about optimization with constraint learning, and the [last one](https://arxiv.org/abs/2111.07058) is about an alternative stochastic gradient method for training deep learning models.
 - We organized a [workshop](https://optimal.uva.nl/content/events/events/2021/09/machine-learning-for-optimization-workshop.html) on machine learning for optimization. All presentations and recordings are available on the [workshop's website](https://optimal.uva.nl/content/events/events/2021/09/machine-learning-for-optimization-workshop.html).
 - I am now an affiliated researcher of [OPTIMAL](https://optimal.uva.nl).

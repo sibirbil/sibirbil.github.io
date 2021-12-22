@@ -35,6 +35,8 @@ anchor point selection from datasets.
 
 [Temporal Bin Packing](https://github.com/sibirbil/TemporalBinPacking): A set of test instances for temporal bin packing problem.
 
+[Electra Thread](https://github.com/sibirbil/ElectraThread): Bitcointalk Electra forum discussion text corpus (2018-2021).
+
 [Terms of Service](https://github.com/sibirbil/TermsOfService): A dataset of terms of service agreements of 251  251 cryptocurrency exchanges.
 
 [Data Money](https://github.com/sibirbil/DataMoney): A dataset of white papers of top 100 cryptocurrencies and their blockchains.

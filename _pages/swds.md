@@ -8,6 +8,8 @@ redirect_from:
   - /codes
 ---
 
+[LESS](https://github.com/sibirbil/LESS): LEarning with Subset Stacking - A meta-learning algorithm based on stacking learners trained on data subsets.
+
 [SMB](https://github.com/sibirbil/SMB): A stochastic gradient descent variant based on model building for training deep learning models.
 
 [OptiCL](https://github.com/hwiberg/OptiCL): An end-to-end framework for mixed-integer optimization with data-driven learned constraints. (by H. Wiberg and D. Maragno)

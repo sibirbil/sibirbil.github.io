@@ -17,6 +17,9 @@ My **research interests** center around optimization methods in data science and
 
 Recent News
 ------
+
+- I will be one of the speakers in [EURO Ph.D. School of Data Driven Decision Making and Optimization](https://congreso.us.es/epsdata/). The school will be held at Institute of Mathematics of the University of Seville from 13th to 22nd of June.
+
 - We have released our new meta-learning algorithm LEarning with Subset Stacking (LESS). The Python package and the tutorials are available on our [GitHub repository](https://github.com/sibirbil/LESS). You can also read our [paper](https://arxiv.org/abs/2112.06251) on arXiv.
 
 - Our work on mixed-integer optimization with constraint learning is accepted to Decision Optimization Workshop in [36th AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-22/).

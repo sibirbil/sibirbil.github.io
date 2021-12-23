@@ -12,7 +12,7 @@ redirect_from:
 
 Learning with subset stacking, with S. Yıldırım,  K. Gökalp and H. Akyüz, 2021. [(arXiv)](https://arxiv.org/abs/2112.06251)[(github)](https://github.com/sibirbil/LESS)
 
-OptiCL: A package for mixed-integer optimization with constraint learning, with D. Maragno, H. Wiberg, D. Bertsimas, D. den Hertog and A. Fajemisin, **Decision Optimization Workshop in 36th AAAI Conference on Artificial Intelligenece**, Vancouver, BC, Canada, February 22 – March 1, 2022.
+OptiCL: A package for mixed-integer optimization with constraint learning, with D. Maragno, H. Wiberg, D. Bertsimas, D. den Hertog and A. Fajemisin, **Decision Optimization Workshop in 36th AAAI Conference on Artificial Intelligence**, Vancouver, BC, Canada, February 22 – March 1, 2022.
 
 Bolstering stochastic gradient descent with model building, with Ö. Martin, G. Onay and F. Öztoprak, 2021.
 [(arXiv)](https://arxiv.org/abs/2111.07058)[(OO)](http://www.optimization-online.org/DB_HTML/2021/11/8683.html)[(github)](https://github.com/sibirbil/SMB)

@@ -22,6 +22,8 @@ Recent News
 
 - We have released our new meta-learning algorithm LEarning with Subset Stacking (LESS). The Python package and the tutorials are available on our [GitHub repository](https://github.com/sibirbil/LESS). You can also read our [paper](https://arxiv.org/abs/2112.06251) on arXiv.
 
+- I will be leading the [UvA group on Optimization and Machine Learning](https://www.lnmb.nl/pages/dutchorgroups/proj10b.htm) at Dutch Network on the Mathematics of Operations Research (LNMB).
+
 - Our work on mixed-integer optimization with constraint learning is accepted to Decision Optimization Workshop in [36th AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-22/).
 
 - We have three new papers on arXiv. The [first one](https://arxiv.org/abs/2110.10498) is about differential privacy in multi-party resource sharing, the [second one](https://arxiv.org/abs/2111.04469) is about optimization with constraint learning, and the [last one](https://arxiv.org/abs/2111.07058) is about an alternative stochastic gradient method for training deep learning models.

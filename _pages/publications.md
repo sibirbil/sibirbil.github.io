@@ -21,13 +21,13 @@ Mixed-integer optimization with constraint learning, with D. Maragno, H. Wiberg,
 [(arXiv)](https://arxiv.org/abs/2111.04469)[(OO)](http://www.optimization-online.org/DB_HTML/2021/11/8676.html)[(github)](https://github.com/hwiberg/OptiCL)
 
 Differential privacy in multi-party resource sharing, with U. Karaca, N. Aydın and
-G. Sağol, 2021. [(arXiv)](https://arxiv.org/abs/2110.10498) [(OO)](http://www.optimization-online.org/DB_HTML/2021/10/8640.html)[(github)](https://github.com/sibirbil/DPMPRS)
+G. Mullaoğlu, 2021. [(arXiv)](https://arxiv.org/abs/2110.10498) [(OO)](http://www.optimization-online.org/DB_HTML/2021/10/8640.html)[(github)](https://github.com/sibirbil/DPMPRS)
 
 Discovering classification rules for interpretable learning with linear programming, 
 with H. Akyüz, 2021. [(arXiv)](https://arxiv.org/abs/2104.10751)[(github)](https://github.com/sibirbil/RuleDiscovery)
 
 Data privacy in bid-price control for network revenue management, with U. Karaca, N. Aydın and
-G. Sağol, 2021. [(arXiv)](https://arxiv.org/abs/2102.07178)[(OO)](http://www.optimization-online.org/DB_HTML/2021/02/8253.html)
+G. Mullaoğlu, 2021. [(arXiv)](https://arxiv.org/abs/2102.07178)[(OO)](http://www.optimization-online.org/DB_HTML/2021/02/8253.html)
 
 Rule covering for interpretation and boosting, with M. Edalı and B. Yüceoğlu, 2020. 
 [(arXiv)](https://arxiv.org/abs/2007.06379) [(github)](https://github.com/sibirbil/RuleCovering)

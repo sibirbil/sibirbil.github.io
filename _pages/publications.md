@@ -36,7 +36,7 @@ Low-dimensional interpretable kernels with conic discriminant functions for clas
 with G. Ceylan, 2020. [(arXiv)](https://arxiv.org/abs/2007.08986)[(github)](https://github.com/sibirbil/SimpleKernels)
 
 Differentially private accelerated optimization algorithms, 
-with N. Kuru, M. Gürbüzbalaban and S. Yıldırım, 2020.
+with N. Kuru, M. Gürbüzbalaban and S. Yıldırım, to appear in **SIAM Journal on Optimization**, 2022.
 [(arXiv)](https://arxiv.org/abs/2008.01989)[(github)](https://github.com/sibirbil/DPAccGradMethods)
 
 Multi-objective temporal bin packing problem: An application in cloud computing,

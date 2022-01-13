@@ -18,6 +18,9 @@ My **research interests** center around optimization methods in data science and
 Recent News
 ------
 
+-- Our paper on differentially private accelerated optimization algorithms is accepted for publication in **SIAM Journal on Optimization**. 
+[(arXiv)](https://arxiv.org/abs/2008.01989)[(github)](https://github.com/sibirbil/DPAccGradMethods)
+
 - I will be one of the speakers in [EURO Ph.D. School of Data Driven Decision Making and Optimization](https://congreso.us.es/epsdata/). The school will be held at Institute of Mathematics of the University of Seville from 13th to 22nd of June.
 
 - We have released our new meta-learning algorithm LEarning with Subset Stacking (LESS). The Python package and the tutorials are available on our [GitHub repository](https://github.com/sibirbil/LESS). You can also read our [paper](https://arxiv.org/abs/2112.06251) on arXiv.

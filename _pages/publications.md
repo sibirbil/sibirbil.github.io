@@ -10,51 +10,43 @@ redirect_from:
 
 (_Please note that the published papers can be slightly different than their open access versions._)
 
-Learning with subset stacking, with S. Yıldırım,  K. Gökalp and H. Akyüz, 2021. [(arXiv)](https://arxiv.org/abs/2112.06251)[(github)](https://github.com/sibirbil/LESS)
+Rule generation for classification: Scalability, interpretability, and fairness, **Computers and Operations Research**, with T.E. Röber, A. Lumadjeng and H. Akyüz, 183, 107163, 2025. 
+[(DOI)](https://doi.org/10.1016/j.cor.2025.107163)[(arXiv)](https://arxiv.org/abs/2104.10751)[(github)](https://github.com/sibirbil/RuleDiscovery)
+
+Bolstering stochastic gradient descent with model building, **Transactions in Operations Research**, with Ö. Martin, G. Onay and F. Öztoprak, 32, 517-536, 2024.
+[(DOI)](https://doi.org/10.1007/s11750-024-00673-z)[(arXiv)](https://arxiv.org/abs/2111.07058)[(OO)](http://www.optimization-online.org/DB_HTML/2021/11/8683.html)[(github)](https://github.com/sibirbil/SMB)
+
+Differentially private linear optimization for multi-party resource sharing, with U. Karaca, N. Aydın and S. Yıldırım, 2024. [(arXiv)](https://arxiv.org/abs/2110.10498) [(github)](https://github.com/sibirbil/DPMPRS)
+
+Mixed-integer optimization with constraint learning, with D. Maragno, H. Wiberg, D. Bertsimas, D. den Hertog and A. Fajemisin, **Operations Research**, 73(2):1011-1028, 2023.
+[(DOI)](https://doi.org/10.1287/opre.2021.0707)[(arXiv)](https://arxiv.org/abs/2111.04469)[(OO)](http://www.optimization-online.org/DB_HTML/2021/11/8676.html)[(github)](https://github.com/hwiberg/OptiCL)
+
+Masking primal and dual models for data privacy in network revenue management, with U. Karaca, N. Aydın and G. Mullaoğlu, **European Journal of Operational Research**, 308(2), 818-831, 2023. [(DOI)](https://doi.org/10.1016/j.ejor.2022.11.025)[(arXiv)](https://arxiv.org/abs/2102.07178)[(OO)](http://www.optimization-online.org/DB_HTML/2021/02/8253.html)
 
 OptiCL: A package for mixed-integer optimization with constraint learning, with D. Maragno, H. Wiberg, D. Bertsimas, D. den Hertog and A. Fajemisin, **Decision Optimization Workshop in 36th AAAI Conference on Artificial Intelligence**, Vancouver, BC, Canada, February 22 – March 1, 2022.
 
-Bolstering stochastic gradient descent with model building, with Ö. Martin, G. Onay and F. Öztoprak, 2021.
-[(arXiv)](https://arxiv.org/abs/2111.07058)[(OO)](http://www.optimization-online.org/DB_HTML/2021/11/8683.html)[(github)](https://github.com/sibirbil/SMB)
+Differentially private accelerated optimization algorithms, with N. Kuru, M. Gürbüzbalaban and S. Yıldırım, **SIAM Journal on Optimization**, 32(2), 795-821, 2022.
+[(DOI)](https://doi.org/10.1137/20M1355847)[(arXiv)](https://arxiv.org/abs/2008.01989)[(github)](https://github.com/sibirbil/DPAccGradMethods)
 
-Mixed-integer optimization with constraint learning, with D. Maragno, H. Wiberg, D. Bertsimas, D. den Hertog and A. Fajemisin, 2021.
-[(arXiv)](https://arxiv.org/abs/2111.04469)[(OO)](http://www.optimization-online.org/DB_HTML/2021/11/8676.html)[(github)](https://github.com/hwiberg/OptiCL)
+Learning with subset stacking, with S. Yıldırım,  K. Gökalp and H. Akyüz, 2021. [(arXiv)](https://arxiv.org/abs/2112.06251)[(github)](https://github.com/sibirbil/LESS)
 
-Differential privacy in multi-party resource sharing, with U. Karaca, N. Aydın and
-G. Mullaoğlu, 2021. [(arXiv)](https://arxiv.org/abs/2110.10498) [(OO)](http://www.optimization-online.org/DB_HTML/2021/10/8640.html)[(github)](https://github.com/sibirbil/DPMPRS)
-
-Discovering classification rules for interpretable learning with linear programming, 
-with H. Akyüz, 2021. [(arXiv)](https://arxiv.org/abs/2104.10751)[(github)](https://github.com/sibirbil/RuleDiscovery)
-
-Data privacy in bid-price control for network revenue management, with U. Karaca, N. Aydın and
-G. Mullaoğlu, 2021. [(arXiv)](https://arxiv.org/abs/2102.07178)[(OO)](http://www.optimization-online.org/DB_HTML/2021/02/8253.html)
-
-Rule covering for interpretation and boosting, with M. Edalı and B. Yüceoğlu, 2020. 
-[(arXiv)](https://arxiv.org/abs/2007.06379) [(github)](https://github.com/sibirbil/RuleCovering)
+Multi-objective temporal bin packing problem: An application in cloud computing, with N. Aydın and İ. Muter, **Computers and Operations Research**, 121, 2020.
+[(DOI)](https://doi.org/10.1016/j.cor.2020.104959)[(OO)](http://www.optimization-online.org/DB_HTML/2019/01/7029.html)[(github)](https://github.com/sibirbil/TemporalBinPacking)
 
 Low-dimensional interpretable kernels with conic discriminant functions for classification, 
 with G. Ceylan, 2020. [(arXiv)](https://arxiv.org/abs/2007.08986)[(github)](https://github.com/sibirbil/SimpleKernels)
 
-Differentially private accelerated optimization algorithms, 
-with N. Kuru, M. Gürbüzbalaban and S. Yıldırım, to appear in **SIAM Journal on Optimization**, 2022.
-[(arXiv)](https://arxiv.org/abs/2008.01989)[(github)](https://github.com/sibirbil/DPAccGradMethods)
-
-Multi-objective temporal bin packing problem: An application in cloud computing,
-with N. Aydın and İ. Muter, **Computers and Operations Research**, 121, 2020.
-[(DOI)](https://doi.org/10.1016/j.cor.2020.104959)[(OO)](http://www.optimization-online.org/DB_HTML/2019/01/7029.html)[(github)](https://github.com/sibirbil/TemporalBinPacking)
+Rule covering for interpretation and boosting, with M. Edalı and B. Yüceoğlu, 2020.
+[(arXiv)](https://arxiv.org/abs/2007.06379) [(github)](https://github.com/sibirbil/RuleCovering)
 
 Evaluating navigational risk of port approach manoeuvrings with expert assessments and machine learning, with Ü. Öztürk and K. Çiçek, 
-**Ocean Engineering**, 192(15), 106558, 2019. [(DOI)](https://doi.org/10.1016/j.oceaneng.2019.106558)
+**Ocean Engineering**, 192(15), 106558, 2019. 
+[(DOI)](https://doi.org/10.1016/j.oceaneng.2019.106558)
 
-A framework for parallel second order incremental optimization algorithms 
-for solving partially separable problems, with K. Kaya, F. Öztoprak, 
-A. T. Cemgil, U. Şimşekli, N. Kuru, H. Koptagel, M. K. Öztürk, 
-**Computational Optimization and Applications**, 72, 675–705, 2019. 
+A framework for parallel second order incremental optimization algorithms for solving partially separable problems, with K. Kaya, F. Öztoprak, A. T. Cemgil, U. Şimşekli, N. Kuru, H. Koptagel, M. K. Öztürk, **Computational Optimization and Applications**, 72, 675–705, 2019.
 [(DOI)](https://doi.org/10.1007/s10589-018-00057-7)[(arXiv)](http://arxiv.org/abs/1509.01698)[(github)](https://github.com/spartensor/hamsi-mf)
 
-Decomposition methods for solving dynamic programming problems
-in hotel revenue management, with N. Aydın, **European Journal of Operational Research**,
-271(1), 179-192, 2018. 
+Decomposition methods for solving dynamic programming problems in hotel revenue management, with N. Aydın, **European Journal of Operational Research**, 271(1), 179-192, 2018. 
 [(DOI)](https://doi.org/10.1016/j.ejor.2018.05.027)
 
 An alternative globalization strategy for unconstrained optimization, **Optimization**, 

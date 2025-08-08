@@ -73,7 +73,7 @@ redirect_from:
   - Current Position: Senior Product Manager, Hitit Computer Services
 
 - **[Dr. İbrahim Muter](https://www.linkedin.com/in/ibrahim-muter-876b7234)**
-- 
+
   - Thesis Title: Large-scale Linear Programs with Column-Dependent-Rows
   - Current Position: Senior Applied Scientist, Amazon Web Services
 

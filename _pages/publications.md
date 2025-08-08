@@ -8,13 +8,27 @@ redirect_from:
   - /pubs
 ---
 
-(_Please note that the published papers can be slightly different than their open access versions._)
+(_Please note that the published papers can be slightly different from their open access versions._)
 
-Rule generation for classification: Scalability, interpretability, and fairness, **Computers and Operations Research**, with T.E. Röber, A. Lumadjeng and H. Akyüz, 183, 107163, 2025. 
+Rule generation for classification: Scalability, interpretability, and fairness, **Computers and Operations Research**, with T. E. Röber, A. Lumadjeng and H. Akyüz, 183, 107163, 2025. 
 [(DOI)](https://doi.org/10.1016/j.cor.2025.107163)[(arXiv)](https://arxiv.org/abs/2104.10751)[(github)](https://github.com/sibirbil/RuleDiscovery)
+
+Modeling Alzheimer’s disease: Bayesian copula graphical model from demographic, cognitive, and neuroimaging data, **Journal of Alzheimer's Disease**, with L. Vogels, R. Mohammadi, M. Schoonhoven and M. Dyrba for the Alzheimer’s Disease Neuroimaging Initiative, online first, 2025.
+[(DOI)](https://doi.org/10.1177/13872877251337944)
+
+Towards a better understanding of misfit through explainable AI techniques, with C. Boon and E. Durak, in Employee Misfit: Theories, Perspectives, and New Directions, edited by J. Billsberry and D. L. Talbot, to appear, 2025.
+
+Finding regions of counterfactual explanations via robust optimization, **INFORMS Journal on Computing**, D. Maragno, J. Kurtz, T. E. Röber, R. Goedhart and D. den Hertog, 36(5):1316-1334, 2024.
+[(DOI)](https://doi.org/10.1287/ijoc.2023.0153)[(arXiv)](https://arxiv.org/abs/2301.11113)[(github)](https://github.com/donato-maragno/robust-CE)
+
+Embedding machine learning based toxicity models within radiotherapy treatment plan optimization, with D. Maragno, G. Buti, Z. Liao, T. Bortfeld, D. den Hertog and A. Ajdari, **Physics in Medicine and Biology**, 69, 075003, 2024.
+[(DOI)](https://iopscience.iop.org/article/10.1088/1361-6560/ad2d7e/meta)
 
 Bolstering stochastic gradient descent with model building, **Transactions in Operations Research**, with Ö. Martin, G. Onay and F. Öztoprak, 32, 517-536, 2024.
 [(DOI)](https://doi.org/10.1007/s11750-024-00673-z)[(arXiv)](https://arxiv.org/abs/2111.07058)[(OO)](http://www.optimization-online.org/DB_HTML/2021/11/8683.html)[(github)](https://github.com/sibirbil/SMB)
+
+Comparison of threshold tuning methods for predictive monitoring, **Quality and Reliability Engineering International**, with P. von Stackelberg, R. Goedhart and R. J. M. M. Does, 40(1), 499-512, 2024.
+[(DOI)](https://doi.org/10.1002/qre.3436)
 
 Differentially private linear optimization for multi-party resource sharing, with U. Karaca, N. Aydın and S. Yıldırım, 2024. [(arXiv)](https://arxiv.org/abs/2110.10498) [(github)](https://github.com/sibirbil/DPMPRS)
 
@@ -22,6 +36,9 @@ Mixed-integer optimization with constraint learning, with D. Maragno, H. Wiberg,
 [(DOI)](https://doi.org/10.1287/opre.2021.0707)[(arXiv)](https://arxiv.org/abs/2111.04469)[(OO)](http://www.optimization-online.org/DB_HTML/2021/11/8676.html)[(github)](https://github.com/hwiberg/OptiCL)
 
 Masking primal and dual models for data privacy in network revenue management, with U. Karaca, N. Aydın and G. Mullaoğlu, **European Journal of Operational Research**, 308(2), 818-831, 2023. [(DOI)](https://doi.org/10.1016/j.ejor.2022.11.025)[(arXiv)](https://arxiv.org/abs/2102.07178)[(OO)](http://www.optimization-online.org/DB_HTML/2021/02/8253.html)
+
+Why we do need Explainable AI for Healthcare, with G. Cinà, T. E. Röber and R. Goedhart, 2025.
+[(arXiv)](https://arxiv.org/abs/2206.15363)
 
 OptiCL: A package for mixed-integer optimization with constraint learning, with D. Maragno, H. Wiberg, D. Bertsimas, D. den Hertog and A. Fajemisin, **Decision Optimization Workshop in 36th AAAI Conference on Artificial Intelligence**, Vancouver, BC, Canada, February 22 – March 1, 2022.
 

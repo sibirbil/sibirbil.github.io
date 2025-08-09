@@ -10,6 +10,24 @@ redirect_from:
 
 (_Please note that the published papers can be slightly different from their open access versions._)
 
+Counterfactual explanations for linear optimization, with J. Kurtz and D. den Hertog, **European Journal of Operational Research**, in press, 2025.
+[(DOI)](https://doi.org/10.1016/j.ejor.2025.06.016)[(arXiv)](https://arxiv.org/abs/2405.15431)[(github)](https://github.com/JannisKu/CE4LOPT)
+
+Communication strategies driving online health community patient awareness and engagement investigated within atrial fibrillation context, with M. Kuipers, U. Konus, B. J. J. M. Brundel, **npj Digital Medicine**, 8, 446, 2025. 
+[(DOI)](https://doi.org/10.1038/s41746-025-01854-1)
+
+Clinicians' voice: fundamental considerations for XAI in healthcare, with T. E. Röber and R. Goedhart, Machine Learning for Healthcare, Rochester, 2025.
+[(arXiv)](https://arxiv.org/abs/2411.04855)
+
+Output-constrained decision trees, with H. Tunç, D. Özese, D. Maragno, M. Caserta and Mustafa Baydoğan, 2025.
+[(arXiv)](https://arxiv.org/abs/2405.15314)[(github)](https://github.com/sibirbil/OCDT)
+
+Generating samples to question trained models, with E. M. Kıral and N. Aydın, 2025. 
+[(arXiv)](https://arxiv.org/abs/2502.06658)[(github)](https://github.com/sibirbil/EvD)
+
+Coherent local explanations for mathematical optimization, with D. Otto and J. Kurtz, 2025.
+[(arXiv)](https://arxiv.org/abs/2502.04840)[(github)](https://github.com/daanotto/CLEMO)
+
 Rule generation for classification: Scalability, interpretability, and fairness, with T. E. Röber, A. Lumadjeng and H. Akyüz, **Computers and Operations Research**, 183, 107163, 2025.
 [(DOI)](https://doi.org/10.1016/j.cor.2025.107163)[(arXiv)](https://arxiv.org/abs/2104.10751)[(github)](https://github.com/sibirbil/RuleDiscovery)
 
@@ -18,17 +36,26 @@ Modeling Alzheimer’s disease: Bayesian copula graphical model from demographic
 
 Towards a better understanding of misfit through explainable AI techniques, with C. Boon and E. Durak, in Employee Misfit: Theories, Perspectives, and New Directions, edited by J. Billsberry and D. L. Talbot, to appear, 2025.
 
+Enhancing decision making through the integration of large language models and operations research optimization, with S. Wasserkrug, L. Boussioux, D. den Hertog, F Mirzazadeh, J. Kurtz and D. Maragno, Proceedings of the AAAI Conference on Artificial Intelligence, 39(27), 2025.
+[(DOI)](https://doi.org/10.1609/aaai.v39i27.35090)[(arXiv)](https://arxiv.org/abs/2402.16269)
+
 Finding regions of counterfactual explanations via robust optimization, with D. Maragno, J. Kurtz, T. E. Röber, R. Goedhart and D. den Hertog, **INFORMS Journal on Computing**, 36(5):1316-1334, 2024.
 [(DOI)](https://doi.org/10.1287/ijoc.2023.0153)[(arXiv)](https://arxiv.org/abs/2301.11113)[(github)](https://github.com/donato-maragno/robust-CE)
 
 Machine learning for K-adaptability in two-stage robust optimization, with E. Julien and K. Postek, **INFORMS Journal on Computing**, 37(3):644-665, 2024.
 [(DOI)](https://doi.org/10.1287/ijoc.2022.0314)[(arXiv)](https://arxiv.org/abs/2210.11152)[(github)](https://github.com/estherjulien/KAdaptNS)
 
+Bayesian structure learning in undirected Gaussian graphical models: literature review with empirical comparison, with L. Vogels, R. Mohammadi, M. Schoonhoven, **Journal of the American Statistical Association**, 119(548), 3164-3182, 2024.
+[(DOI)](https://doi.org/10.1080/01621459.2024.2395504)[(arXiv)](https://arxiv.org/abs/2307.02603)[(github)](https://github.com/lucasvogels33/Review-paper-Bayesian-Structure-Learning-in-GGMs)
+
 Embedding machine learning based toxicity models within radiotherapy treatment plan optimization, with D. Maragno, G. Buti, Z. Liao, T. Bortfeld, D. den Hertog and A. Ajdari, **Physics in Medicine and Biology**, 69, 075003, 2024.
 [(DOI)](https://iopscience.iop.org/article/10.1088/1361-6560/ad2d7e/meta)
 
 Bolstering stochastic gradient descent with model building, with Ö. Martin, G. Onay and F. Öztoprak, **Transactions in Operations Research**, 32, 517-536, 2024.
 [(DOI)](https://doi.org/10.1007/s11750-024-00673-z)[(arXiv)](https://arxiv.org/abs/2111.07058)[(OO)](http://www.optimization-online.org/DB_HTML/2021/11/8683.html)[(github)](https://github.com/sibirbil/SMB)
+
+Fixing confirmation bias in feature attribution methods via semantic match, with G. Cinà, D. Fernandez-Llaneza, L. Deponte, N. Mishra, T. E. Röber, S. Pezzelle, I. Calixto and R. Goedhart, 2024.
+[(arXiv)](https://arxiv.org/abs/2307.00897)[(github)](https://github.com/Giovannicina/semantic_match)
 
 Comparison of threshold tuning methods for predictive monitoring, with P. von Stackelberg, R. Goedhart and R. J. M. M. Does, **Quality and Reliability Engineering International**, 40(1), 499-512, 2024.
 [(DOI)](https://doi.org/10.1002/qre.3436)
@@ -45,7 +72,7 @@ Semantic match: Debugging feature attribution methods in XAI for healthcare, wit
 Masking primal and dual models for data privacy in network revenue management, with U. Karaca, N. Aydın and G. Mullaoğlu, **European Journal of Operational Research**, 308(2), 818-831, 2023. 
 [(DOI)](https://doi.org/10.1016/j.ejor.2022.11.025)[(arXiv)](https://arxiv.org/abs/2102.07178)[(OO)](http://www.optimization-online.org/DB_HTML/2021/02/8253.html)
 
-Why we do need Explainable AI for Healthcare, with G. Cinà, T. E. Röber and R. Goedhart, 2025.
+Why we do need explainable AI for healthcare, with G. Cinà, T. E. Röber and R. Goedhart, 2022.
 [(arXiv)](https://arxiv.org/abs/2206.15363)
 
 OptiCL: A package for mixed-integer optimization with constraint learning, with D. Maragno, H. Wiberg, D. Bertsimas, D. den Hertog and A. Fajemisin, **Decision Optimization Workshop in 36th AAAI Conference on Artificial Intelligence**, Vancouver, BC, Canada, February 22 – March 1, 2022. 

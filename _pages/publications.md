@@ -66,8 +66,8 @@ Differentially private linear optimization for multi-party resource sharing, wit
 Mixed-integer optimization with constraint learning, with D. Maragno, H. Wiberg, D. Bertsimas, D. den Hertog and A. Fajemisin, **Operations Research**, 73(2):1011-1028, 2023.
 [(DOI)](https://doi.org/10.1287/opre.2021.0707)[(arXiv)](https://arxiv.org/abs/2111.04469)[(OO)](http://www.optimization-online.org/DB_HTML/2021/11/8676.html)[(github)](https://github.com/hwiberg/OptiCL)
 
-Differentially Private Distributed Bayesian Linear Regression with MCMC, with B. Alparslan and S. Yıldırım, Proceedings of the 40th International Conference on Machine Learning (ICML), Honolulu, Hawaii, USA. PMLR 202, 2023.
-[(link)](https://proceedings.mlr.press/v202/alparslan23a/alparslan23a.pdf)[arXiv](https://arxiv.org/abs/2301.13778)[(github)](https://github.com/sinanyildirim/Bayesian_DP_dist_LR)
+Differentially private distributed Bayesian linear regression with MCMC, with B. Alparslan and S. Yıldırım, Proceedings of the 40th International Conference on Machine Learning (ICML), Honolulu, Hawaii, USA. PMLR 202, 2023.
+[(link)](https://proceedings.mlr.press/v202/alparslan23a/alparslan23a.pdf)[(arXiv)](https://arxiv.org/abs/2301.13778)[(github)](https://github.com/sinanyildirim/Bayesian_DP_dist_LR)
 
 Semantic match: Debugging feature attribution methods in XAI for healthcare, with G. Cinà, T. E. Röber and R. Goedhart, Proceedings of the Conference on Health, Inference, and Learning, edited by B. J. Mortazavi, T. Sarker, A. Beam and J. C. Ho, PMLR, 182-190, 2023.
 [(link)](https://proceedings.mlr.press/v209/cina23a.html)

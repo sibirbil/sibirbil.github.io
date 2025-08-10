@@ -8,7 +8,7 @@ redirect_from:
   - /codes
 ---
 
-[OCLLab](Labhttps://sibirbil.github.io/AAAI-23-OCLLab/): Optimization with constraint learning (AAAI2023AAAI-23 Tutorial and Lab Forum)
+[OCLLab](Labhttps://sibirbil.github.io/AAAI-23-OCLLab/): Optimization with constraint learning [AAAI2023AAAI-23 Tutorial and Lab Forum](https://aaai-23.aaai.org/aaai23tutorials/) at The Thirty-Seventh AAAI Conference on Artificial Intelligence, 2023.
 
 [LESS](https://github.com/sibirbil/LESS): LEarning with Subset Stacking - A meta-learning algorithm based on stacking learners trained on data subsets.
 

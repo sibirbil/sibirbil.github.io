@@ -8,6 +8,30 @@ redirect_from:
   - /service
 ---
 
+## Civic Involvement
+
+One of the organizers of the two summer schools: (i) [Artificial Intelligence - Mathematical Foundations](https://bilimler.org/etkinlikler/etkinlikler/bilgisayar/143), (ii) [Artificial Intelligence - Advanced Methods](https://bilimler.org/etkinlikler/etkinlikler/bilgisayar/144), 2025.
+
+One of the organizers of the summer school on [Foundations of Machine Learning](https://bilimler.org/etkinlikler/etkinlikler/bilgisayar/86), 2024.
+
+One of the organizers of the Workshop on [Analytics for a Better World – Istanbul (Turkey)](https://abs.uva.nl/content/events/business-analytics/2023-09/workshop-on-analytics-for-a-better-world---istanbul-turkey.html), 2023.
+
+One of the organizes of the summer school on [Contemporary Artificial Intelligence and Its Mathematical Foundations](https://bilimler.org/etkinlikler/etkinlikler/bilgisayar/48), 2023.
+
+One of the organizers of the fall school on [Mathematics for Machine Learning](https://nesinkoyleri.org/events/2021-yapay-ogrenme-icin-matematik/), 2021.
+
+Lecturer in [Machine Learning Summer School](https://yazokulu.bilimakademisi.org/yapayogrenme/2021/), 2021
+
+One of the organizers of the online lectures on [Mathematics for Machine Learning](https://nesinkoyleri.org/events/2021-makine-ogrenmesinin-matematigi/), 2021
+
+Organizer of the winter school on [Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH) (in Turkish), 2019
+
+Contributor to the "Purple Certificate Program" of [Gender and Women's Studies Forum](https://sugender.sabanciuniv.edu/en) at Sabancı University (2013-present)
+
+One of the organizers of [Data Science Summer School](https://github.com/sibirbil/VBYO), 2017 
+
+One of the organizers of two schools on [Mathematical Foundations of Machine Learning](https://sibirbil.github.io/files/MK/), 2016 & 2017
+
 ## Blogs
 
 [Bol Bilim](https://bolbilim.com/): With [Pınar Yolum](https://www.uu.nl/medewerkers/PYolumBirbil), we have been writing about the academic life, i.e, writing papers, preparing talks, getting ready for lectures, and so on. (in Turkish). We also have a [YouTube channel](https://www.youtube.com/channel/UCzKzqD6nxTyuHwPJwVRNe3g).
@@ -31,22 +55,6 @@ I occasionally write articles for newspapers and magazines. I did have a steady 
 
 [Twitter Millet Meclisinin Sürpriz Siyaseti](http://www.radikal.com.tr/turkiye/twitter-millet-meclisinin-surpriz-siyaseti-1136382/), with A. T. Cemgil and
 K. Çalışkan, 2013
-
-## Civic Involvement
-
-One of the organizers of the fall school on [Mathematics for Machine Learning](https://nesinkoyleri.org/events/2021-yapay-ogrenme-icin-matematik/), 2021.
-
-Lecturer in [Machine Learning Summer School](https://yazokulu.bilimakademisi.org/yapayogrenme/2021/), 2021
-
-One of the organizers of the online lectures on [Mathematics for Machine Learning](https://nesinkoyleri.org/events/2021-makine-ogrenmesinin-matematigi/), 2021
-
-Organizer of the winter school on [Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLZcbvMjrj9DVU6g2A5e6voeigUtSMsAJH) (in Turkish), 2019
-
-Contributor to the "Purple Certificate Program" of [Gender and Women's Studies Forum](https://sugender.sabanciuniv.edu/en) at Sabancı University (2013-present)
-
-One of the organizers of [Data Science Summer School](https://github.com/sibirbil/VBYO), 2017 
-
-One of the organizers of two schools on [Mathematical Foundations of Machine Learning](https://sibirbil.github.io/files/MK/), 2016 & 2017
 
 ## About Me
 
@@ -74,6 +82,8 @@ Postdoctoral Research Fellowship, Erasmus Research Institute of Management [(ERI
 
 ## Memberships and University Services
 
+Chair of [Business Analytics](https://abs.uva.nl/content/sections/business-analytics/business-analytics.html) section at UvA, 2022-present
+
 Affiliated researcher of [OPTIMAL](https://optimal.uva.nl/), Optimization for and with Machine Learning, 2021-present
 
 Member of [LNMB](https://www.lnmb.nl/), Dutch Network on the Mathematics of Operations Research, 2020-present
@@ -100,6 +110,8 @@ Member of undergraduate orientation committee, Sabancı University, 2005-2011
 
 ## Professional Activities
 
+Leading the [UvA group on Optimization and Machine Learning](https://www.lnmb.nl/pages/dutchorgroups/proj10b.htm) at the Dutch Network on the Mathematics of Operations Research (LNMB), 2022-present.
+
 Guest Editor for [special issue](http://www.yokohamapublishers.jp/online2/pjov12-3.html) of Pacific Journal of Optimization, 2016
 
 Associate Editor for [Journal of Industrial Management Optimization](https://www.aimsciences.org/journal/1547-5816), 2006-2016
@@ -108,6 +120,10 @@ Advisor for Engineering Research Group (industrial engineering section) of The S
 
 
 ## Conferences
+
+Plenary speaker with the talk "Artificial Intelligence and Explanation Methods in Optimization," [YAEM 2025](https://www.yaem2025.org/), Ankara, Turkey.
+
+Session chair at [EURO 2025](https://euro2025leeds.uk/), Leeds, UK - Session title "New Approaches in Explainable Optimization in stream Transparent and Fair Decision Making with Mathematical Optimization."
 
 Session chair for DSSV-ECDA 2021, Data Science, Statistics & Visualisation (DSSV) and the European Conference on Data Analysis (ECDA) - Online
 

@@ -8,6 +8,12 @@ redirect_from:
   - /teach
 ---
 
+[Trustworthy AI for Business and Society](https://github.com/tabearoeber/trustworthy_ai), graduate, University of Amsterdam
+
+Optimization for Machine Learning, graduate, [LNMB](https://www.lnmb.nl/)
+
+Optimization and Machine Leaning, graduate, University of Amsterdam
+
 Operations Resarch - Deterministic Methods, undergraduate, University of Amsterdam
 
 Operations Resarch - Deterministic Methods, undergraduate, University of Amsterdam

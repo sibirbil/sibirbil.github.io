@@ -68,6 +68,8 @@ K. Çalışkan, 2013
 
 ## Awards and Fellowships
 
+Tozun Terzioğlu Visiting Fellow, [PhD Course - Optimization in Machine Learning]((https://fens.sabanciuniv.edu/tr/tosun-terzioglu-kursusu)), 2023.
+
 Teaching Award, Sabancı University, 2014-2015 Academic Year Graduating Class, (3rd place)
 
 Teaching Award, Sabancı University, 2009-2010 Academic Year Graduating Class, (1st place)
@@ -83,6 +85,8 @@ Postdoctoral Research Fellowship, Erasmus Research Institute of Management [(ERI
 ## Memberships and University Services
 
 Chair of [Business Analytics](https://abs.uva.nl/content/sections/business-analytics/business-analytics.html) section at UvA, 2022-present
+
+Leading Dutch Operations Research group [Optimization and Machine Learning](https://www.lnmb.nl/pages/dutchorgroups/proj10b.htm), LNMB, 2021-present
 
 Affiliated researcher of [OPTIMAL](https://optimal.uva.nl/), Optimization for and with Machine Learning, 2021-present
 
@@ -123,7 +127,7 @@ Advisor for Engineering Research Group (industrial engineering section) of The S
 
 Plenary speaker with the talk "Artificial Intelligence and Explanation Methods in Optimization," [YAEM 2025](https://www.yaem2025.org/), Ankara, Turkey.
 
-Session chair at [EURO 2025](https://euro2025leeds.uk/), Leeds, UK - Session title "New Approaches in Explainable Optimization in stream Transparent and Fair Decision Making with Mathematical Optimization."
+Session chair at [EURO 2025](https://euro2025leeds.uk/), University of Leeds, UK - Session title "New Approaches in Explainable Optimization" in stream Transparent and Fair Decision Making with Mathematical Optimization.
 
 Session chair for DSSV-ECDA 2021, Data Science, Statistics & Visualisation (DSSV) and the European Conference on Data Analysis (ECDA) - Online
 

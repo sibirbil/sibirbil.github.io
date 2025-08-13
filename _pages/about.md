@@ -17,8 +17,14 @@ My **research interests** center around optimization methods in artificial intel
 Recent News
 ------
 
+- I will present our recent work on counterfactuals in optimization at the [PhD students colloquium](https://sites.google.com/view/yaemdoktorarencilerikolokyumu/kolokyum?authuser=0), Bilkent University, Turkey.
+
 - I am going to talk about explainable optimization at the [2nd EURO PhD School Data Science Meets Combinatorial Optimisation](https://sites.google.com/view/phd-school-dso-2025/symposium), Eindhoven University, The Netherlands.
 
 - Our [paper]((https://doi.org/10.1038/s41746-025-01854-1)) with M. Kuipers, U. Konus, B. J. J. M. Brundel has just appeared in **npj Digital Medicine**. 
 
 - Our first [paper](https://doi.org/10.1016/j.ejor.2025.06.016) on explainable optimization with J. Kurtz and D. den Hertog is accepted for publication in **European Journal of Operational Research**.
+
+- I gave the plenary talk on "Artificial Intelligence and Explanation Methods in Optimization," at the 44th National Operations Research and Industrial Engineering Conference - [YAEM 2025](https://www.yaem2025.org/).
+
+- We organized the session "New Approaches in Explainable Optimization" at [EURO 2025](https://euro2025leeds.uk/), University of Leeds, UK.

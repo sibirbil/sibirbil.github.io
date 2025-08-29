@@ -21,6 +21,8 @@ Recent News
 
 - I am going to talk about explainable optimization at the [2nd EURO PhD School Data Science Meets Combinatorial Optimisation](https://sites.google.com/view/phd-school-dso-2025/symposium), Eindhoven University, The Netherlands.
 
+- Our [paper](https://arxiv.org/abs/2206.15363) with G. Cinà, T. E. Röber and R. Goedhart is accepted for publication in **Diagnostic and Prognostic Research**.
+
 - Our [paper]((https://doi.org/10.1038/s41746-025-01854-1)) with M. Kuipers, U. Konus, B. J. J. M. Brundel has just appeared in **npj Digital Medicine**. 
 
 - Our first [paper](https://doi.org/10.1016/j.ejor.2025.06.016) on explainable optimization with J. Kurtz and D. den Hertog is accepted for publication in **European Journal of Operational Research**.

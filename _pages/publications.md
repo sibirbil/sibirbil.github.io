@@ -16,6 +16,9 @@ Counterfactual explanations for linear optimization, with J. Kurtz and D. den He
 Communication strategies driving online health community patient awareness and engagement investigated within atrial fibrillation context, with M. Kuipers, U. Konus, B. J. J. M. Brundel, **npj Digital Medicine**, 8, 446, 2025. 
 [(DOI)](https://doi.org/10.1038/s41746-025-01854-1)
 
+Why we do need explainable AI for healthcare, with G. Cinà, T. E. Röber and R. Goedhart, **Diagnostic and Prognostic Research**, to appear, 2025.
+[(arXiv)](https://arxiv.org/abs/2206.15363)
+
 Clinicians' voice: fundamental considerations for XAI in healthcare, with T. E. Röber and R. Goedhart, Machine Learning for Healthcare, Rochester, 2025.
 [(arXiv)](https://arxiv.org/abs/2411.04855)
 
@@ -74,9 +77,6 @@ Semantic match: Debugging feature attribution methods in XAI for healthcare, wit
 
 Masking primal and dual models for data privacy in network revenue management, with U. Karaca, N. Aydın and G. Mullaoğlu, **European Journal of Operational Research**, 308(2), 818-831, 2023. 
 [(DOI)](https://doi.org/10.1016/j.ejor.2022.11.025)[(arXiv)](https://arxiv.org/abs/2102.07178)[(OO)](http://www.optimization-online.org/DB_HTML/2021/02/8253.html)
-
-Why we do need explainable AI for healthcare, with G. Cinà, T. E. Röber and R. Goedhart, 2022.
-[(arXiv)](https://arxiv.org/abs/2206.15363)
 
 OptiCL: A package for mixed-integer optimization with constraint learning, with D. Maragno, H. Wiberg, D. Bertsimas, D. den Hertog and A. Fajemisin, **Decision Optimization Workshop in 36th AAAI Conference on Artificial Intelligence**, Vancouver, BC, Canada, February 22 – March 1, 2022. 
 [(link)](https://research.ibm.com/haifa/Workshops/AAAI-22-AI4DO/)

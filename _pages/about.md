@@ -17,9 +17,9 @@ My **research interests** center around optimization methods in artificial intel
 Recent News
 ------
 
-- I will present our recent work on counterfactuals in optimization at the [PhD students colloquium](https://sites.google.com/view/yaemdoktorarencilerikolokyumu/kolokyum?authuser=0), Bilkent University, Turkey.
+- I presented our recent work on counterfactuals in optimization at the [PhD students colloquium](https://sites.google.com/view/yaemdoktorarencilerikolokyumu/kolokyum?authuser=0), Bilkent University, Turkey.
 
-- I am going to talk about explainable optimization at the [2nd EURO PhD School Data Science Meets Combinatorial Optimisation](https://sites.google.com/view/phd-school-dso-2025/symposium), Eindhoven University, The Netherlands.
+- I talked about explainable optimization at the [2nd EURO PhD School Data Science Meets Combinatorial Optimisation](https://sites.google.com/view/phd-school-dso-2025/symposium), Eindhoven University, The Netherlands.
 
 - Our [paper](https://arxiv.org/abs/2206.15363) with G. Cinà, T. E. Röber and R. Goedhart is accepted for publication in **Diagnostic and Prognostic Research**.
 

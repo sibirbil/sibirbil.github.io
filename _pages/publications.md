@@ -78,6 +78,9 @@ Semantic match: Debugging feature attribution methods in XAI for healthcare, wit
 Masking primal and dual models for data privacy in network revenue management, with U. Karaca, N. Aydın and G. Mullaoğlu, **European Journal of Operational Research**, 308(2), 818-831, 2023. 
 [(DOI)](https://doi.org/10.1016/j.ejor.2022.11.025)[(arXiv)](https://arxiv.org/abs/2102.07178)[(OO)](http://www.optimization-online.org/DB_HTML/2021/02/8253.html)
 
+Counterfactual explanations using optimization with constraint learning, with D. Maragno, D. and T. E. Röber, NeurIPS Workshop on Optimization for Machine Learning, 2022.
+[(link)](https://opt-ml.org/papers/2022/paper30.pdf)[(arXiv)](https://arxiv.org/abs/2209.10997)[(github)](https://github.com/tabearoeber/CE-OCL)
+
 OptiCL: A package for mixed-integer optimization with constraint learning, with D. Maragno, H. Wiberg, D. Bertsimas, D. den Hertog and A. Fajemisin, **Decision Optimization Workshop in 36th AAAI Conference on Artificial Intelligence**, Vancouver, BC, Canada, February 22 – March 1, 2022. 
 [(link)](https://research.ibm.com/haifa/Workshops/AAAI-22-AI4DO/)
 

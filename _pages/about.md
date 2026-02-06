@@ -12,7 +12,7 @@ I am a professor of AI & Optimization Techniques for Business & Society in [Univ
 
 In the past, I had served for three years as a professor of Data Science and Optimization at the [Department of Econometrics](https://www.eur.nl/en/ese/department-econometrics) of [Erasmus University](https://www.eur.nl/) (EUR), and before EUR, I had been a professor of optimization at the [Industrial Engineering Department](https://ie.sabanciuniv.edu/) of [Sabancı University](https://www.sabanciuniv.edu/) for more than a decade.
 
-My **research interests** center around optimization methods in artificial intellince and decision making. Lately, I am interested in explainable optimization.
+My **research interests** center around optimization methods in artificial intellince and decision making. Lately, I am interested in [explainable optimization](https://www.expopt.org/).
 
 Recent News
 ------

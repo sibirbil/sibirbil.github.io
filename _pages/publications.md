@@ -32,7 +32,7 @@ Why we do need explainable AI for healthcare, with G. Cinà, T. E. Röber and R.
 Clinicians' voice: fundamental considerations for XAI in healthcare, with T. E. Röber and R. Goedhart, Proceedings of the 10th Machine Learning for Healthcare Conference, PMLR 298, 2025.
 [(link)](https://proceedings.mlr.press/v298/rober25a.html)[(arXiv)](https://arxiv.org/abs/2411.04855)
 
-Scalable Bayesian structure learning for Gaussian graphical models using marginal pseudo-likelihood, with R. Mohammadi, M. Schoonhoven and L. Vogels, **Bayeasian Analysis**, 1-31, 2025.
+Scalable Bayesian structure learning for Gaussian graphical models using marginal pseudo-likelihood, with R. Mohammadi, M. Schoonhoven and L. Vogels, **Bayesian Analysis**, 1-31, 2025.
 [(DOI)](https://doi.org/10.1214/25-BA1561)[(arXiv)](https://arxiv.org/abs/2307.00127)
 
 Output-constrained decision trees, with H. Tunç, D. Özese, D. Maragno, M. Caserta and Mustafa Baydoğan, 2025.

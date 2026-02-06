@@ -10,34 +10,51 @@ redirect_from:
 
 (_Please note that the published papers can be slightly different from their open access versions._)
 
-Counterfactual explanations for linear optimization, with J. Kurtz and D. den Hertog, **European Journal of Operational Research**, in press, 2025.
+
+ECSEL: Explainable classification via signomial equation learning, with A. Lumadjeng and E. Acar, 2025.
+[(arXiv)](https://arxiv.org/abs/2601.21789)
+
+Counterfactual explanations for integer optimization problems, with F. Engelhardt, J. Kurtz and T. Ralphs, 2025.
+[(arXiv)](https://arxiv.org/abs/2510.17624)[(code)](https://zenodo.org/records/18110317)
+
+Graph-based tabular deep learning should learn feature interactions, not just make predictions, with E. Dubbeldam, R. Mohammadi and M. Schoonhoven, 2025.
+[(arXiv)](https://arxiv.org/abs/2510.04543)
+
+Counterfactual explanations for linear optimization, with J. Kurtz and D. den Hertog, **European Journal of Operational Research**, 329(1), 24-41, 2026.
 [(DOI)](https://doi.org/10.1016/j.ejor.2025.06.016)[(arXiv)](https://arxiv.org/abs/2405.15431)[(github)](https://github.com/JannisKu/CE4LOPT)
 
 Communication strategies driving online health community patient awareness and engagement investigated within atrial fibrillation context, with M. Kuipers, U. Konus, B. J. J. M. Brundel, **npj Digital Medicine**, 8, 446, 2025. 
 [(DOI)](https://doi.org/10.1038/s41746-025-01854-1)
 
-Why we do need explainable AI for healthcare, with G. Cinà, T. E. Röber and R. Goedhart, **Diagnostic and Prognostic Research**, to appear, 2025.
-[(arXiv)](https://arxiv.org/abs/2206.15363)
+Why we do need explainable AI for healthcare, with G. Cinà, T. E. Röber and R. Goedhart, **Diagnostic and Prognostic Research**, 24(9), 2025.
+[(DOI)](https://doi.org/10.1186/s41512-025-00209-4)[(arXiv)](https://arxiv.org/abs/2206.15363)
 
-Clinicians' voice: fundamental considerations for XAI in healthcare, with T. E. Röber and R. Goedhart, Machine Learning for Healthcare, Rochester, 2025.
-[(arXiv)](https://arxiv.org/abs/2411.04855)
+Clinicians' voice: fundamental considerations for XAI in healthcare, with T. E. Röber and R. Goedhart, Proceedings of the 10th Machine Learning for Healthcare Conference, PMLR 298, 2025.
+[(link)](https://proceedings.mlr.press/v298/rober25a.html)[(arXiv)](https://arxiv.org/abs/2411.04855)
+
+Scalable Bayesian structure learning for Gaussian graphical models using marginal pseudo-likelihood, with R. Mohammadi, M. Schoonhoven and L. Vogels, **Bayeasian Analysis**, 1-31, 2025.
+[(DOI)](https://doi.org/10.1214/25-BA1561)[(arXiv)](https://arxiv.org/abs/2307.00127)
 
 Output-constrained decision trees, with H. Tunç, D. Özese, D. Maragno, M. Caserta and Mustafa Baydoğan, 2025.
 [(arXiv)](https://arxiv.org/abs/2405.15314)[(github)](https://github.com/sibirbil/OCDT)
 
-Generating samples to question trained models, with E. M. Kıral and N. Aydın, 2025. 
+Generating samples to probe trained models, with E. M. Kıral and N. Aydın, 2025. 
 [(arXiv)](https://arxiv.org/abs/2502.06658)[(github)](https://github.com/sibirbil/EvD)
 
 Coherent local explanations for mathematical optimization, with D. Otto and J. Kurtz, 2025.
 [(arXiv)](https://arxiv.org/abs/2502.04840)[(github)](https://github.com/daanotto/CLEMO)
 
+Learning with subset stacking, with S. Yıldırım,  S. Çopur and H. Akyüz, 2025.
+[(arXiv)](https://arxiv.org/abs/2112.06251)[(github)](https://github.com/sibirbil/LESS)
+
 Rule generation for classification: Scalability, interpretability, and fairness, with T. E. Röber, A. Lumadjeng and H. Akyüz, **Computers and Operations Research**, 183, 107163, 2025.
 [(DOI)](https://doi.org/10.1016/j.cor.2025.107163)[(arXiv)](https://arxiv.org/abs/2104.10751)[(github)](https://github.com/sibirbil/RuleDiscovery)
 
-Modeling Alzheimer’s disease: Bayesian copula graphical model from demographic, cognitive, and neuroimaging data,  with L. Vogels, R. Mohammadi, M. Schoonhoven and M. Dyrba for the Alzheimer’s Disease Neuroimaging Initiative, **Journal of Alzheimer's Disease**, online first, 2025.
+Modeling Alzheimer’s disease: Bayesian copula graphical model from demographic, cognitive, and neuroimaging data, with L. Vogels, R. Mohammadi, M. Schoonhoven and M. Dyrba for the Alzheimer’s Disease Neuroimaging Initiative, **Journal of Alzheimer's Disease**, 108, 244-257, 2025.
 [(DOI)](https://doi.org/10.1177/13872877251337944)
 
-Towards a better understanding of misfit through explainable AI techniques, with C. Boon and E. Durak, in Employee Misfit: Theories, Perspectives, and New Directions, edited by J. Billsberry and D. L. Talbot, to appear, 2025.
+Towards a better understanding of misfit through explainable AI techniques, with C. Boon and E. Durak, in Employee Misfit, edited by J. Billsberry and D. L. Talbot, Springer, Singapore, 2025.
+[(DOI)](https://doi.org/10.1007/978-981-96-8208-9_12)
 
 Enhancing decision making through the integration of large language models and operations research optimization, with S. Wasserkrug, L. Boussioux, D. den Hertog, F Mirzazadeh, J. Kurtz and D. Maragno, Proceedings of the AAAI Conference on Artificial Intelligence, 39(27), 2025.
 [(DOI)](https://doi.org/10.1609/aaai.v39i27.35090)[(arXiv)](https://arxiv.org/abs/2402.16269)
@@ -47,6 +64,9 @@ Finding regions of counterfactual explanations via robust optimization, with D. 
 
 Machine learning for K-adaptability in two-stage robust optimization, with E. Julien and K. Postek, **INFORMS Journal on Computing**, 37(3):644-665, 2024.
 [(DOI)](https://doi.org/10.1287/ijoc.2022.0314)[(arXiv)](https://arxiv.org/abs/2210.11152)[(github)](https://github.com/estherjulien/KAdaptNS)
+
+From large language models and optimization to decision optimization CoPilot: A research manifesto, with S. Wasserkrug, L. Boussioux, D. den Hertog, F Mirzazadeh, J. Kurtz and D. Maragno, 2024.
+[(arXiv)](https://arxiv.org/abs/2402.16269)
 
 Bayesian structure learning in undirected Gaussian graphical models: literature review with empirical comparison, with L. Vogels, R. Mohammadi, M. Schoonhoven, **Journal of the American Statistical Association**, 119(548), 3164-3182, 2024.
 [(DOI)](https://doi.org/10.1080/01621459.2024.2395504)[(arXiv)](https://arxiv.org/abs/2307.02603)[(github)](https://github.com/lucasvogels33/Review-paper-Bayesian-Structure-Learning-in-GGMs)
@@ -86,9 +106,6 @@ OptiCL: A package for mixed-integer optimization with constraint learning, with 
 
 Differentially private accelerated optimization algorithms, with N. Kuru, M. Gürbüzbalaban and S. Yıldırım, **SIAM Journal on Optimization**, 32(2), 795-821, 2022.
 [(DOI)](https://doi.org/10.1137/20M1355847)[(arXiv)](https://arxiv.org/abs/2008.01989)[(github)](https://github.com/sibirbil/DPAccGradMethods)
-
-Learning with subset stacking, with S. Yıldırım,  K. Gökalp and H. Akyüz, 2021.
-[(arXiv)](https://arxiv.org/abs/2112.06251)[(github)](https://github.com/sibirbil/LESS)
 
 Multi-objective temporal bin packing problem: An application in cloud computing, with N. Aydın and İ. Muter, **Computers and Operations Research**, 121, 2020.
 [(DOI)](https://doi.org/10.1016/j.cor.2020.104959)[(OO)](http://www.optimization-online.org/DB_HTML/2019/01/7029.html)[(github)](https://github.com/sibirbil/TemporalBinPacking)

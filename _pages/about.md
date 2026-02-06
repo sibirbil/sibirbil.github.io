@@ -17,16 +17,8 @@ My **research interests** center around optimization methods in artificial intel
 Recent News
 ------
 
-- I presented our recent work on counterfactuals in optimization at the [PhD students colloquium](https://sites.google.com/view/yaemdoktorarencilerikolokyumu/kolokyum?authuser=0), Bilkent University, Turkey.
+- Together with Karen Aardal, we are organizing a session titled __Methods and Applications in Optimization and AI__ at [The SIAM Conference on Optimization (OP26)](https://www.siam.org/conferences-events/siam-conferences/op26/).
 
-- I talked about explainable optimization at the [2nd EURO PhD School Data Science Meets Combinatorial Optimisation](https://sites.google.com/view/phd-school-dso-2025/symposium), Eindhoven University, The Netherlands.
+- I am organizing a session titled __Explainable Optimization and AI__ at [The 24th Conference of the International Federation of Operational Research Societies (IFORS)](https://ifors2026.at/home/).
 
-- Our [paper](https://arxiv.org/abs/2206.15363) with G. Cinà, T. E. Röber and R. Goedhart is accepted for publication in **Diagnostic and Prognostic Research**.
-
-- Our [paper]((https://doi.org/10.1038/s41746-025-01854-1)) with M. Kuipers, U. Konus, B. J. J. M. Brundel has just appeared in **npj Digital Medicine**. 
-
-- Our first [paper](https://doi.org/10.1016/j.ejor.2025.06.016) on explainable optimization with J. Kurtz and D. den Hertog is accepted for publication in **European Journal of Operational Research**.
-
-- I gave the plenary talk on "Artificial Intelligence and Explanation Methods in Optimization," at the 44th National Operations Research and Industrial Engineering Conference - [YAEM 2025](https://www.yaem2025.org/).
-
-- We organized the session "New Approaches in Explainable Optimization" at [EURO 2025](https://euro2025leeds.uk/), University of Leeds, UK.
+- We have a new website dedicated to the research in [Explainable Optimization](https://www.expopt.org/). To receive updates about this exciting new field, please [join us](https://groups.google.com/g/xopt-mailing-list). 

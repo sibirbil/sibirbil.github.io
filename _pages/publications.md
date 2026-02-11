@@ -10,8 +10,10 @@ redirect_from:
 
 (_Please note that the published papers can be slightly different from their open access versions._)
 
+Linear model extraction via factual and counterfactual queries, with D. Otto, J. Kurtz and D. den Hertog, 2026.
+[(arXiv)](https://arxiv.org/abs/2602.09748)[(OO)](https://optimization-online.org/2026/02/linear-model-extraction-via-factual-and-counterfactual-queries/)
 
-ECSEL: Explainable classification via signomial equation learning, with A. Lumadjeng and E. Acar, 2025.
+ECSEL: Explainable classification via signomial equation learning, with A. Lumadjeng and E. Acar, 2026.
 [(arXiv)](https://arxiv.org/abs/2601.21789)
 
 Counterfactual explanations for integer optimization problems, with F. Engelhardt, J. Kurtz and T. Ralphs, 2025.

@@ -22,8 +22,7 @@ Counterfactual explanations for integer optimization problems, with F. Engelhard
 Graph-based tabular deep learning should learn feature interactions, not just make predictions, with E. Dubbeldam, R. Mohammadi and M. Schoonhoven, 2025.
 [(arXiv)](https://arxiv.org/abs/2510.04543)
 
-Counterfactual explanations for linear optimization, with J. Kurtz and D. den Hertog, **European Journal of Operational Research**, 329(1), 24-41, 2026. (Listed among [EJOR Editors’ Choice Articles, January 2026](https://www.sciencedirect.com/journal/european-journal-of-operational-research/about/highlighted-articles/ejor-editors-choice-articles-january-2026))
-[(DOI)](https://doi.org/10.1016/j.ejor.2025.06.016)[(arXiv)](https://arxiv.org/abs/2405.15431)[(github)](https://github.com/JannisKu/CE4LOPT)
+Counterfactual explanations for linear optimization, with J. Kurtz and D. den Hertog, **European Journal of Operational Research**, 329(1), 24-41, 2026. [(DOI)](https://doi.org/10.1016/j.ejor.2025.06.016)[(arXiv)](https://arxiv.org/abs/2405.15431)[(github)](https://github.com/JannisKu/CE4LOPT) - (Listed among [EJOR Editors’ Choice Articles, January 2026](https://www.sciencedirect.com/journal/european-journal-of-operational-research/about/highlighted-articles/ejor-editors-choice-articles-january-2026))
 
 Communication strategies driving online health community patient awareness and engagement investigated within atrial fibrillation context, with M. Kuipers, U. Konus, B. J. J. M. Brundel, **npj Digital Medicine**, 8, 446, 2025. 
 [(DOI)](https://doi.org/10.1038/s41746-025-01854-1)

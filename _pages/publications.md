@@ -24,7 +24,9 @@ Graph-based tabular deep learning should learn feature interactions, not just ma
 
 Counterfactual explanations for linear optimization, with J. Kurtz and D. den Hertog, **European Journal of Operational Research**, 329(1), 24-41, 2026. [(DOI)](https://doi.org/10.1016/j.ejor.2025.06.016)[(arXiv)](https://arxiv.org/abs/2405.15431)[(github)](https://github.com/JannisKu/CE4LOPT) - (Listed among [EJOR Editors’ Choice Articles, January 2026](https://www.sciencedirect.com/journal/european-journal-of-operational-research/about/highlighted-articles/ejor-editors-choice-articles-january-2026))
 
-Communication strategies driving online health community patient awareness and engagement investigated within atrial fibrillation context, with M. Kuipers, U. Konus, B. J. J. M. Brundel, **npj Digital Medicine**, 8, 446, 2025. 
+Prediction of depression relapse using machine learning with administrative data: balancing complexity and simplicity, with P. von Stackelberg, R. Goedhart, L. C. E. Huberts and J. Lokkerbol, **Quality and Reliability Engineering International**, 42(3), 1009-1022, 2026.
+
+Communication strategies driving online health community patient awareness and engagement investigated within atrial fibrillation context, with M. Kuipers, U. Konus and B. J. J. M. Brundel, **npj Digital Medicine**, 8, 446, 2025. 
 [(DOI)](https://doi.org/10.1038/s41746-025-01854-1)
 
 Why we do need explainable AI for healthcare, with G. Cinà, T. E. Röber and R. Goedhart, **Diagnostic and Prognostic Research**, 24(9), 2025.

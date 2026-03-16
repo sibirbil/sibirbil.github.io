@@ -35,17 +35,17 @@ redirect_from:
   - Tentative Thesis Title: Bayesian Structure Learning
   - Current Position: Ph.D. candidate, University of Amsterdam
   
-- **[Tabea Röber](https://www.tabea.cc/)**
-
-  - Tentative Thesis Title: Optimization Methods in Explainable Artificial Intelligence
-  - Current Position: Ph.D. candidate, University of Amsterdam
-
 - **[Paulina von Stackelberg](https://www.uva.nl/en/profile/s/t/p.b.vonstackelberg/p.b.von-stackelberg.html)**
 
   - Tentative Thesis Title: Predictive Process Monitoring
   - Current Position: Ph.D. candidate, University of Amsterdam
 	
 ## Past
+
+- **[Dr. Tabea Röber](https://www.tabea.cc/)**
+
+  - Thesis Title: Interpretable Machine Learning - Optimization-based Explanations and Human-Centered Evaluation
+  - Current Position: Data Analyst, ING Bank
 
 - **[Dr. Donato Maragno](https://www.linkedin.com/in/donato-maragno/)**
 
@@ -54,7 +54,7 @@ redirect_from:
   
 - **[Dr. Utku Karaca](https://www.linkedin.com/in/utku-karaca/)**
 
-  - Tentative Thesis Title: Privacy for Multi-party Resource Allocation Problems
+  - Thesis Title: Privacy for Multi-party Resource Allocation Problems
   - Current Position: Senior Data Scientist, Air Products
   
 - **[Dr. Nurdan Kuru](https://siepellab.labsites.cshl.edu/kuru/)**

@@ -22,6 +22,9 @@ Counterfactual explanations for integer optimization problems, with F. Engelhard
 The role of feature interactions in graph-based tabular deep learning, with E. Dubbeldam, R. Mohammadi and M. Schoonhoven, **Transactions of Machine Learning Research (TMLR)**, 2026.
 [(TMLR)](https://openreview.net/pdf?id=olGaiwoZHZ)[(arXiv)](https://arxiv.org/abs/2510.04543)
 
+Differentially private linear optimization for multi-party resource sharing, with U. Karaca, N. Aydın and S. Yıldırım, **Annals of Operations Research**, to appear, 2026.
+[(arXiv)](https://arxiv.org/abs/2110.10498) [(github)](https://github.com/sibirbil/DPMPRS)
+
 Counterfactual explanations for linear optimization, with J. Kurtz and D. den Hertog, **European Journal of Operational Research**, 329(1), 24-41, 2026. [(DOI)](https://doi.org/10.1016/j.ejor.2025.06.016)[(arXiv)](https://arxiv.org/abs/2405.15431)[(github)](https://github.com/JannisKu/CE4LOPT) - (Listed among [EJOR Editors’ Choice Articles, January 2026](https://www.sciencedirect.com/journal/european-journal-of-operational-research/about/highlighted-articles/ejor-editors-choice-articles-january-2026))
 
 Prediction of depression relapse using machine learning with administrative data: balancing complexity and simplicity, with P. von Stackelberg, R. Goedhart, L. C. E. Huberts and J. Lokkerbol, **Quality and Reliability Engineering International**, 42(3), 1009-1022, 2026.
@@ -86,9 +89,6 @@ Fixing confirmation bias in feature attribution methods via semantic match, with
 
 Comparison of threshold tuning methods for predictive monitoring, with P. von Stackelberg, R. Goedhart and R. J. M. M. Does, **Quality and Reliability Engineering International**, 40(1), 499-512, 2024.
 [(DOI)](https://doi.org/10.1002/qre.3436)
-
-Differentially private linear optimization for multi-party resource sharing, with U. Karaca, N. Aydın and S. Yıldırım, 2024.
-[(arXiv)](https://arxiv.org/abs/2110.10498) [(github)](https://github.com/sibirbil/DPMPRS)
 
 Mixed-integer optimization with constraint learning, with D. Maragno, H. Wiberg, D. Bertsimas, D. den Hertog and A. Fajemisin, **Operations Research**, 73(2):1011-1028, 2023.
 [(DOI)](https://doi.org/10.1287/opre.2021.0707)[(arXiv)](https://arxiv.org/abs/2111.04469)[(OO)](http://www.optimization-online.org/DB_HTML/2021/11/8676.html)[(github)](https://github.com/hwiberg/OptiCL)

@@ -10,6 +10,15 @@ redirect_from:
 
 (_Please note that the published papers can be slightly different from their open access versions._)
 
+Learning an interpretable risk scoring system for maximizing decision net benefit, with W. Chi, 2026.
+[(arXiv)](https://arxiv.org/abs/2604.04241)
+
+Multiple jump MCMC: A scalable algorithm for Bayesian inference on binary model spaces, with L. Vogels, R. Mohammadi, M. Schoonhoven and S. Yildirim, 2026.
+[(arXiv)](https://arxiv.org/abs/2603.22573)
+
+Improving understanding and trust in AI: How users benefit from interval-based counterfactual explanations, with T.E. Röber, P. Festor, R.Goedhart and A. Faisal, 2026.
+[(arXiv)](https://arxiv.org/abs/2604.09573)
+
 Linear model extraction via factual and counterfactual queries, with D. Otto, J. Kurtz and D. den Hertog, 2026.
 [(arXiv)](https://arxiv.org/abs/2602.09748)[(OO)](https://optimization-online.org/2026/02/linear-model-extraction-via-factual-and-counterfactual-queries/)
 

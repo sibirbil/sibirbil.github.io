@@ -32,7 +32,7 @@ The role of feature interactions in graph-based tabular deep learning, with E. D
 [(TMLR)](https://openreview.net/pdf?id=olGaiwoZHZ)[(arXiv)](https://arxiv.org/abs/2510.04543)
 
 Differentially private linear optimization for multi-party resource sharing, with U. Karaca, N. Aydın and S. Yıldırım, **Annals of Operations Research**, to appear, 2026.
-[(arXiv)](https://arxiv.org/abs/2110.10498) [(github)](https://github.com/sibirbil/DPMPRS)
+[(DOI)](https://link.springer.com/article/10.1007/s10479-026-07199-6)[(arXiv)](https://arxiv.org/abs/2110.10498) [(github)](https://github.com/sibirbil/DPMPRS)
 
 Counterfactual explanations for linear optimization, with J. Kurtz and D. den Hertog, **European Journal of Operational Research**, 329(1), 24-41, 2026. [(DOI)](https://doi.org/10.1016/j.ejor.2025.06.016)[(arXiv)](https://arxiv.org/abs/2405.15431)[(github)](https://github.com/JannisKu/CE4LOPT) - (Listed among [EJOR Editors’ Choice Articles, January 2026](https://www.sciencedirect.com/journal/european-journal-of-operational-research/about/highlighted-articles/ejor-editors-choice-articles-january-2026))
 

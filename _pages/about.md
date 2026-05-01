@@ -17,6 +17,8 @@ My **research interests** center around optimization methods in artificial intel
 Recent News
 ------
 
+- Our [paper](https://arxiv.org/abs/2601.21789) with Adia Lumadjeng and Erman Acar is accepted to the 43rd International Conference on Machine Learning (ICML), Seoul, South Korea, 2026.
+
 - Together with Karen Aardal, we are organizing a session titled __Methods and Applications in Optimization and AI__ at [The SIAM Conference on Optimization (OP26)](https://www.siam.org/conferences-events/siam-conferences/op26/).
 
 - I am organizing a session titled __Explainable Optimization and AI__ at [The 24th Conference of the International Federation of Operational Research Societies (IFORS)](https://ifors2026.at/home/).

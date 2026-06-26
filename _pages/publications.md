@@ -10,6 +10,12 @@ redirect_from:
 
 (_Please note that the published papers can be slightly different from their open access versions._)
 
+Generating input distributions for explaining portfolio optimization pipelines, with B. Ataş, N. Aydın and E. M. Kıral, 2026
+[(arXiv)](https://arxiv.org/abs/2606.25808)
+
+Explainable optimization: a call for interdisciplinary action, with N. Aydın, İ. Küçükparlak, A. Yalçıntaş, 2026.
+[(arXiv)](https://arxiv.org/abs/2606.08675)
+
 Learning an interpretable risk scoring system for maximizing decision net benefit, with W. Chi, 2026.
 [(arXiv)](https://arxiv.org/abs/2604.04241)
 

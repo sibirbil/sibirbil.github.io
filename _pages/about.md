@@ -17,6 +17,8 @@ My **research interests** center around optimization methods in artificial intel
 Recent News
 ------
 
+- With my coauthors, we have two new papers on arXiv. The [first one](https://arxiv.org/abs/2606.08675) is a discussion paper on Explainable Optimization, and [the second one](https://arxiv.org/abs/2606.25808) is about obtaining input distributions to explain portfolio decision pipelines.
+  
 - Our [paper](https://arxiv.org/abs/2601.21789) with Adia Lumadjeng and Erman Acar is accepted to the 43rd International Conference on Machine Learning (ICML), Seoul, South Korea, 2026.
 
 - Together with Karen Aardal, we are organizing a session titled __Methods and Applications in Optimization and AI__ at [The SIAM Conference on Optimization (OP26)](https://www.siam.org/conferences-events/siam-conferences/op26/).

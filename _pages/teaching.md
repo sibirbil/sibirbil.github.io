@@ -8,6 +8,8 @@ redirect_from:
   - /teach
 ---
 
+Mathematical Programming and Optimization, undergraduate, University of Amsterdam
+
 [Trustworthy AI for Business and Society](https://github.com/tabearoeber/trustworthy_ai), graduate, University of Amsterdam
 
 Optimization for Machine Learning, graduate, [LNMB](https://www.lnmb.nl/)

@@ -10,7 +10,13 @@ redirect_from:
 
 (_Please note that the published papers can be slightly different from their open access versions._)
 
-Generating input distributions for explaining portfolio optimization pipelines, with B. Ataş, N. Aydın and E. M. Kıral, 2026
+Local violation certification for linear predict-then-optimize pipelines, with W. Chi, 2026.
+[(arXiv)](https://arxiv.org/abs/2608.04474)
+
+Optimization with dynamic constraint learning (DCL), with E. Öztekin and F. Öztoprak, 2026.
+[(arXiv)](https://arxiv.org/abs/2607.25719)
+
+Generating input distributions for explaining portfolio optimization pipelines, with B. Ataş, N. Aydın and E. M. Kıral, 2026.
 [(arXiv)](https://arxiv.org/abs/2606.25808)[(github)](https://github.com/sibirbil/Predict-Optimize-Explain)[(related presentation)](../files/poe/POE_presentation.html)
 
 Explainable optimization: a call for interdisciplinary action, with N. Aydın, İ. Küçükparlak, A. Yalçıntaş, 2026.

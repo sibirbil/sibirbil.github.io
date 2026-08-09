@@ -10,6 +10,11 @@ redirect_from:
 
 ## Current
 
+- **[Batuhan Ataş](https://businessdatascience.nl/person/2232/batuhan-atas)**
+
+  - Tentative Thesis Title: Distribution Discovery for Explaining Data-Driven Decision Pipelines
+  - Current Position: Ph.D. candidate, University of Amsterdam
+  - 
 - **[Elias Dubbeldam](https://www.uva.nl/en/profile/d/u/e.f.dubbeldam/e.f.dubbeldam.html)**
 
   - Tentative Thesis Title: Graph Neural Networks and Structure Learning
@@ -28,6 +33,11 @@ redirect_from:
 - **[Erdinç Durak](https://www.uva.nl/en/profile/d/u/e.durak/e.durak.html)**
 
   - Tentative Thesis Title: Explainable Artificial Intelligence for People Analytics
+  - Current Position: Ph.D. candidate, University of Amsterdam
+
+- **[Myrthe Kuipers](https://abs.uva.nl/research/phd-research/phd-projects/myrthe-kuipers.html)**
+
+  - Tentative Thesis Title: Digital Marketing for Online Health Communities
   - Current Position: Ph.D. candidate, University of Amsterdam
 
 - **[Lucas Vogels](https://www.uva.nl/en/profile/v/o/l.f.o.vogels/l.f.o.vogels.html)**

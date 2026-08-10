@@ -14,7 +14,7 @@ redirect_from:
 
   - Tentative Thesis Title: Distribution Discovery for Explaining Data-Driven Decision Pipelines
   - Current Position: Ph.D. candidate, University of Amsterdam
-  - 
+
 - **[Elias Dubbeldam](https://www.uva.nl/en/profile/d/u/e.f.dubbeldam/e.f.dubbeldam.html)**
 
   - Tentative Thesis Title: Graph Neural Networks and Structure Learning

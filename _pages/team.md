@@ -69,7 +69,7 @@ redirect_from:
   
 - **[Dr. Nurdan Kuru](https://siepellab.labsites.cshl.edu/kuru/)**
 
-  - Thesis Title: Novel Gradient-based Methods for Data Distribution and Privacy in Data Science (jointly supervised with S. Yıldırım)
+  - Thesis Title: Novel Gradient-based Methods for Data Distribution and Privacy in Data Science
   - Current Position: Postdoctoral Researcher, Siepel Lab, Cold Spring Harbor Laboratory
 
 - **[Dr. Nurşen Aydın](https://www.wbs.ac.uk/about/person/nursen-aydin)**
@@ -79,7 +79,7 @@ redirect_from:
   
 - **[Dr. Belma Şıpka](https://www.linkedin.com/in/belma-%C5%9F%C4%B1pka-9047182/)**
 
-  - Thesis Title: Minimum Hub Cover Problem: Algorithms and Applications (jointly supervised with K. Bülbül)
+  - Thesis Title: Minimum Hub Cover Problem: Algorithms and Applications
   - Current Position: Senior Product Manager, Hitit Computer Services
 
 - **[Dr. İbrahim Muter](https://www.linkedin.com/in/ibrahim-muter-876b7234)**

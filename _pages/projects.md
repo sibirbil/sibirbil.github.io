@@ -27,7 +27,7 @@ Robust Airline Crew Pairing: Models, Solution Approaches and Applications, The S
 
 Decision Support Tools for Waste Management, Istanbul Metropolitan Municipality, Turkey, **Principal Investigator**, 2007-2009
 
-Mathematical Programs with Equilibrium Constraints for Network Economics, Erasmus University Rotterdam, The Netherlands, **Postdoctoral Research Fellow** 2002-2004
+Mathematical Programs with Equilibrium Constraints for Network Economics, Erasmus University Rotterdam, The Netherlands, **Principal Investigator (Postdoctoral Research Fellow)** 2002-2004
 
 Decision Support Tools for Furniture Supply Chain Management, North Carolina State University, Raleigh, NC USA, **Research Assistant**, 1999-2002
 

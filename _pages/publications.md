@@ -40,9 +40,6 @@ Linear model extraction via factual and counterfactual queries, with D. Otto, J.
 ECSEL: Explainable classification via signomial equation learning, with A. Lumadjeng and E. Acar, Proceedings of the 43rd International Conference on Machine Learning (ICML), Seoul, South Korea, 2026.
 [(arXiv)](https://arxiv.org/abs/2601.21789)[(github)](https://github.com/AdiaLumadjeng/ecsel)
 
-Counterfactual explanations for integer optimization problems, with F. Engelhardt, J. Kurtz and T. Ralphs, 2025.
-[(arXiv)](https://arxiv.org/abs/2510.17624)[(code)](https://zenodo.org/records/18110317)
-
 The role of feature interactions in graph-based tabular deep learning, with E. Dubbeldam, R. Mohammadi and M. Schoonhoven, **Transactions of Machine Learning Research (TMLR)**, 2026.
 [(TMLR)](https://openreview.net/pdf?id=olGaiwoZHZ)[(arXiv)](https://arxiv.org/abs/2510.04543)
 
@@ -53,6 +50,9 @@ Counterfactual explanations for linear optimization, with J. Kurtz and D. den He
 
 Prediction of depression relapse using machine learning with administrative data: balancing complexity and simplicity, with P. von Stackelberg, R. Goedhart, L. C. E. Huberts and J. Lokkerbol, **Quality and Reliability Engineering International**, 42(3), 1009-1022, 2026.
 [(DOI)]( https://doi.org/10.1002/qre.70139)
+
+Counterfactual explanations for integer optimization problems, with F. Engelhardt, J. Kurtz and T. Ralphs, 2025.
+[(arXiv)](https://arxiv.org/abs/2510.17624)[(code)](https://zenodo.org/records/18110317)
 
 Communication strategies driving online health community patient awareness and engagement investigated within atrial fibrillation context, with M. Kuipers, U. Konus and B. J. J. M. Brundel, **npj Digital Medicine**, 8, 446, 2025. 
 [(DOI)](https://doi.org/10.1038/s41746-025-01854-1)

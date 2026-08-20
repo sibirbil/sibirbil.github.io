@@ -10,6 +10,9 @@ redirect_from:
 
 (_Please note that the published papers can be slightly different from their open access versions._)
 
+How simple can it get? From interpretable equations to readable rules for financial decision making, with A. Lumadjeng and E. Acar, 2026.
+[(arXiv)](hhttps://arxiv.org/abs/2608.09433)
+
 Local violation certification for linear predict-then-optimize pipelines, with W. Chi, 2026.
 [(arXiv)](https://arxiv.org/abs/2608.04474)
 

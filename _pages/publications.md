@@ -63,7 +63,7 @@ Communication strategies driving online health community patient awareness and e
 Why we do need explainable AI for healthcare, with G. Cinà, T. E. Röber and R. Goedhart, **Diagnostic and Prognostic Research**, 24(9), 2025.
 [(DOI)](https://doi.org/10.1186/s41512-025-00209-4)[(arXiv)](https://arxiv.org/abs/2206.15363)
 
-Clinicians' voice: fundamental considerations for XAI in healthcare, with T. E. Röber and R. Goedhart, Proceedings of the 10th Machine Learning for Healthcare Conference, PMLR 298, 2025.
+Clinicians' voice: fundamental considerations for XAI in healthcare, with T. E. Röber and R. Goedhart, Proceedings of the 10th Machine Learning for Healthcare Conference (MLHC), PMLR 298, 2025.
 [(link)](https://proceedings.mlr.press/v298/rober25a.html)[(arXiv)](https://arxiv.org/abs/2411.04855)
 
 Scalable Bayesian structure learning for Gaussian graphical models using marginal pseudo-likelihood, with R. Mohammadi, M. Schoonhoven and L. Vogels, **Bayesian Analysis**, 1-31, 2025.

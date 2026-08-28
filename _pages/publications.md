@@ -40,6 +40,9 @@ Linear model extraction via factual and counterfactual queries, with D. Otto, J.
 ECSEL: Explainable classification via signomial equation learning, with A. Lumadjeng and E. Acar, Proceedings of the 43rd International Conference on Machine Learning (ICML), Seoul, South Korea, 2026.
 [(arXiv)](https://arxiv.org/abs/2601.21789)[(github)](https://github.com/AdiaLumadjeng/ecsel)
 
+Guided data generation for understanding model behavior, with E. M. Kıral and N. Aydın, 2026. 
+[(arXiv)](https://arxiv.org/abs/2502.06658)[(github)](https://github.com/sibirbil/EvD)
+
 The role of feature interactions in graph-based tabular deep learning, with E. Dubbeldam, R. Mohammadi and M. Schoonhoven, **Transactions of Machine Learning Research (TMLR)**, 2026.
 [(TMLR)](https://openreview.net/pdf?id=olGaiwoZHZ)[(arXiv)](https://arxiv.org/abs/2510.04543)
 
@@ -68,9 +71,6 @@ Scalable Bayesian structure learning for Gaussian graphical models using margina
 
 Output-constrained decision trees, with H. Tunç, D. Özese, D. Maragno, M. Caserta and Mustafa Baydoğan, 2025.
 [(arXiv)](https://arxiv.org/abs/2405.15314)[(github)](https://github.com/sibirbil/OCDT)
-
-Generating samples to probe trained models, with E. M. Kıral and N. Aydın, 2025. 
-[(arXiv)](https://arxiv.org/abs/2502.06658)[(github)](https://github.com/sibirbil/EvD)
 
 Coherent local explanations for mathematical optimization, with D. Otto and J. Kurtz, 2025.
 [(arXiv)](https://arxiv.org/abs/2502.04840)[(github)](https://github.com/daanotto/CLEMO)

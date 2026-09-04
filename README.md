@@ -11,14 +11,13 @@ _Credits:_ I created my webpage after forking [academic pages](https://github.co
 - Navigation is modified by editing "_data/navigation.yml"
 - All other changes are done by editing "_config.yml'
 
-## Unused
+## Cleaned Up (Sept 2026)
 
-- Portfolios, "_porfolio", "_pages/portfolio.html"
-- Posts and "_posts"
-- The folder "_publications"
-- Talkmap and its associated files in root folder and in "_pages"
-- CV and "_pages/cv.md"
-- Markdown and "_pages/markdown.md"
-- Archives and related files in "_pages"
-- Terms and "_pages/terms.md"
-- Sitemap and "_pages/sitemap.md"
+The following unused items have been removed:
+- Portfolios folder `_portfolio/` and `_pages/portfolio.html`
+- Blog posts `_posts/`
+- Example publications in `_publications/`
+- Talkmap visualization and related files
+- CV page and markdown tutorial
+- Archive pages and taxonomy files
+- Terms and sitemap pages

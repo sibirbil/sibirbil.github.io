@@ -70,7 +70,7 @@ Scalable Bayesian structure learning for Gaussian graphical models using margina
 [(DOI)](https://doi.org/10.1214/25-BA1561)[(arXiv)](https://arxiv.org/abs/2307.00127)
 
 Output-constrained decision trees, with H. Tunç, D. Özese, D. Maragno, M. Caserta and Mustafa Baydoğan, 2025.
-[(arXiv)](https://arxiv.org/abs/2405.15314)[(github)](https://github.com/sibirbil/OCDT)
+[(arXiv)](https://arxiv.org/abs/2405.15314)[(github)](https://github.com/sibirbil/OCRT)
 
 Coherent local explanations for mathematical optimization, with D. Otto and J. Kurtz, 2025.
 [(arXiv)](https://arxiv.org/abs/2502.04840)[(github)](https://github.com/daanotto/CLEMO)

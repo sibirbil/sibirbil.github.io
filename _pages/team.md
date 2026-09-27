@@ -47,7 +47,7 @@ redirect_from:
 	
 ## Past
 
-- **[Lucas Vogels](https://www.linkedin.com/in/lucasvogels/)**
+- **[Dr. Lucas Vogels](https://www.linkedin.com/in/lucasvogels/)**
 
   - Thesis Title: Advances in Bayesian Inference for Graphical Models and Beyond, Scalable Algorithms and Their Applications
  

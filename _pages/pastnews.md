@@ -1,0 +1,3 @@
+- Together with Karen Aardal, we are organizing a session titled __Methods and Applications in Optimization and AI__ at [The SIAM Conference on Optimization (OP26)](https://www.siam.org/conferences-events/siam-conferences/op26/).
+
+- I am organizing a session titled __Explainable Optimization and AI__ at [The 24th Conference of the International Federation of Operational Research Societies (IFORS)](https://ifors2026.at/home/).

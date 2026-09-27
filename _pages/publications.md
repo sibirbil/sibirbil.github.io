@@ -10,6 +10,9 @@ redirect_from:
 
 (_Please note that the published papers can be slightly different from their open access versions._)
 
+Guided data generation for understanding model behavior, with E. M. Kıral and N. Aydın, **Proceedings of the 40th Annual Conference on Neural Information Processing Systems (NeurIPS)**, Sydney-Atlanta-Paris, 2026. 
+[(arXiv)](https://arxiv.org/abs/2502.06658)[(github)](https://github.com/sibirbil/EvD)
+
 How simple can it get? From interpretable equations to readable rules for financial decision making, with A. Lumadjeng and E. Acar, 2026.
 [(arXiv)](https://arxiv.org/abs/2608.09433)
 
@@ -37,11 +40,8 @@ Improving understanding and trust in AI: How users benefit from interval-based c
 Linear model extraction via factual and counterfactual queries, with D. Otto, J. Kurtz and D. den Hertog, 2026.
 [(arXiv)](https://arxiv.org/abs/2602.09748)[(OO)](https://optimization-online.org/2026/02/linear-model-extraction-via-factual-and-counterfactual-queries/)
 
-ECSEL: Explainable classification via signomial equation learning, with A. Lumadjeng and E. Acar, Proceedings of the 43rd International Conference on Machine Learning (ICML), Seoul, South Korea, 2026.
+ECSEL: Explainable classification via signomial equation learning, with A. Lumadjeng and E. Acar, **Proceedings of the 43rd International Conference on Machine Learning (ICML)**, Seoul, South Korea, 2026.
 [(arXiv)](https://arxiv.org/abs/2601.21789)[(github)](https://github.com/AdiaLumadjeng/ecsel)
-
-Guided data generation for understanding model behavior, with E. M. Kıral and N. Aydın, 2026. 
-[(arXiv)](https://arxiv.org/abs/2502.06658)[(github)](https://github.com/sibirbil/EvD)
 
 The role of feature interactions in graph-based tabular deep learning, with E. Dubbeldam, R. Mohammadi and M. Schoonhoven, **Transactions of Machine Learning Research (TMLR)**, 2026.
 [(TMLR)](https://openreview.net/pdf?id=olGaiwoZHZ)[(arXiv)](https://arxiv.org/abs/2510.04543)
@@ -63,7 +63,7 @@ Communication strategies driving online health community patient awareness and e
 Why we do need explainable AI for healthcare, with G. Cinà, T. E. Röber and R. Goedhart, **Diagnostic and Prognostic Research**, 24(9), 2025.
 [(DOI)](https://doi.org/10.1186/s41512-025-00209-4)[(arXiv)](https://arxiv.org/abs/2206.15363)
 
-Clinicians' voice: fundamental considerations for XAI in healthcare, with T. E. Röber and R. Goedhart, Proceedings of the 10th Machine Learning for Healthcare Conference (MLHC), PMLR 298, 2025.
+Clinicians' voice: fundamental considerations for XAI in healthcare, with T. E. Röber and R. Goedhart, **Proceedings of the 10th Machine Learning for Healthcare Conference (MLHC)**, PMLR 298, 2025.
 [(link)](https://proceedings.mlr.press/v298/rober25a.html)[(arXiv)](https://arxiv.org/abs/2411.04855)
 
 Scalable Bayesian structure learning for Gaussian graphical models using marginal pseudo-likelihood, with R. Mohammadi, M. Schoonhoven and L. Vogels, **Bayesian Analysis**, 1-31, 2025.
@@ -84,10 +84,10 @@ Rule generation for classification: Scalability, interpretability, and fairness,
 Modeling Alzheimer’s disease: Bayesian copula graphical model from demographic, cognitive, and neuroimaging data, with L. Vogels, R. Mohammadi, M. Schoonhoven and M. Dyrba for the Alzheimer’s Disease Neuroimaging Initiative, **Journal of Alzheimer's Disease**, 108, 244-257, 2025.
 [(DOI)](https://doi.org/10.1177/13872877251337944)
 
-Towards a better understanding of misfit through explainable AI techniques, with C. Boon and E. Durak, in Employee Misfit, edited by J. Billsberry and D. L. Talbot, Springer, Singapore, 2025.
+Towards a better understanding of misfit through explainable AI techniques, with C. Boon and E. Durak, in **Employee Misfit**, edited by J. Billsberry and D. L. Talbot, Springer, Singapore, 2025.
 [(DOI)](https://doi.org/10.1007/978-981-96-8208-9_12)
 
-Enhancing decision making through the integration of large language models and operations research optimization, with S. Wasserkrug, L. Boussioux, D. den Hertog, F Mirzazadeh, J. Kurtz and D. Maragno, Proceedings of the AAAI Conference on Artificial Intelligence, 39(27), 2025.
+Enhancing decision making through the integration of large language models and operations research optimization, with S. Wasserkrug, L. Boussioux, D. den Hertog, F Mirzazadeh, J. Kurtz and D. Maragno, **Proceedings of the AAAI Conference on Artificial Intelligence**, 39(27), 2025.
 [(DOI)](https://doi.org/10.1609/aaai.v39i27.35090)[(arXiv)](https://arxiv.org/abs/2402.16269)
 
 Finding regions of counterfactual explanations via robust optimization, with D. Maragno, J. Kurtz, T. E. Röber, R. Goedhart and D. den Hertog, **INFORMS Journal on Computing**, 36(5):1316-1334, 2024.
@@ -117,16 +117,16 @@ Comparison of threshold tuning methods for predictive monitoring, with P. von St
 Mixed-integer optimization with constraint learning, with D. Maragno, H. Wiberg, D. Bertsimas, D. den Hertog and A. Fajemisin, **Operations Research**, 73(2):1011-1028, 2023.
 [(DOI)](https://doi.org/10.1287/opre.2021.0707)[(arXiv)](https://arxiv.org/abs/2111.04469)[(OO)](http://www.optimization-online.org/DB_HTML/2021/11/8676.html)[(github)](https://github.com/hwiberg/OptiCL)
 
-Differentially private distributed Bayesian linear regression with MCMC, with B. Alparslan and S. Yıldırım, Proceedings of the 40th International Conference on Machine Learning (ICML), Honolulu, Hawaii, USA. PMLR 202, 2023.
+Differentially private distributed Bayesian linear regression with MCMC, with B. Alparslan and S. Yıldırım, **Proceedings of the 40th International Conference on Machine Learning (ICML)**, Honolulu, Hawaii, USA. PMLR 202, 2023.
 [(link)](https://proceedings.mlr.press/v202/alparslan23a/alparslan23a.pdf)[(arXiv)](https://arxiv.org/abs/2301.13778)[(github)](https://github.com/sinanyildirim/Bayesian_DP_dist_LR)
 
-Semantic match: Debugging feature attribution methods in XAI for healthcare, with G. Cinà, T. E. Röber and R. Goedhart, Proceedings of the Conference on Health, Inference, and Learning, edited by B. J. Mortazavi, T. Sarker, A. Beam and J. C. Ho, PMLR, 182-190, 2023.
+Semantic match: Debugging feature attribution methods in XAI for healthcare, with G. Cinà, T. E. Röber and R. Goedhart, **Proceedings of the Conference on Health, Inference, and Learning (CHIL)**, edited by B. J. Mortazavi, T. Sarker, A. Beam and J. C. Ho, PMLR, 182-190, 2023.
 [(link)](https://proceedings.mlr.press/v209/cina23a.html)
 
 Masking primal and dual models for data privacy in network revenue management, with U. Karaca, N. Aydın and G. Mullaoğlu, **European Journal of Operational Research**, 308(2), 818-831, 2023. 
 [(DOI)](https://doi.org/10.1016/j.ejor.2022.11.025)[(arXiv)](https://arxiv.org/abs/2102.07178)[(OO)](http://www.optimization-online.org/DB_HTML/2021/02/8253.html)
 
-Counterfactual explanations using optimization with constraint learning, with D. Maragno, D. and T. E. Röber, NeurIPS Workshop on Optimization for Machine Learning, 2022.
+Counterfactual explanations using optimization with constraint learning, with D. Maragno, D. and T. E. Röber, **NeurIPS Workshop on Optimization for Machine Learning**, 2022.
 [(link)](https://opt-ml.org/papers/2022/paper30.pdf)[(arXiv)](https://arxiv.org/abs/2209.10997)[(github)](https://github.com/tabearoeber/CE-OCL)
 
 OptiCL: A package for mixed-integer optimization with constraint learning, with D. Maragno, H. Wiberg, D. Bertsimas, D. den Hertog and A. Fajemisin, **Decision Optimization Workshop in 36th AAAI Conference on Artificial Intelligence**, Vancouver, BC, Canada, February 22 – March 1, 2022. 
@@ -172,8 +172,8 @@ Dispersion with connectivity in wireless mesh networks, with B. Yüceoğlu and �
 Managing disruptions in the multi-depot vehicle scheduling problem, with E. Uçar and İ. Muter, **Transportation Research Part B: Methodological**, 105, 249-269, 2017.
 [(DOI)](https://doi.org/10.1016/j.trb.2017.09.002)
 
-Parallelized preconditioned model building algorithm for matrix factorization, with K. Kaya, M. K. Öztürk, A. Gohari, The Third
-International Conference on Machine learning, Optimization and Big Data – MOD 2017, Volterra, Italy, 376-388, 2017.
+Parallelized preconditioned model building algorithm for matrix factorization, with K. Kaya, M. K. Öztürk, A. Gohari, **The Third
+International Conference on Machine learning, Optimization and Big Data – MOD 2017**, Volterra, Italy, 376-388, 2017.
 [(link)](https://link.springer.com/chapter/10.1007/978-3-319-72926-8_31)
 
 Delayed purchase options in single-leg revenue management, with N. Aydın and H. Topaloğlu, **Transportation Science**, 51(4), 1031-1386, 2016. 
@@ -192,7 +192,7 @@ Parallel stochastic gradient Markov chain Monte Carlo for matrix factorization m
 A. T. Cemgil, F. Öztoprak, 2014.
 [(arXiv)](http://arxiv.org/abs/1506.01418)
 
-Parallel and distributed inference in coupled tensor factorization models, with U. Şimşekli, B. Ermiş, F. Öztoprak, A. T. Cemgil, Workshop on Distributed Machine Learning and Matrix Computations, in Neural Information Processing Systems Conference (NIPS), Montréal, Quebec, Canada, 2014.
+Parallel and distributed inference in coupled tensor factorization models, with U. Şimşekli, B. Ermiş, F. Öztoprak, A. T. Cemgil, **Workshop on Distributed Machine Learning and Matrix Computations in Neural Information Processing Systems Conference (NIPS)**, Montréal, Quebec, Canada, 2014.
 [(link)](http://stanford.edu/~rezab/nips2014workshop/submits/disttensor.pdf) [(supp.)](http://stanford.edu/~rezab/nips2014workshop/submits/disttensor_sup.pdf)
 
 A network airline revenue management framework based on decomposition by origins and destinations, with J. B. G. Frenk, J. Gromicho and S. Zhang, **Transportation Science**, 48(3), 313-333, 2013. 
@@ -212,7 +212,7 @@ Solving a robust airline crew pairing problem with column generation, with İ. M
 [(DOI)](http://dx.doi.org/10.1016/j.cor.2010.11.005)
 
 A mixed integer linear programming formulation for the sparse recovery problem in compressed sensing, with N. B. Karahanoğlu, H. Erdoğan,
-IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2013), USA: IEEE, 5870-5874, 2013. 
+**IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2013)**, USA: IEEE, 5870-5874, 2013. 
 [(DOI)](http://dx.doi.org/10.1109/ICASSP.2013.6638790)
 
 Using emission functions in modeling environmentally sustainable traffic assignment policies, with O.İ. Kolak, O. Feyzioğlu, N. Noyan
@@ -230,7 +230,7 @@ A symmetric rank-one quasi-Newton method using negative curvature directions, wi
 [(DOI)](http://dx.doi.org/10.1080/10556788.2010.544311)
 
 Multicriteria sustainability evaluation of transport networks for selected European countries, with O. İ. Kolak, D. Akın, O. Feyzioğlu
-and N. Noyan, World Congress on Engineering 2011 (WCE 2011), London, UK, 2011.
+and N. Noyan, **World Congress on Engineering 2011 (WCE 2011)**, London, UK, 2011.
 [(link)](http://www.iaeng.org/publication/WCE2011/WCE2011_pp117-122.pdf)
 
 Combination of meta-heuristic and exact algorithms for solving set covering-type optimization problems, with İ. Muter and G. Şahin,
@@ -247,7 +247,7 @@ Client-contractor bargaining on net present value in the context of a project wi
 F.S. Şerifoğlu, **Naval Research Logistics**, 56(2), 93-112, 2009.
 [(DOI)](http://dx.doi.org/10.1002/nav.20331)
 
-Risk measures and their applications in asset management, with J. B. G. Frenk, B. Kaynar, N. Noyan, Chapter 15 in The VaR Implementation Handbook: Financial Risk and Applications in Asset Management, Measurement, and Modeling, edited by G. N. Gregoriou, McGraw-Hill, New York, 2009.
+Risk measures and their applications in asset management, with J. B. G. Frenk, B. Kaynar, N. Noyan, Chapter 15 in **The VaR Implementation Handbook: Financial Risk and Applications in Asset Management, Measurement, and Modeling**, edited by G. N. Gregoriou, McGraw-Hill, New York, 2009.
 [(link)](http://www.amazon.com/Implementation-Handbook-McGraw-Hill-Finance-Investing/dp/007161513X)
 
 Solving Global Optimization Problems using MANGO, with A. Günay, F. Öztoprak and P. Yolum, in Agent and Multi-Agent Systems: Technologies and Applications, Third KES International Symposium, KES-AMSTA 2009, Uppsala, Sweden - Proceedings, edited by R. Goebel, J. Siekmann and W. Wahlster, **Lecture Notes in Computer Science 5559**, 783–792 Springer, 2009.
@@ -260,13 +260,13 @@ Ulusoy, F.S. Şerifoğlu, VDM Verlag, 2009.
 Solving the sum-of-ratios problem by a stochastic search algorithm, with W.-Y. Wu and R.-L. Sheu, **Journal of Global Optimization**,  42(1), 91-109, 2008.
 [(DOI)](http://dx.doi.org/10.1007/s10898-008-9285-y)
 
-Column generation approaches to a robust airline crew pairing model for managing extra flights, with E. Çoban, D. Taç, İ. Muter, K. Bülbül, G. Şahin, Y. İ. Topçu, D. Tüzün and H. Yenigün, International Conference on Operations Research 2008, University of Augsburg, Germany, 2008.
+Column generation approaches to a robust airline crew pairing model for managing extra flights, with E. Çoban, D. Taç, İ. Muter, K. Bülbül, G. Şahin, Y. İ. Topçu, D. Tüzün and H. Yenigün, **International Conference on Operations Research 2008**, University of Augsburg, Germany, 2008.
 [(link)](http://research.sabanciuniv.edu/13088/)
 
-Implementation of a fixing strategy and parallelization in a recent global optimization method, with F. Öztoprak, EURO Mini Conference on Continuous Optimization and Knowledge-Based Technologies (EurOPT-2008), Neringa, Lithuania, 2008.
+Implementation of a fixing strategy and parallelization in a recent global optimization method, with F. Öztoprak, **EURO Mini Conference on Continuous Optimization and Knowledge-Based Technologies (EurOPT-2008)**, Neringa, Lithuania, 2008.
 [(link)](http://research.sabanciuniv.edu/10186/)
 
-MANGO: A multiagent environment for global optimization, with L. Kerçelli, A. Sezer, F. Öztoprak and P. Yolum, 1st International Workshop on Optimization in Multiagent Systems (OPTMAS), in 7th International Joint Conference on Autonomous Agents and Multi-Agent Systems (AAMAS'08), Estoril, Portugal, 2008.
+MANGO: A multiagent environment for global optimization, with L. Kerçelli, A. Sezer, F. Öztoprak and P. Yolum, **1st International Workshop on Optimization in Multiagent Systems (OPTMAS) in 7th International Joint Conference on Autonomous Agents and Multi-Agent Systems (AAMAS'08)**, Estoril, Portugal, 2008.
 [(link)](http://users.ecs.soton.ac.uk/sdr/optmas/accepted/paper11.pdf)
 
 An elementary proof of the Fritz-John and Karush-Kuhn-Tucker conditions in nonlinear programming, with J. B. G. Frenk and G.J. Still, **European Journal of Operational Research**, 180(1), 479-484, 2007.
@@ -288,11 +288,11 @@ Equilibrium constrained optimization problems, with G. Bouza, J. B. G. Frenk and
 The joint replenishment problem with variable production costs, with Z.P.Bayındır and J. B. G. Frenk, **European Journal of Operational Research**, 175(1), 622-640, 2006.
 [(DOI)](http://dx.doi.org/10.1016/j.ejor.2005.06.005)
 
-Optimizing waste collection in an organized industrial region: A case study, with T.G. Martagan, G. Ertek, M. Yaşar, A. Çakır, N. Okur, G. Güllü, A. Hacıoğlu and O. Sevim, 4th International Logistics and Supply Chain Congress, Izmir, Turkey, 2006.
+Optimizing waste collection in an organized industrial region: A case study, with T.G. Martagan, G. Ertek, M. Yaşar, A. Çakır, N. Okur, G. Güllü, A. Hacıoğlu and O. Sevim, **4th International Logistics and Supply Chain Congress**, Izmir, Turkey, 2006.
 [(link)](http://research.sabanciuniv.edu/1222/)
 
-Application of the cutting stock problem to a construction company: A case study, with S. Alp and G. Ertek, The 5th International
-Symposium On Intelligent Manufacturing Systems, Sakarya, Turkey, 2006.
+Application of the cutting stock problem to a construction company: A case study, with S. Alp and G. Ertek, **The 5th International
+Symposium On Intelligent Manufacturing Systems**, Sakarya, Turkey, 2006.
 [(link)](http://research.sabanciuniv.edu/1208/)
 
 Recursive approximation of the high dimensional _max_ function, with S.-C. Fang, J. B. G. Frenk and S. Zhang, **Operations Research Letters**, 33(5), 450-458, 2005.
@@ -301,11 +301,11 @@ Recursive approximation of the high dimensional _max_ function, with S.-C. Fang,
 On the finite termination of an entropy function based non-interior continuation method for vertical linear complementarity problem, with S.-C. Fang, J. Han and Z. Huang, **Journal of Global Optimization**, 33(3), 369-391, 2005.
 [(DOI)](http://dx.doi.org/10.1007/s10898-004-6098-5)
 
-Application of local search methods for solving a quadratic assignment problem: A case study, with G. Ertek, B.  Aksu, M. C. İkikat and C. Yıldırmaz, 35th International Conference on Computers and Industrial Engineering, Istanbul, Turkey, 2005.
+Application of local search methods for solving a quadratic assignment problem: A case study, with G. Ertek, B.  Aksu, M. C. İkikat and C. Yıldırmaz, **35th International Conference on Computers and Industrial Engineering**, Istanbul, Turkey, 2005.
 [(link)](http://research.sabanciuniv.edu/1367/)
 
 Client-contractor bargaining on net present value in the context of a project with limited resources, with N. Kavlak, G.  Ulusoy,
-F.S. Şerifoğlu, 35th International Conference on Computers and Industrial Engineering, Istanbul, Turkey, 2005.
+F.S. Şerifoğlu, **35th International Conference on Computers and Industrial Engineering**, Istanbul, Turkey, 2005.
 [(link)](http://research.sabanciuniv.edu/1369/)
 
 An entropic regularization approach for mathematical programs with equilibrium constraints, with S.-C.Fang and J. Han, **Computers and Operations Research**, 31(13), 2249-2262, 2004.
@@ -315,7 +315,7 @@ On the convergence of a population based global optimization algorithm, with S.-
 30(2), 301-318, 2004. [(DOI)](http://dx.doi.org/10.1007/s10898-004-8270-3)
 
 Solving stochastic mathematical programs with complementarity constraints using simulation: An application in toll pricing, with
-G. Gürkan and O. Listeş, 2004 Winter Simulation Conference (WSC'04), Washington, DC, USA, 2004.
+G. Gürkan and O. Listeş, **2004 Winter Simulation Conference (WSC'04)**, Washington, DC, USA, 2004.
 [(DOI)](http://www.informs-sim.org/wsc04papers/067.pdf)
 
 An electromagnetism-like mechanism for global optimization, with S.-C.Fang, **Journal of Global Optimization**, 25(3), 263-282, 2003.
@@ -330,10 +330,10 @@ New results for the capacitated lot sizing problem with overtime decisions and s
 **Production Planning and Control**, 13(1), 2-10, 2002.
 [(DOI)](http://dx.doi.org/10.1080/09537280110049272)
 
-A multi-point stochastic search method for global optimization, with S.-C. Fang, The 4th International Symposium on Operations Research
-and Its Applications - [ISORA] (http://www.aporc.org/ISORA/), Yichang-Chongqing, China, 2002.
+A multi-point stochastic search method for global optimization, with S.-C. Fang, **The 4th International Symposium on Operations Research
+and Its Applications - [ISORA]** (http://www.aporc.org/ISORA/), Yichang-Chongqing, China, 2002.
 
-A new heuristic for global optimization, with S.-C. Fang, International Workshop on Intelligent Systems Resolutions, 8th Bellman Continuum, Hsinchu, Taiwan, 2000.
+A new heuristic for global optimization, with S.-C. Fang, **International Workshop on Intelligent Systems Resolutions**, 8th Bellman Continuum, Hsinchu, Taiwan, 2000.
 
 FRACTOP: A geometric partitioning meta-heuristic for global optimization, with M. Demirhan, L. Özdamar, and L.  Helvacıoğlu, **Journal of Global Optimization**, 14(4), 415-436, 1999.
 [(DOI)](http://dx.doi.org/10.1023/A:1008384329041)
@@ -347,8 +347,8 @@ Hybrid heuristics for the capacitated lot sizing and loading problem with setup 
 A hierarchical decision support system for production planning (with case study), with L. Özdamar and M. A. Bozyel, **European Journal of Operational Research**, 104(3), 403-422, 1998. 
 [(DOI)](http://dx.doi.org/10.1016/S0377-2217(97)00016-7)
 
-A hybrid genetic algorithm for the capacitated lot sizing and loading problem, with L. Özdamar, Conference on Industrial
-Engineering and Production Management - IEPM'97, Lyon, France, 1997.
+A hybrid genetic algorithm for the capacitated lot sizing and loading problem, with L. Özdamar, **Conference on Industrial
+Engineering and Production Management (IEPM'97)**, Lyon, France, 1997.
 
-A fractal partitioning algorithm (with fuzzy measures) for optimization, with L. Özdamar, M. Demirhan and L. Helvacıoğlu, EUFIT ‘97 - 5th European Congress on Intelligent Techniques and Soft Computing, Aachen, Germany, 1997.
+A fractal partitioning algorithm (with fuzzy measures) for optimization, with L. Özdamar, M. Demirhan and L. Helvacıoğlu, **EUFIT ‘97 - 5th European Congress on Intelligent Techniques and Soft Computing**, Aachen, Germany, 1997.
 [(link)](https://www.tib.eu/en/search/id/BLCP:CN023021390/A-Fractal-Partitioning-Algorithm-with-Fuzzy-Measures?cHash=5c24f98563a35a5112229809d508ee79)

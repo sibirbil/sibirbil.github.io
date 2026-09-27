@@ -39,12 +39,7 @@ redirect_from:
 
   - Tentative Thesis Title: Digital Marketing for Online Health Communities
   - Current Position: Ph.D. candidate, University of Amsterdam
-
-- **[Lucas Vogels](https://www.uva.nl/en/profile/v/o/l.f.o.vogels/l.f.o.vogels.html)**
-
-  - Tentative Thesis Title: Bayesian Structure Learning
-  - Current Position: Ph.D. candidate, University of Amsterdam
-  
+ 
 - **[Paulina von Stackelberg](https://www.uva.nl/en/profile/s/t/p.b.vonstackelberg/p.b.von-stackelberg.html)**
 
   - Tentative Thesis Title: Predictive Process Monitoring
@@ -52,6 +47,10 @@ redirect_from:
 	
 ## Past
 
+- **[Lucas Vogels](https://www.linkedin.com/in/lucasvogels/)**
+
+  - Thesis Title: Advances in Bayesian Inference for Graphical Models and Beyond, Scalable Algorithms and Their Applications
+ 
 - **[Dr. Tabea Röber](https://www.tabea.cc/)**
 
   - Thesis Title: Interpretable Machine Learning - Optimization-based Explanations and Human-Centered Evaluation

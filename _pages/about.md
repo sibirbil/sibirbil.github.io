@@ -14,15 +14,17 @@ In the past, I had served for three years as a professor of Data Science and Opt
 
 My **research interests** center around optimization methods in artificial intelligence and decision making. Lately, I am interested in [explainable optimization](https://www.expopt.org/).
 
+We have a website dedicated to the research in [Explainable Optimization](https://www.expopt.org/). To receive updates about this exciting new field, please [join us](https://groups.google.com/g/xopt-mailing-list). 
+
 Recent News
 ------
 
-- With my coauthors, we have two new papers on arXiv. The [first one](https://arxiv.org/abs/2606.08675) is a discussion paper on Explainable Optimization, and [the second one](https://arxiv.org/abs/2606.25808) is about obtaining input distributions to explain portfolio decision pipelines.
+- Our [paper](https://arxiv.org/abs/2502.06658) with Nurşen Aydın and E. Mehmet Kıral is accepted to the the 40th Annual Conference on Neural Information Processing Systems (NeurIPS), Sydney-Atlanta-Paris, 2026.
+
+- We have started to work on certification of decision pipelines. Our first work with Wenhao Chi in this area is now on [(arXiv)](https://arxiv.org/abs/2608.04474).
+
+- With my co-authors Ezgi Öztekin and Figen Öztoprak, we have started to work on dynamic constraint learning in optimization. Our first experiments are on [(arXiv)](https://arxiv.org/abs/2607.25719).
+
+- We have two new papers on arXiv. The [first one](https://arxiv.org/abs/2606.08675) is a discussion paper on Explainable Optimization, and [the second one](https://arxiv.org/abs/2606.25808) is about obtaining input distributions to explain portfolio decision pipelines.
   
 - Our [paper](https://arxiv.org/abs/2601.21789) with Adia Lumadjeng and Erman Acar is accepted to the 43rd International Conference on Machine Learning (ICML), Seoul, South Korea, 2026.
-
-- Together with Karen Aardal, we are organizing a session titled __Methods and Applications in Optimization and AI__ at [The SIAM Conference on Optimization (OP26)](https://www.siam.org/conferences-events/siam-conferences/op26/).
-
-- I am organizing a session titled __Explainable Optimization and AI__ at [The 24th Conference of the International Federation of Operational Research Societies (IFORS)](https://ifors2026.at/home/).
-
-- We have a new website dedicated to the research in [Explainable Optimization](https://www.expopt.org/). To receive updates about this exciting new field, please [join us](https://groups.google.com/g/xopt-mailing-list). 

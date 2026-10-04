@@ -50,6 +50,7 @@ redirect_from:
 - **[Dr. Lucas Vogels](https://www.linkedin.com/in/lucasvogels/)**
 
   - Thesis Title: Advances in Bayesian Inference for Graphical Models and Beyond, Scalable Algorithms and Their Applications
+  - Current Position: Data Scientist, Ampowr
  
 - **[Dr. Tabea Röber](https://www.tabea.cc/)**
 

@@ -13,6 +13,9 @@ redirect_from:
 Guided data generation for understanding model behavior, with E. M. Kıral and N. Aydın, **Proceedings of the 40th Annual Conference on Neural Information Processing Systems (NeurIPS)**, Sydney-Atlanta-Paris, 2026. 
 [(arXiv)](https://arxiv.org/abs/2502.06658)[(github)](https://github.com/sibirbil/EvD)
 
+Coherent local explanations for mathematical optimization, with D. Otto and J. Kurtz,  to appear in **Optimization Letters**, 2026.
+[(arXiv)](https://arxiv.org/abs/2502.04840)[(github)](https://github.com/daanotto/CLEMO)
+
 How simple can it get? From interpretable equations to readable rules for financial decision making, with A. Lumadjeng and E. Acar, 2026.
 [(arXiv)](https://arxiv.org/abs/2608.09433)
 
@@ -71,9 +74,6 @@ Scalable Bayesian structure learning for Gaussian graphical models using margina
 
 Output-constrained decision trees, with H. Tunç, D. Özese, D. Maragno, M. Caserta and Mustafa Baydoğan, 2025.
 [(arXiv)](https://arxiv.org/abs/2405.15314)[(github)](https://github.com/sibirbil/OCRT)
-
-Coherent local explanations for mathematical optimization, with D. Otto and J. Kurtz, 2025.
-[(arXiv)](https://arxiv.org/abs/2502.04840)[(github)](https://github.com/daanotto/CLEMO)
 
 Learning with subset stacking, with S. Yıldırım,  S. Çopur and H. Akyüz, 2025.
 [(arXiv)](https://arxiv.org/abs/2112.06251)[(github)](https://github.com/sibirbil/LESS)

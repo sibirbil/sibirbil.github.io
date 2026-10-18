@@ -10,6 +10,9 @@ redirect_from:
 
 (_Please note that the published papers can be slightly different from their open access versions._)
 
+Learning an interpretable risk scoring system for maximizing decision net benefit, with W. Chi, to appear in **Machine Learning**, 2026.
+[(arXiv)](https://arxiv.org/abs/2604.04241)[(github)](https://github.com/ccwwhh100/RSS_DNB)
+
 Guided data generation for understanding model behavior, with E. M. Kıral and N. Aydın, **Proceedings of the 40th Annual Conference on Neural Information Processing Systems (NeurIPS)**, Sydney-Atlanta-Paris, 2026. 
 [(arXiv)](https://arxiv.org/abs/2502.06658)[(github)](https://github.com/sibirbil/EvD)
 
@@ -30,9 +33,6 @@ Generating input distributions for explaining portfolio optimization pipelines, 
 
 Explainable optimization: a call for interdisciplinary action, with N. Aydın, İ. Küçükparlak, A. Yalçıntaş, 2026.
 [(arXiv)](https://arxiv.org/abs/2606.08675)
-
-Learning an interpretable risk scoring system for maximizing decision net benefit, with W. Chi, 2026.
-[(arXiv)](https://arxiv.org/abs/2604.04241)
 
 Multiple jump MCMC: A scalable algorithm for Bayesian inference on binary model spaces, with L. Vogels, R. Mohammadi, M. Schoonhoven and S. Yildirim, 2026.
 [(arXiv)](https://arxiv.org/abs/2603.22573)

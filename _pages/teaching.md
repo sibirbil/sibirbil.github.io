@@ -14,13 +14,11 @@ Mathematical Programming and Optimization, undergraduate, University of Amsterda
 
 Optimization for Machine Learning, graduate, [LNMB](https://www.lnmb.nl/)
 
-Optimization and Machine Leaning, graduate, University of Amsterdam
+Optimization and Machine Learning, graduate, University of Amsterdam
 
 Operations Resarch - Deterministic Methods, undergraduate, University of Amsterdam
 
-Operations Resarch - Deterministic Methods, undergraduate, University of Amsterdam
-
-Machine Learning with Python for Audit Data Science, professional degree program, University of Amsterdam
+Machine Learning, undergraduate, University of Amsterdam
 
 Machine Learning, graduate, Erasmus University Rotterdam
 

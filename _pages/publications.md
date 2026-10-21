@@ -73,7 +73,7 @@ Scalable Bayesian structure learning for Gaussian graphical models using margina
 [(DOI)](https://doi.org/10.1214/25-BA1561)[(arXiv)](https://arxiv.org/abs/2307.00127)
 
 Output-constrained decision trees, with H. Tunç, D. Özese, D. Maragno, M. Caserta and Mustafa Baydoğan, 2025.
-[(arXiv)](https://arxiv.org/abs/2405.15314)[(github)](https://github.com/sibirbil/OCRT)
+[(arXiv)](https://arxiv.org/abs/2405.15314)[(github)](https://github.com/INFORMSJoC/2025.1389)
 
 Learning with subset stacking, with S. Yıldırım,  S. Çopur and H. Akyüz, 2025.
 [(arXiv)](https://arxiv.org/abs/2112.06251)[(github)](https://github.com/sibirbil/LESS)

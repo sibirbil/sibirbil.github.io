@@ -10,7 +10,7 @@ redirect_from:
 
 (_Please note that the published papers can be slightly different from their open access versions._)
 
-Output-constrained decision trees, with H. Tunç, D. Özese, D. Maragno, M. Caserta, and M. Baydoğan, to apper in **INFORMS Journal on Computing**, 2026.
+Output-constrained decision trees, with H. Tunç, D. Özese, D. Maragno, M. Caserta, and M. Baydoğan, to appear in **INFORMS Journal on Computing**, 2026.
 [(arXiv)](https://arxiv.org/abs/2405.15314)[(github)](https://github.com/INFORMSJoC/2025.1389)
 
 Learning an interpretable risk scoring system for maximizing decision net benefit, with W. Chi, to appear in **Machine Learning**, 2026.

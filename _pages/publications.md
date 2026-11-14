@@ -10,6 +10,9 @@ redirect_from:
 
 (_Please note that the published papers can be slightly different from their open access versions._)
 
+Output-constrained decision trees, with H. Tunç, D. Özese, D. Maragno, M. Caserta, and M. Baydoğan, to apper in **INFORMS Journal on Computing**, 2026.
+[(arXiv)](https://arxiv.org/abs/2405.15314)[(github)](https://github.com/INFORMSJoC/2025.1389)
+
 Learning an interpretable risk scoring system for maximizing decision net benefit, with W. Chi, to appear in **Machine Learning**, 2026.
 [(arXiv)](https://arxiv.org/abs/2604.04241)[(github)](https://github.com/ccwwhh100/RSS_DNB)
 
@@ -71,9 +74,6 @@ Clinicians' voice: fundamental considerations for XAI in healthcare, with T. E. 
 
 Scalable Bayesian structure learning for Gaussian graphical models using marginal pseudo-likelihood, with R. Mohammadi, M. Schoonhoven and L. Vogels, **Bayesian Analysis**, 1-31, 2025.
 [(DOI)](https://doi.org/10.1214/25-BA1561)[(arXiv)](https://arxiv.org/abs/2307.00127)
-
-Output-constrained decision trees, with H. Tunç, D. Özese, D. Maragno, M. Caserta and Mustafa Baydoğan, 2025.
-[(arXiv)](https://arxiv.org/abs/2405.15314)[(github)](https://github.com/INFORMSJoC/2025.1389)
 
 Learning with subset stacking, with S. Yıldırım,  S. Çopur and H. Akyüz, 2025.
 [(arXiv)](https://arxiv.org/abs/2112.06251)[(github)](https://github.com/sibirbil/LESS)

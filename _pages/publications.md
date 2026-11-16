@@ -29,7 +29,7 @@ Local violation certification for linear predict-then-optimize pipelines, with W
 [(arXiv)](https://arxiv.org/abs/2608.04474)
 
 Optimization with dynamic constraint learning (DCL), with E. Öztekin and F. Öztoprak, 2026.
-[(arXiv)](https://arxiv.org/abs/2607.25719)
+[(arXiv)](https://arxiv.org/abs/2607.25719)[(github)](https://github.com/sibirbil/OPTwDCL)
 
 Generating input distributions for explaining portfolio optimization pipelines, with B. Ataş, N. Aydın and E. M. Kıral, 2026.
 [(arXiv)](https://arxiv.org/abs/2606.25808)[(github)](https://github.com/sibirbil/Predict-Optimize-Explain)[(related presentation)](../files/poe/POE_presentation.html)
